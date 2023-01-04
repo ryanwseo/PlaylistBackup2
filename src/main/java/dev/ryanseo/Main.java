@@ -38,21 +38,20 @@ public class Main {
     public static void main(String[] args)
             throws GeneralSecurityException, IOException, GoogleJsonResponseException {
 
-        try {
-            ArrayList<Video> playlistVideos = PlaylistActions.savePlaylist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2", DEVELOPER_KEY);
+        ArrayList<Video> playlistVideos = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2", DEVELOPER_KEY);
 
-            int counter = 0;
-            for (Video v : playlistVideos) {
-                System.out.println(v.getTitle() + "  |  ID: " + v.getVideoId());
-                counter++;
+        for (Video v : playlistVideos) {
+            if (v.getTitle() != null) {
+                System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle());
+            } else {
+                throw new RuntimeException("A misbehaving video is present in playlist");
             }
-            System.out.println();
-            System.out.println(counter + " videos");
-            System.out.println("Latest video: " + playlistVideos.get(0).getTitle() + " by " + playlistVideos.get(0).getVideoOwnerChannelTitle());
-
-        } catch (Exception e) {
-            e.printStackTrace();
         }
 
+        System.out.println();
+        System.out.println(playlistVideos.size() + " videos");
+        System.out.println("Latest video: " + playlistVideos.get(0).getTitle() + " by " + playlistVideos.get(0).getVideoOwnerChannelTitle());
+
+        PlaylistActions.saveVideosToJson(playlistVideos);
     }
 }

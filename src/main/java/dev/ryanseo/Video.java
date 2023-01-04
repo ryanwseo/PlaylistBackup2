@@ -8,10 +8,9 @@ public class Video {
     private String videoOwnerChannelId;
     private String videoOwnerChannelTitle;
     private PrivacyStatus privacyStatus;
-
-    // high resolution
     @SerializedName("url")
     private String thumbnailUrl;
+    private boolean isAvailable;
 
     public Video(String videoId, String title, String videoOwnerChannelId, String videoOwnerChannelTitle, PrivacyStatus privacyStatus, String thumbnailUrl) {
         this.videoId = videoId;
@@ -20,6 +19,9 @@ public class Video {
         this.videoOwnerChannelTitle = videoOwnerChannelTitle;
         this.privacyStatus = privacyStatus;
         this.thumbnailUrl = thumbnailUrl;
+    }
+
+    public Video() {
     }
 
     public String getVideoId() {
@@ -44,6 +46,10 @@ public class Video {
 
     public String getThumbnailUrl() {
         return thumbnailUrl;
+    }
+
+    public boolean isAvailable() {
+        return isAvailable;
     }
 
     @Override

@@ -7,82 +7,82 @@ import com.google.gson.reflect.TypeToken;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.lang.reflect.Type;
 import java.security.GeneralSecurityException;
 import java.util.ArrayList;
-import java.util.Collection;
+import java.util.LinkedList;
 
 import static com.google.gson.JsonParser.parseString;
 
 public class PlaylistActions {
     /**
-     * Returns an ArrayList of Videos in a playlist
+     * Returns an ArrayList of Videos from a playlist
      *
-     * @param playlistId ID of saved playlist
+     * @param playlistId ID of playlist
      * @param DEVELOPER_KEY Developer key
      * @return ArrayList of Videos
      */
-    public static ArrayList<Video> savePlaylist(String playlistId, String DEVELOPER_KEY) throws GeneralSecurityException, IOException {
-
-        YouTube youtubeService = Main.getService();
-
-        YouTube.PlaylistItems.List request = youtubeService.playlistItems().list("status, snippet");
-        request.setMaxResults(50L);
-
-        PlaylistItemListResponse response = request.setKey(DEVELOPER_KEY)
-                .setPlaylistId(playlistId)
-                .execute();
-
-        FileWriter writer = new FileWriter("src/main/resources/playlist_data.json");
-        writer.append(response.toPrettyString());
-        writer.close();
-
-
-        JsonArray itemsArray = parseString(response.toString()).getAsJsonObject().getAsJsonArray("items");
+    public static ArrayList<Video> retrievePlaylist(String playlistId, String DEVELOPER_KEY) throws GeneralSecurityException, IOException {
 
         GsonBuilder gsonBuilder = new GsonBuilder();
-        gsonBuilder.registerTypeAdapter(Video.class, (JsonDeserializer<Video>) (json, typeOfT, context) -> {
-            // json is an element of itemsArray
-            JsonObject itemsArrayObject = json.getAsJsonObject();
-            JsonObject snippet = itemsArrayObject.getAsJsonObject("snippet");
+        gsonBuilder.registerTypeAdapter(Video.class, new JsonDeserializer<Video>() {
+            @Override
+            public Video deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context) throws JsonParseException {
+                // json is an element of itemsArray
+                JsonObject itemsArrayObject = json.getAsJsonObject();
+                JsonObject snippet = itemsArrayObject.getAsJsonObject("snippet");
 
-            Video fromPlaylist;
-            try {
-                fromPlaylist = new Video(snippet.getAsJsonObject("resourceId").get("videoId").getAsString(),
-                        snippet.get("title").getAsString(),
-                        snippet.get("videoOwnerChannelId").getAsString(),
-                        snippet.get("videoOwnerChannelTitle").getAsString(),
-                        PrivacyStatus.valueOf(itemsArrayObject.getAsJsonObject("status").get("privacyStatus").getAsString().toUpperCase()),
-                        snippet.getAsJsonObject("thumbnails").getAsJsonObject("high").get("url").getAsString());
-            } catch (NullPointerException e) {
-                throw new NullPointerException();
+                Video fromPlaylist;
+                try {
+                    fromPlaylist = new Video(
+                            snippet.getAsJsonObject("resourceId").get("videoId").getAsString(),
+                            snippet.get("title").getAsString(),
+                            snippet.get("videoOwnerChannelId").getAsString(),
+                            snippet.get("videoOwnerChannelTitle").getAsString(),
+                            PrivacyStatus.valueOf(itemsArrayObject.getAsJsonObject("status").get("privacyStatus").getAsString().toUpperCase()),
+                            snippet.getAsJsonObject("thumbnails").getAsJsonObject("high").get("url").getAsString());
+                } catch (NullPointerException e) {
+                   fromPlaylist = new Video();
+                }
+                return fromPlaylist;
             }
-
-            return fromPlaylist;
         });
 
-        gsonBuilder.registerTypeAdapter()
-                ?70
+        LinkedList<Video> playlistVideos = new LinkedList<>();
 
-        ArrayList<Video> playlistVideos;
+        FileWriter writer = new FileWriter("src/main/resources/raw_playlist_data.json");
+        writer.append('[');
 
-        int videoProcessed = 0;
-        try {
-            TypeToken<Collection<Video>> collectionType = new TypeToken<>(){};
-            playlistVideos = new ArrayList<>(gsonBuilder.create().fromJson(itemsArray.toString(), collectionType));
-            videoProcessed += 50;
+        YouTube.PlaylistItems.List request = Main.getService().playlistItems().list("status, snippet");
+        PlaylistItemListResponse response = request.setKey(DEVELOPER_KEY)
+                .setPlaylistId(playlistId)
+                .setMaxResults(50L)
+                .execute();
+        JsonArray itemsArray = parseString(response.toString()).getAsJsonObject().getAsJsonArray("items");
+        playlistVideos.addAll(gsonBuilder.create().fromJson(itemsArray.toString(), new TypeToken<LinkedList<Video>>(){}.getType()));  // TypeToken is a class literal for LinkedList<Video>
+        writer.append(response.toPrettyString()).append(", ");
 
-            while (response.getNextPageToken() != null) {
-                request.setPageToken(response.getNextPageToken());
-                response = request.execute();
-                itemsArray = parseString(response.toString()).getAsJsonObject().getAsJsonArray("items");
-                playlistVideos.addAll(gsonBuilder.create().fromJson(itemsArray.toString(), collectionType));
-                videoProcessed += 50;
+        while (response.getNextPageToken() != null) {
+            response = request.setPageToken(response.getNextPageToken()).execute();
+            itemsArray = parseString(response.toString()).getAsJsonObject().getAsJsonArray("items");
+            playlistVideos.addAll(gsonBuilder.create().fromJson(itemsArray.toString(), new TypeToken<LinkedList<Video>>(){}.getType()));
+
+            writer.append(response.toPrettyString());
+            if (response.getNextPageToken() != null) {
+                writer.append(", ");
             }
-        } catch (NullPointerException e) {
-            throw new NullPointerException("Video processed: " + videoProcessed);
         }
+        writer.append(']');
+        writer.close();
 
-        return playlistVideos;
+        return new ArrayList<>(playlistVideos);
     }
 
+    /**
+     *
+     * @param videos
+     */
+    public static void saveVideosToJson(ArrayList<Video> videos) {
+
+    }
 }

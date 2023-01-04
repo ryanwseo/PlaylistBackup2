@@ -1,5 +1,5 @@
 package dev.ryanseo;
 
 public enum PrivacyStatus {
-    PUBLIC, PRIVATE, UNLISTED
+    PUBLIC, PRIVATE, UNLISTED, PRIVACYSTATUSUNSPECIFIED
 }
