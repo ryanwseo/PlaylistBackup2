@@ -57,6 +57,7 @@ public class PlaylistActions {
         PlaylistItemListResponse response = request.setKey(DEVELOPER_KEY)
                 .setPlaylistId(playlistId)
                 .setMaxResults(50L)
+                .setPageToken(null)  // rewrite this part
                 .execute();
         JsonArray itemsArray = parseString(response.toString()).getAsJsonObject().getAsJsonArray("items");
         playlistVideos.addAll(gsonBuilder.create().fromJson(itemsArray.toString(), new TypeToken<LinkedList<Video>>(){}.getType()));  // TypeToken is a class literal for LinkedList<Video>
