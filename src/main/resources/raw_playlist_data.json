@@ -1,7 +1,7 @@
 [{
-  "etag" : "lgNMp3be0lCG0Fj_FtAn_9uyWzU",
+  "etag" : "oSSxIc951yEOaVWnh6Hkqaz7cSY",
   "items" : [ {
-    "etag" : "K9F1SFT-aEwDZNtwq4DwQEfXpOs",
+    "etag" : "yt7lRq4moOcJFOtAFyI_cijPmfg",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42N0JCQUJENEYyNENFODkz",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -197,7 +197,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "2EuR0VcRrsHo7qe4FzraYcukJxI",
+    "etag" : "KJpObbAfUr0LnohObzZka9Abk_E",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BMTVCOURDRUFENEI0MzQx",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -721,7 +721,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "W1fxKZ3m-IR3Hs5q9Fkn1794cEk",
+    "etag" : "-J9tAQ4s8_XGCyGxwrZSCiLTiEw",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4wRkUyRkE4QkRGN0RFNDM5",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -1289,7 +1289,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "sV8xkBee1LXqmIyU68b4sVGHzFQ",
+    "etag" : "_AAqZ_-oh3U4QY_i6pSUQm6Sx4g",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5ENjBBMUU1QjQ5QUZEMTE3",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -1338,7 +1338,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "OCO_p6PCyZooZauL6StU1Tbb_Jo",
+    "etag" : "nJav0Rp8NyTXaP4OYfd3qcFAmvQ",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5EQUIyNDM1MzU2NTU0MjlE",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -2166,7 +2166,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "M2v0bZlWBpg-1Mngvah9oLJoTWM",
+    "etag" : "eJrALL_6blFsjQgJgAqLBGffmW0",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xRTYwMDMzMTFGMkE3RkMy",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -9668,7 +9668,7 @@
   },
   "prevPageToken" : "EAEaB1BUOkNKWUI"
 }, {
-  "etag" : "EUuCi1ryf4WGmiSmrRMgNB-o_Iw",
+  "etag" : "9rIhMKbkh4lkjaOm17SOS5ejzCc",
   "items" : [ {
     "etag" : "KTYKlJAGPdPS-lgxd8MMr9KTluI",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi45QTdFNDExQzQ3NzQyOTlC",
@@ -9719,7 +9719,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "8tUFTpUqiTNq3-74X1HSwb5f4bE",
+    "etag" : "M4G8EOqGbg4_infBjRdIM7OHlTQ",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43MEQ5RjM3MDJBRjE3NDNB",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -10689,13 +10689,13 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "vdiNG-qR_dRbTV_kBJwPUR-jg9M",
+    "etag" : "yj289UDAr81CU2zXOA9HYmVkRT0",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4wNzAzQUE2RTAzMzFGRkZE",
     "kind" : "youtube#playlistItem",
     "snippet" : {
       "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
       "channelTitle" : "mikeeei",
-      "description" : "syudouです。\n仮面を脱ぎ捨て歩き出す曲です。\n\n作詞・作曲・歌/syudou(https://twitter.com/tikandame)\n動画/ヤスタツ(https://twitter.com/yasutatsu_)\n編曲/syudou・Naoki Itai(https://twitter.com/NaokI_Edge)\nBass/Sakurai Rock(https://twitter.com/rocksakurai)\nA.Guitar,Sitar,Bouzouki,Mandolin/Yuta Watanabe(https://twitter.com/watanabeyuta_gt)\nE.Guitar,Programming/Naoki Itai\nA.Piano,Pianica/Nao Nishimura(https://twitter.com/nyaoyan1008)\n\nカラオケ/歌詞 https://piapro.jp/syudou\n配信 https://syudou.lnk.to/Noroshi\n\n----------------\nsyudou Live 2023「我武者羅」\n日時：2023年4月8日(土) 開場16:00/開演18:00\n会場：幕張メッセイベントホール\nチケット料金：全席指定 6,600円 (税込) 特典付\nお問い合わせ：DISK GARAGE：050-5533-0888（平日12:00-15:00）\nsyudou Live 2023「我武者羅」Teaser\nhttps://youtu.be/5gaXZnoYWCE\n----------------\n最新曲「笑うな！」\nhttps://youtu.be/Ysk-u2svFb4\n配信：https://syudou.lnk.to/Warauna\n----------------\n\n「狼煙」\n\nあの歓楽街の場末のバーに\n寄り道しなければ良かったんだ\nしたら鮮血も汗も垂らさずに\n楽にいれそうだった\nけど何万回やったってきっと\nあの歌にやられちまって最後　\n深い快楽奈落に堕ちていく\n\n正攻法は歌わねぇ\nだって正解なんざ裏の裏\n\nさぁ松明に火を灯せ\nその地の行く末 アナタの影\n快楽に身を委ね\n己が進めば道は遥か\nアナタが残した言葉なら\nそれでも構わず受け止める　　\n\nまた懐古を崇拝 烏合の集会\n口揃え「あの頃は良かった」って\n笑っちゃいるけど悲しい表情\nそんな目で俺を見んな\nただ何億回やったって絶対\nまたこの時代を選んで生きたい\n息を吸って粋に生きイキるだけ\n\nそれでも松明に火を灯せ\n傷口を炎で焼いて塞げ　　　　　　　　\n冷徹な眼差しに\nその身焦がれども進む業火\n油は売らずに身に乗せる\n愚か者が故登るだけ\n\n大行進を引き連れとうとう\n最前線へ殴り込み\n\nさぁ松明に火を灯せ\nその地の行く末 貴方の影\n快楽に身を委ね\n己が進めば道は遥か\nアナタが残した言葉なら\nそれでも構わず受け止める\n今馬鹿見る覚悟の愚直さで\n仮面を脱ぎ捨て歩き出す\n\n________________________________________________________________\n「たりねぇ」\nhttps://youtu.be/GM3grhxaxZM\nhttps://syudou.lnk.to/Tarine\n________________________________________________________________\nTwitter:  　 https://twitter.com/tikandame\nInstagram: https://www.instagram.com/syudou279/\nTikTok:       https://www.tiktok.com/@syudou\nHP:              https://www.syudou.com\nアプリ:       https://syudou.com/app/\n________________________________________________________________\n#狼煙\n#syudou​",
+      "description" : "syudouです。\n仮面を脱ぎ捨て歩き出す曲です。\n\n作詞・作曲・歌/syudou(https://twitter.com/tikandame)\n動画/ヤスタツ(https://twitter.com/yasutatsu_)\n編曲/syudou・Naoki Itai(https://twitter.com/NaokI_Edge)\nBass/Sakurai Rock(https://twitter.com/rocksakurai)\nA.Guitar,Sitar,Bouzouki,Mandolin/Yuta Watanabe(https://twitter.com/watanabeyuta_gt)\nE.Guitar,Programming/Naoki Itai\nA.Piano,Pianica/Nao Nishimura(https://twitter.com/nyaoyan1008)\n\nカラオケ/歌詞 https://piapro.jp/syudou\n配信 https://syudou.lnk.to/Noroshi\n\n----------------\nsyudou Live 2023「我武者羅」\n日時：2023年4月8日(土) 開場16:00/開演18:00\n会場：幕張メッセイベントホール\nチケット料金：全席指定 6,600円 (税込) 特典付\nチケットぴあ：https://w.pia.jp/t/syudou-c/\nローソンチケット：https://l-tike.com/syudou/\nイープラス：https://eplus.jp/syudou/\nお問い合わせ：DISK GARAGE：050-5533-0888（平日12:00-15:00）\nsyudou Live 2023「我武者羅」Teaser\nhttps://youtu.be/5gaXZnoYWCE\n----------------\n最新曲「笑うな！」\nhttps://youtu.be/Ysk-u2svFb4\n配信：https://syudou.lnk.to/Warauna\n----------------\n\n「狼煙」\n\nあの歓楽街の場末のバーに\n寄り道しなければ良かったんだ\nしたら鮮血も汗も垂らさずに\n楽にいれそうだった\nけど何万回やったってきっと\nあの歌にやられちまって最後　\n深い快楽奈落に堕ちていく\n\n正攻法は歌わねぇ\nだって正解なんざ裏の裏\n\nさぁ松明に火を灯せ\nその地の行く末 アナタの影\n快楽に身を委ね\n己が進めば道は遥か\nアナタが残した言葉なら\nそれでも構わず受け止める　　\n\nまた懐古を崇拝 烏合の集会\n口揃え「あの頃は良かった」って\n笑っちゃいるけど悲しい表情\nそんな目で俺を見んな\nただ何億回やったって絶対\nまたこの時代を選んで生きたい\n息を吸って粋に生きイキるだけ\n\nそれでも松明に火を灯せ\n傷口を炎で焼いて塞げ　　　　　　　　\n冷徹な眼差しに\nその身焦がれども進む業火\n油は売らずに身に乗せる\n愚か者が故登るだけ\n\n大行進を引き連れとうとう\n最前線へ殴り込み\n\nさぁ松明に火を灯せ\nその地の行く末 貴方の影\n快楽に身を委ね\n己が進めば道は遥か\nアナタが残した言葉なら\nそれでも構わず受け止める\n今馬鹿見る覚悟の愚直さで\n仮面を脱ぎ捨て歩き出す\n\n________________________________________________________________\n「たりねぇ」\nhttps://youtu.be/GM3grhxaxZM\nhttps://syudou.lnk.to/Tarine\n________________________________________________________________\nTwitter:  　 https://twitter.com/tikandame\nInstagram: https://www.instagram.com/syudou279/\nTikTok:       https://www.tiktok.com/@syudou\nHP:              https://www.syudou.com\nアプリ:       https://syudou.com/app/\n________________________________________________________________\n#狼煙\n#syudou​",
       "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
       "position" : 221,
       "publishedAt" : "2022-04-30T14:42:53.000Z",
@@ -10787,7 +10787,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "X6jGVx3MTHqla2uPhDUtq0XQHkc",
+    "etag" : "ARG8lMFKcFQLt8IGIGrjqPZzbt0",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi41QUY5QzY4NDZCRDhFRTEw",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -11174,7 +11174,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "XvvTg9unIhnA7oebbfnKhmEu2js",
+    "etag" : "mwiTSCobXjCYF-RpOBwTBoR-pew",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BNEYxQjY2RTFEQ0ZEMjcw",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -11713,7 +11713,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "RTOhY3GZfO694VMf5aIg7yPHTXM",
+    "etag" : "b6eTxe_BtXaCoWC7j4Qx3SPSyzs",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zMThCQUQwNDExRUYyQ0JC",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -14518,7 +14518,7 @@
   },
   "prevPageToken" : "EAEaB1BUOkNQb0I"
 }, {
-  "etag" : "xHFr9AGWYz2luQjO22RYGxhrWK0",
+  "etag" : "E0ANv7MhVy9NkbmJO_5hFIU-fE0",
   "items" : [ {
     "etag" : "C88euRnRVZ3efcsB9FphiRu2RpM",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43QzQ5MUVCMEQ2QzJERjI1",
@@ -16009,7 +16009,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "_7bm2mnX7qN-2mq9B52fyF6NX2U",
+    "etag" : "SLSwcr_KQR8LSQRLgEs9G1z0nCY",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BRjY5QjMzMTgzMkMxODY1",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -16938,7 +16938,7 @@
   },
   "prevPageToken" : "EAEaB1BUOkNLd0M"
 }, {
-  "etag" : "2NqKOne3gpzfF9Os-3HAD4F2ueA",
+  "etag" : "GNTXI3mA6hidz13a62yHGtQwNWc",
   "items" : [ {
     "etag" : "SNfy9rWgWecCGMYGExW_vBEOC9s",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi41MTA4RkYwMjM4QzhBNTE3",
@@ -17229,13 +17229,13 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "IQrcsPaiyQwK6vsJiDs6h6j1qNg",
+    "etag" : "TSPfiWcyX8vjARO6MWAcJUvI2R8",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5CNzc5NTU4RTg3Q0EyRUZE",
     "kind" : "youtube#playlistItem",
     "snippet" : {
       "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
       "channelTitle" : "mikeeei",
-      "description" : "syudouです。\n教育に良い曲です。\n\n曲・歌/syudou(https://twitter.com/tikandame)\n動画/ヤスタツ(https://twitter.com/yasutatsu_)\nGuitar/サトウカツシロ\n\nカラオケ/歌詞 https://piapro.jp/syudou\n配信 https://syudou.lnk.to/Toriatsukaichui\n\n----------------\nsyudou Live 2023「我武者羅」\n日時：2023年4月8日(土) 開場16:00/開演18:00\n会場：幕張メッセイベントホール\nチケット料金：全席指定 6,600円 (税込) 特典付\nお問い合わせ：DISK GARAGE：050-5533-0888（平日12:00-15:00）\nsyudou Live 2023「我武者羅」Teaser\nhttps://youtu.be/5gaXZnoYWCE\n----------------\n最新曲「笑うな！」\nhttps://youtu.be/Ysk-u2svFb4\n配信：https://syudou.lnk.to/Warauna\n----------------\n\n「取扱注意」\n\n踊りだそう話そうアナタこそ理想\nそうなのでとどのつまり息が詰まりそう\n正そうカマそう笑かしていこう　　　　　　　\nもっと揶揄われて不快さ増していこう　　　\n\n俺は暗い吐くくらい教育に悪い　　　　　　　　　　　　　　　　　　　　　　　\n瑕疵と化した歌詞解かしちゃ右に出るのナシ\n明るいがダルい内容が軽い\n漢字卍多め共にゃ騙されない　　\n\n嗚呼もう最高に嫌\n\nねぇお嬢ちゃん 裸になって大人になって\n終いには飛び込む海の中\n優しくなって慰め合って繋いだ手のひら\n嗚呼もう独りじゃない\n孤独じゃない孤独じゃないけどさ\nまだ心巣食ってる獣とは\n引き続きやっていこう\n\n今夜のシチューはマトン 絡まって富んだ混沌\nポケットにはメリーがいなきゃ酷く味気ない\nリイシューの詩集 繁華街は異臭\n奴らこそ俺狂わせた張本人\n\nそう天才でも変態でも繊細でもないからこそ\n限界まで全開まで絶対書く魂胆さ\n誰か様のブッブーに左フック\n次のフックもlike a 究極の本\n\n嗚呼もう最高で嫌\n\nなぁお兄さん悲しくなって逆さになって\n終わるために建てるビルは嫌だ\n見下しあって目配せあって流した目の下\n全然悔しくない虚しくない\nってそんな訳ないけどさ\nそのおかげで口座にゃ不労所得　　\n足向け寝れん一生\n\n飲めば飲むほど行けば行くほど  \n漏れるこの血を誰も止めてはくれないけど\nアナタの為の轍とならば　　　　　　　　　　　　\nこの身をいくつ捧げても　\n\n更に書こう無加工 恥もまたかこう 　　　　　　　\n何となくの文字の並び誰も救わない\n骸を綴ろう 忖度は無用　　　　　　　　\nなんならピースから1つ差し引いて\n\nもう一回 ねぇお嬢ちゃん\n\n裸になって大人になって\n終いには飛び込む海の中\n優しくなって慰め合って繋いだ手のひら\n辛くもなってまだ苦はあって\nサワーでスイートなこの歌は\n誰の理解も利害も要んない自分だけのもの\n絶対教育上よろしくないよろしくないけどさ\nでもこのまま行ったらどう死ぬの？\n試してみようと思う\n\nちゃんとしない事をもっとちゃんとしよう\n無知な奴に何と言われようと構わない\n騙そう晒そうもっとやらかそう\nさぁご覧あそばせ\n\n________________________________________________________________\n「ギャンブル」\nhttps://youtu.be/7GBn6IuTQ6w\nhttps://syudou.lnk.to/Gambling\n________________________________________________________________\nTwitter:  　 https://twitter.com/tikandame\nInstagram: https://www.instagram.com/syudou279/\nTikTok:       https://www.tiktok.com/@syudou\nHP:              https://www.syudou.com\n________________________________________________________________\n#取扱注意\n#syudou​",
+      "description" : "syudouです。\n教育に良い曲です。\n\n曲・歌/syudou(https://twitter.com/tikandame)\n動画/ヤスタツ(https://twitter.com/yasutatsu_)\nGuitar/サトウカツシロ\n\nカラオケ/歌詞 https://piapro.jp/syudou\n配信 https://syudou.lnk.to/Toriatsukaichui\n\n----------------\nsyudou Live 2023「我武者羅」\n日時：2023年4月8日(土) 開場16:00/開演18:00\n会場：幕張メッセイベントホール\nチケット料金：全席指定 6,600円 (税込) 特典付\nチケットぴあ：https://w.pia.jp/t/syudou-c/\nローソンチケット：https://l-tike.com/syudou/\nイープラス：https://eplus.jp/syudou/\nお問い合わせ：DISK GARAGE：050-5533-0888（平日12:00-15:00）\nsyudou Live 2023「我武者羅」Teaser\nhttps://youtu.be/5gaXZnoYWCE\n----------------\n最新曲「笑うな！」\nhttps://youtu.be/Ysk-u2svFb4\n配信：https://syudou.lnk.to/Warauna\n----------------\n\n「取扱注意」\n\n踊りだそう話そうアナタこそ理想\nそうなのでとどのつまり息が詰まりそう\n正そうカマそう笑かしていこう　　　　　　　\nもっと揶揄われて不快さ増していこう　　　\n\n俺は暗い吐くくらい教育に悪い　　　　　　　　　　　　　　　　　　　　　　　\n瑕疵と化した歌詞解かしちゃ右に出るのナシ\n明るいがダルい内容が軽い\n漢字卍多め共にゃ騙されない　　\n\n嗚呼もう最高に嫌\n\nねぇお嬢ちゃん 裸になって大人になって\n終いには飛び込む海の中\n優しくなって慰め合って繋いだ手のひら\n嗚呼もう独りじゃない\n孤独じゃない孤独じゃないけどさ\nまだ心巣食ってる獣とは\n引き続きやっていこう\n\n今夜のシチューはマトン 絡まって富んだ混沌\nポケットにはメリーがいなきゃ酷く味気ない\nリイシューの詩集 繁華街は異臭\n奴らこそ俺狂わせた張本人\n\nそう天才でも変態でも繊細でもないからこそ\n限界まで全開まで絶対書く魂胆さ\n誰か様のブッブーに左フック\n次のフックもlike a 究極の本\n\n嗚呼もう最高で嫌\n\nなぁお兄さん悲しくなって逆さになって\n終わるために建てるビルは嫌だ\n見下しあって目配せあって流した目の下\n全然悔しくない虚しくない\nってそんな訳ないけどさ\nそのおかげで口座にゃ不労所得　　\n足向け寝れん一生\n\n飲めば飲むほど行けば行くほど  \n漏れるこの血を誰も止めてはくれないけど\nアナタの為の轍とならば　　　　　　　　　　　　\nこの身をいくつ捧げても　\n\n更に書こう無加工 恥もまたかこう 　　　　　　　\n何となくの文字の並び誰も救わない\n骸を綴ろう 忖度は無用　　　　　　　　\nなんならピースから1つ差し引いて\n\nもう一回 ねぇお嬢ちゃん\n\n裸になって大人になって\n終いには飛び込む海の中\n優しくなって慰め合って繋いだ手のひら\n辛くもなってまだ苦はあって\nサワーでスイートなこの歌は\n誰の理解も利害も要んない自分だけのもの\n絶対教育上よろしくないよろしくないけどさ\nでもこのまま行ったらどう死ぬの？\n試してみようと思う\n\nちゃんとしない事をもっとちゃんとしよう\n無知な奴に何と言われようと構わない\n騙そう晒そうもっとやらかそう\nさぁご覧あそばせ\n\n________________________________________________________________\n「ギャンブル」\nhttps://youtu.be/7GBn6IuTQ6w\nhttps://syudou.lnk.to/Gambling\n________________________________________________________________\nTwitter:  　 https://twitter.com/tikandame\nInstagram: https://www.instagram.com/syudou279/\nTikTok:       https://www.tiktok.com/@syudou\nHP:              https://www.syudou.com\n________________________________________________________________\n#取扱注意\n#syudou​",
       "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
       "position" : 356,
       "publishedAt" : "2021-10-20T10:07:09.000Z",
@@ -17518,7 +17518,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "_9oVbrwtNIx5dOkrCbgkuT3Cek8",
+    "etag" : "1m7auYtyJSgXjuVw5VBgFXUVd68",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi41ODJFOTA1Mzg2NTFERjQz",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -17616,7 +17616,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "TLEOcoVslwyypDy8YrCGMYuFIgU",
+    "etag" : "UxoWFamQa9DmZcjvnrPMrZI3ZXA",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5GNjg5RUYzREMzMDcxOUYw",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -18718,7 +18718,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "3XriABZvEyd-kAuERuf4UWzGbUg",
+    "etag" : "pfEbXVGsr1sFwOm0juE9wEjN32k",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5COUU4NzEzMzg1MkZFQjlE",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -19348,7 +19348,7 @@
   },
   "prevPageToken" : "EAEaB1BUOkNONEM"
 }, {
-  "etag" : "4d2AO_qkvPtP5VRN3fE36OUu_sw",
+  "etag" : "UHv4BG1L7KnQk7_aHwEGaDgKvEI",
   "items" : [ {
     "etag" : "IlHEKMTuq3vfXDjhJ16aGaYkvkQ",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xRUU4M0JFMUQ4QTA2MjVB",
@@ -19918,13 +19918,13 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "jNfOYiQMBFcBIjPh1vlrF5sWbOM",
+    "etag" : "mgR1pXVI-1r5-kGc1tEI7OVfGwk",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi45QUZGQkMzMEZDNTZBREY3",
     "kind" : "youtube#playlistItem",
     "snippet" : {
       "channelId" : "UCYDjQ7Iq3NYFYnSJ23On4sQ",
       "channelTitle" : "mikeeei",
-      "description" : "syudouです。\n笑いについての曲です。\n\n曲・歌/syudou(https://twitter.com/tikandame)\n絵/ヤスタツ(https://twitter.com/yasutatsu_)\n動画/くろうめ(https://twitter.com/kuroume_1024)\n\nカラオケ/歌詞 https://piapro.jp/syudou\nボカロ版 https://www.nicovideo.jp/watch/sm38790520\n配信 https://syudou.lnk.to/Bakushou\n\n----------------\nsyudou Live 2023「我武者羅」\n日時：2023年4月8日(土) 開場16:00/開演18:00\n会場：幕張メッセイベントホール\nチケット料金：全席指定 6,600円 (税込) 特典付\nお問い合わせ：DISK GARAGE：050-5533-0888（平日12:00-15:00）\nsyudou Live 2023「我武者羅」Teaser\nhttps://youtu.be/5gaXZnoYWCE\n----------------\n最新曲「笑うな！」\nhttps://youtu.be/Ysk-u2svFb4\n配信：https://syudou.lnk.to/Warauna\n----------------\n\n「爆笑」\n\n圧倒的に多数の人が\n無闇矢鱈と囃し立てる世じゃ\n結局誰が悪いのかなんて\n知らぬ存ぜぬ味方無し\n\n人の背に立つ背に立つあなたの目\nその目 その目が嫌い\nまた安地でつぶやく僻み達　　　　　　　　\nそりゃ勝っても負けても痛み無し\n\n嗚呼 何も作れないまま\n嗚呼 何も得られないままで\nさぁ何度も繰り返せ\nその価値の無いアイミスユー\n\nワッハッハッハ\n抱腹絶倒 惨めな輩に唾吐いて\nガッハッハッハ\n軽く一蹴 哀れみ込めた愛の讃歌\n気にならない 気付きもしない\n笑ってしまうぜ不完全体\nこの意味が分かるまでは\nただ静かに笑ってんだ\n\n「これを辞めろだ？\nそうか分かったぜ死ねってこったな？」\n実の親さえも泣かせちゃった\n俺の全部を喰らいな心して\nけど1番右の座 笑顔なし\n\nオーベイベーただ笑ってくれ\n板の上のた打つ俺を\nそういつかは買い慣らす\nオーデマピゲ&デモン\n\nワッハッハッハ\n笑みと失笑 西の魔女送るリスペクト\nガッハッハッハ\n勝ちで実証 最下位経ての真の王者\n好みじゃない 話したくない\n狂ってもがいた2,3年後　　\n邪論など掻き消す程　　　　　　　　　　\nほら誰もが笑ってんだ \n\nあなたが見て聴いた光たちは今もまだ\n心を強く握って苦しませる\n「笑われる」「笑わせる」の溝針落として\n聴かせてやる だから\nこの名前くらいは覚えて帰れ\n\nワッハッハッハ\n抱腹絶倒 惨めな輩に唾吐いて\nガッハッハッハ\n軽く一蹴 哀れみ込めた愛の讃歌\nワッハッハッハ\n舐めて頂戴  予定調和などつまらんさ\nガッハッハッハ\n下劣上等 これが答えだ文句あるか　　　　　　　　　　　\n生か死か 伸るか反るか\n打算的人生 丁半勝負\n降りはせず昇り続けるただ\n雨晒しだって独り泣いたって\n出囃子は鳴ってんだ\n\n________________________________________________________________\n「へべれけジャンキー」\nhttps://youtu.be/0rTc0nyhE0Q\n配信 https://syudou.lnk.to/Hebereke_Junkie\n________________________________________________________________\nTwitter:  　 https://twitter.com/tikandame\nInstagram: https://www.instagram.com/syudou279/?hl=ja\nTikTok:       https://www.tiktok.com/@syudou?\nHP:              https://www.syudou.com\n________________________________________________________________\n#爆笑\n#syudou​",
+      "description" : "syudouです。\n笑いについての曲です。\n\n曲・歌/syudou(https://twitter.com/tikandame)\n絵/ヤスタツ(https://twitter.com/yasutatsu_)\n動画/くろうめ(https://twitter.com/kuroume_1024)\n\nカラオケ/歌詞 https://piapro.jp/syudou\nボカロ版 https://www.nicovideo.jp/watch/sm38790520\n配信 https://syudou.lnk.to/Bakushou\n\n----------------\nsyudou Live 2023「我武者羅」\n日時：2023年4月8日(土) 開場16:00/開演18:00\n会場：幕張メッセイベントホール\nチケット料金：全席指定 6,600円 (税込) 特典付\nチケットぴあ：https://w.pia.jp/t/syudou-c/\nローソンチケット：https://l-tike.com/syudou/\nイープラス：https://eplus.jp/syudou/\nお問い合わせ：DISK GARAGE：050-5533-0888（平日12:00-15:00）\nsyudou Live 2023「我武者羅」Teaser\nhttps://youtu.be/5gaXZnoYWCE\n----------------\n最新曲「笑うな！」\nhttps://youtu.be/Ysk-u2svFb4\n配信：https://syudou.lnk.to/Warauna\n----------------\n\n「爆笑」\n\n圧倒的に多数の人が\n無闇矢鱈と囃し立てる世じゃ\n結局誰が悪いのかなんて\n知らぬ存ぜぬ味方無し\n\n人の背に立つ背に立つあなたの目\nその目 その目が嫌い\nまた安地でつぶやく僻み達　　　　　　　　\nそりゃ勝っても負けても痛み無し\n\n嗚呼 何も作れないまま\n嗚呼 何も得られないままで\nさぁ何度も繰り返せ\nその価値の無いアイミスユー\n\nワッハッハッハ\n抱腹絶倒 惨めな輩に唾吐いて\nガッハッハッハ\n軽く一蹴 哀れみ込めた愛の讃歌\n気にならない 気付きもしない\n笑ってしまうぜ不完全体\nこの意味が分かるまでは\nただ静かに笑ってんだ\n\n「これを辞めろだ？\nそうか分かったぜ死ねってこったな？」\n実の親さえも泣かせちゃった\n俺の全部を喰らいな心して\nけど1番右の座 笑顔なし\n\nオーベイベーただ笑ってくれ\n板の上のた打つ俺を\nそういつかは買い慣らす\nオーデマピゲ&デモン\n\nワッハッハッハ\n笑みと失笑 西の魔女送るリスペクト\nガッハッハッハ\n勝ちで実証 最下位経ての真の王者\n好みじゃない 話したくない\n狂ってもがいた2,3年後　　\n邪論など掻き消す程　　　　　　　　　　\nほら誰もが笑ってんだ \n\nあなたが見て聴いた光たちは今もまだ\n心を強く握って苦しませる\n「笑われる」「笑わせる」の溝針落として\n聴かせてやる だから\nこの名前くらいは覚えて帰れ\n\nワッハッハッハ\n抱腹絶倒 惨めな輩に唾吐いて\nガッハッハッハ\n軽く一蹴 哀れみ込めた愛の讃歌\nワッハッハッハ\n舐めて頂戴  予定調和などつまらんさ\nガッハッハッハ\n下劣上等 これが答えだ文句あるか　　　　　　　　　　　\n生か死か 伸るか反るか\n打算的人生 丁半勝負\n降りはせず昇り続けるただ\n雨晒しだって独り泣いたって\n出囃子は鳴ってんだ\n\n________________________________________________________________\n「へべれけジャンキー」\nhttps://youtu.be/0rTc0nyhE0Q\n配信 https://syudou.lnk.to/Hebereke_Junkie\n________________________________________________________________\nTwitter:  　 https://twitter.com/tikandame\nInstagram: https://www.instagram.com/syudou279/?hl=ja\nTikTok:       https://www.tiktok.com/@syudou?\nHP:              https://www.syudou.com\n________________________________________________________________\n#爆笑\n#syudou​",
       "playlistId" : "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
       "position" : 412,
       "publishedAt" : "2021-06-30T21:02:34.000Z",
@@ -21260,7 +21260,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "RRVzQjFdRprD_yoCOsrsjA3Pg10",
+    "etag" : "AyV94RLY8QALbJeA22JnYvbxVG0",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43OEQ1OTk4ODU2N0E5RUYz",
     "kind" : "youtube#playlistItem",
     "snippet" : {
@@ -21309,7 +21309,7 @@
       "privacyStatus" : "public"
     }
   }, {
-    "etag" : "8c3B0cfT7R85juTxFVIq1FXspEw",
+    "etag" : "Ayw4yQ1ZN-FmG3GVg4_cP92y6SU",
     "id" : "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44Q0Q0NjMwREMzREQ1RkE4",
     "kind" : "youtube#playlistItem",
     "snippet" : {
