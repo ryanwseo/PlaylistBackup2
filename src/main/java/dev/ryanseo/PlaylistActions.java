@@ -22,7 +22,7 @@ public class PlaylistActions {
      * @param DEVELOPER_KEY Developer key
      * @return ArrayList of Videos
      */
-    public static ArrayList<Video> retrievePlaylist(String playlistId, String DEVELOPER_KEY) throws GeneralSecurityException, IOException {
+    public static ArrayList<Video> retrievePlaylist(String playlistId, String DEVELOPER_KEY, String playlistName) throws GeneralSecurityException, IOException {
 
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Video.class, new JsonDeserializer<Video>() {
@@ -50,7 +50,7 @@ public class PlaylistActions {
 
         LinkedList<Video> playlistVideos = new LinkedList<>();
 
-        FileWriter writer = new FileWriter("src/main/resources/raw_playlist_data.json");
+        FileWriter writer = new FileWriter(String.format("src/main/resources/%s.json", playlistName));
         writer.append('[');
 
         YouTube.PlaylistItems.List request = Main.getService().playlistItems().list("status, snippet");

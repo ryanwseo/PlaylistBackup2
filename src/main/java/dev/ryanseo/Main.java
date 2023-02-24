@@ -38,8 +38,18 @@ public class Main {
     public static void main(String[] args)
             throws GeneralSecurityException, IOException, GoogleJsonResponseException {
 
-        ArrayList<Video> playlistVideos = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2", DEVELOPER_KEY);
+        ArrayList<Video> playlistVideos1 = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2", DEVELOPER_KEY, "Ryan's Cultured Music");
+        ArrayList<Video> playlistVideos2 = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8G--X_l6SP0faS6gFR4tJJu", DEVELOPER_KEY, "Side Culture");
+        ArrayList<Video> playlistVideos3 = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY", DEVELOPER_KEY, "Sing-a-long");
 
+        printPlaylist(playlistVideos2);
+        printPlaylist(playlistVideos3);
+        printPlaylist(playlistVideos1);
+        
+//        PlaylistActions.saveVideosToJson(playlistVideos);
+    }
+
+    public static void printPlaylist(ArrayList<Video> playlistVideos) {
         for (Video v : playlistVideos) {
             if (v.getTitle() != null) {
                 System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle());
@@ -51,7 +61,7 @@ public class Main {
         System.out.println();
         System.out.println(playlistVideos.size() + " videos");
         System.out.println("Latest video: " + playlistVideos.get(0).getTitle() + " by " + playlistVideos.get(0).getVideoOwnerChannelTitle());
-
-        PlaylistActions.saveVideosToJson(playlistVideos);
+        System.out.println();
+        System.out.println("———————————————————");
     }
 }
