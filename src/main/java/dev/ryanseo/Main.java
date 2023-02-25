@@ -3,8 +3,7 @@ package dev.ryanseo;
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
 import com.google.api.client.googleapis.json.GoogleJsonResponseException;
 import com.google.api.client.http.javanet.NetHttpTransport;
-import com.google.api.client.json.JsonFactory;
-import com.google.api.client.json.jackson2.JacksonFactory;
+import com.google.api.client.json.gson.GsonFactory;
 import com.google.api.services.youtube.YouTube;
 
 import java.io.IOException;
@@ -14,7 +13,7 @@ import java.util.ArrayList;
 public class Main {
     private static final String DEVELOPER_KEY = "AIzaSyAA_VUqOVdF9z2gujF84petXl4GuNlo5-E";
     private static final String APPLICATION_NAME = "Playlist Backup";
-    private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
+    private static final GsonFactory JSON_FACTORY = GsonFactory.getDefaultInstance();
 
     /**
      * Build and return an authorized API client service.
