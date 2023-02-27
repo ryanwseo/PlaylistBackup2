@@ -1,7 +1,6 @@
 package dev.ryanseo;
 
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
-import com.google.api.client.googleapis.json.GoogleJsonResponseException;
 import com.google.api.client.http.javanet.NetHttpTransport;
 import com.google.api.client.json.gson.GsonFactory;
 import com.google.api.services.youtube.YouTube;
@@ -35,7 +34,7 @@ public class Main {
      * @throws GeneralSecurityException, IOException, GoogleJsonResponseException
      */
     public static void main(String[] args)
-            throws GeneralSecurityException, IOException, GoogleJsonResponseException {
+            throws GeneralSecurityException, IOException {
 
         ArrayList<Video> playlistVideos1 = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2", DEVELOPER_KEY, "Ryan's Cultured Music");
         ArrayList<Video> playlistVideos2 = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8G--X_l6SP0faS6gFR4tJJu", DEVELOPER_KEY, "Side Culture");
@@ -43,7 +42,7 @@ public class Main {
 
         printPlaylist(playlistVideos2);
         printPlaylist(playlistVideos3);
-        printPlaylist(playlistVideos1);
+        printPlaylist(playlistVideos1); 
         
 //        PlaylistActions.saveVideosToJson(playlistVideos);
     }
