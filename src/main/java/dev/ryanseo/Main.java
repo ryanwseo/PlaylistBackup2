@@ -33,8 +33,7 @@ public class Main {
      *
      * @throws GeneralSecurityException, IOException, GoogleJsonResponseException
      */
-    public static void main(String[] args)
-            throws GeneralSecurityException, IOException {
+    public static void main(String[] args) throws GeneralSecurityException, IOException {
 
         ArrayList<Video> playlistVideos1 = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2", DEVELOPER_KEY, "Ryan's Cultured Music");
         ArrayList<Video> playlistVideos2 = PlaylistActions.retrievePlaylist("PL6Y2H3WgxO8G--X_l6SP0faS6gFR4tJJu", DEVELOPER_KEY, "Side Culture");
@@ -50,9 +49,9 @@ public class Main {
     public static void printPlaylist(ArrayList<Video> playlistVideos) {
         for (Video v : playlistVideos) {
             if (v.getTitle() != null) {
-                System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle());
+                System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle() + "  |  Pos: " + v.getPosition());
             } else {
-                throw new RuntimeException("A misbehaving video is present in playlist");
+                throw new RuntimeException(String.format("The video at position %d (ID: %s) is misbehaving", v.getPosition(), v.getVideoId()));
             }
         }
 

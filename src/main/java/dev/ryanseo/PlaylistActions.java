@@ -39,9 +39,12 @@ public class PlaylistActions {
                             snippet.get("videoOwnerChannelId").getAsString(),
                             snippet.get("videoOwnerChannelTitle").getAsString(),
                             PrivacyStatus.valueOf(itemsArrayObject.getAsJsonObject("status").get("privacyStatus").getAsString().toUpperCase()),
-                            snippet.getAsJsonObject("thumbnails").getAsJsonObject("high").get("url").getAsString());
+                            snippet.getAsJsonObject("thumbnails").getAsJsonObject("high").get("url").getAsString(),
+                            snippet.get("position").getAsInt());
                 } catch (NullPointerException e) {
-                   fromPlaylist = new Video();
+                   fromPlaylist = new Video(snippet.getAsJsonObject("resourceId").get("videoId").getAsString(),
+                           null, null, null, null, null,
+                           snippet.get("position").getAsInt());
                 }
                 return fromPlaylist;
             }
@@ -53,6 +56,7 @@ public class PlaylistActions {
         writer.append('[');
 
         // API updated so parameter must be of type List<String>
+        // You can input "contentDetails" in list() to get videoID easier, but todo later
         YouTube.PlaylistItems.List request = Main.getService().playlistItems().list(Arrays.asList("status", "snippet"));
 
         PlaylistItemListResponse response = request.setKey(DEVELOPER_KEY)

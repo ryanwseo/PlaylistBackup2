@@ -11,18 +11,19 @@ public class Video {
     @SerializedName("url")
     private String thumbnailUrl;
     private boolean isAvailable;
+    private int position;
 
-    public Video(String videoId, String title, String videoOwnerChannelId, String videoOwnerChannelTitle, PrivacyStatus privacyStatus, String thumbnailUrl) {
+    public Video(String videoId, String title, String videoOwnerChannelId, String videoOwnerChannelTitle, PrivacyStatus privacyStatus, String thumbnailUrl, int position) {
         this.videoId = videoId;
         this.title = title;
         this.videoOwnerChannelId = videoOwnerChannelId;
         this.videoOwnerChannelTitle = videoOwnerChannelTitle;
         this.privacyStatus = privacyStatus;
         this.thumbnailUrl = thumbnailUrl;
+        this.position = position;
     }
 
-    public Video() {
-    }
+    public Video() {}
 
     public String getVideoId() {
         return videoId;
@@ -50,6 +51,10 @@ public class Video {
 
     public boolean isAvailable() {
         return isAvailable;
+    }
+
+    public int getPosition() {
+        return position;
     }
 
     @Override
