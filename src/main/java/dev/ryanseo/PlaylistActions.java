@@ -9,8 +9,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Type;
 import java.security.GeneralSecurityException;
-import java.util.ArrayList;
-import java.util.LinkedList;
+import java.util.*;
 
 import static com.google.gson.JsonParser.parseString;
 
@@ -53,7 +52,9 @@ public class PlaylistActions {
         FileWriter writer = new FileWriter(String.format("src/main/resources/%s.json", playlistName));
         writer.append('[');
 
-        YouTube.PlaylistItems.List request = Main.getService().playlistItems().list("status, snippet");
+        // API updated so parameter must be of type List<String>
+        YouTube.PlaylistItems.List request = Main.getService().playlistItems().list(Arrays.asList("status", "snippet"));
+
         PlaylistItemListResponse response = request.setKey(DEVELOPER_KEY)
                 .setPlaylistId(playlistId)
                 .setMaxResults(50L)
@@ -73,6 +74,7 @@ public class PlaylistActions {
                 writer.append(", ");
             }
         }
+
         writer.append(']');
         writer.close();
 
