@@ -9,6 +9,13 @@ import java.io.IOException;
 import java.security.GeneralSecurityException;
 import java.util.ArrayList;
 
+/*
+    TODO Stuff to add:
+    - Keep track of videos that have been backed up, so new backups don't take so much space (most important)
+    - Make a graphical interface that shows info about playlists
+    - Facilitate managing multiple playlists
+ */
+
 public class Main {
     private static final String DEVELOPER_KEY = "AIzaSyAA_VUqOVdF9z2gujF84petXl4GuNlo5-E";
     private static final String APPLICATION_NAME = "Playlist Backup";
