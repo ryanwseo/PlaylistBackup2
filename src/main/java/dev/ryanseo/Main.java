@@ -12,6 +12,8 @@ import java.util.ArrayList;
 /*
     TODO Stuff to add:
     - Keep track of videos that have been backed up, so new backups don't take so much space (most important)
+    - Scrape more information about each video in a playlist
+    - Backup not just the video, but the thumbnail, comments, etc.
     - Make a graphical interface that shows info about playlists
     - Facilitate managing multiple playlists
  */
