@@ -64,15 +64,17 @@ public class Video {
                 ", title='" + title + '\'' +
                 ", videoOwnerChannelId='" + videoOwnerChannelId + '\'' +
                 ", videoOwnerChannelTitle='" + videoOwnerChannelTitle + '\'' +
-                ", privacyStatus=" + privacyStatus + '\'' +
-                ", thumbnailUrl=" + thumbnailUrl +
+                ", privacyStatus=" + privacyStatus +
+                ", thumbnailUrl='" + thumbnailUrl + '\'' +
+                ", isAvailable=" + isAvailable +
+                ", position=" + position +
                 '}';
     }
 
     @Override
     public boolean equals(Object obj) {
-        if (obj instanceof Video) {
-            return ((Video) obj).getVideoId().equals(this.getVideoId());
+        if (obj instanceof Video video) {
+            return video.getVideoId().equals(this.getVideoId());
         } else {
             return false;
         }
