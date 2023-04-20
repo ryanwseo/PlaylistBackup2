@@ -139,6 +139,7 @@ public class Playlist {
         }
 
         System.out.println();
+        System.out.println(this.getPlaylistName());
         System.out.println(getVideos().size() + " videos");
         System.out.println("Latest video: " + getVideos().get(0).getTitle() + " by " + getVideos().get(0).getVideoOwnerChannelTitle());
         System.out.println();

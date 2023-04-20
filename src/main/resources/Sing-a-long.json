@@ -1,9 +1,59 @@
 [
 {
-  "etag": "XF04VJGDeLBJLl52SgIRJ12a-HA",
+  "etag": "yuuelmwYvqzfq8RgfxWVRTlVWLQ",
   "items": [
     {
-      "etag": "FBPydJgTY0iDTzygwa2lXLpvnao",
+      "etag": "jDz6ItG9sgYSnvi7sYGJWgU8ZTI",
+      "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS41MzJFNEYxODEyNzA0QUUx",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+        "channelTitle": "_eula",
+        "description": "",
+        "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
+        "position": 0,
+        "publishedAt": "2023-04-20T14:57:41.000Z",
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AaucZjnPeqQ"
+        },
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/AaucZjnPeqQ/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/AaucZjnPeqQ/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/AaucZjnPeqQ/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/AaucZjnPeqQ/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/AaucZjnPeqQ/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "CH4NGE cover by 최홍자",
+        "videoOwnerChannelId": "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+        "videoOwnerChannelTitle": "_eula"
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      }
+    },
+    {
+      "etag": "pO0gKKjRVzc_8Ivay8MExCSDYRo",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5EODkyNDMzRkJBNkQ2NkMz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -11,7 +61,7 @@
         "channelTitle": "_eula",
         "description": "vocal 宮下 遊 (yuu miyashita)\n- twitter - https://twitter.com/miy_yuu\n=====================\n\nmusic きくお\n- http://www.nicovideo.jp/watch/sm25724827\n◆音源、動画をお借りしました。この場を借りてお礼申し上げます。\n------------------------------------\n2016.8.3 RELEASE\n1st MAJOR ALBUM「紡ぎの樹」収録曲です。\nMix：ちゃま\nSPECIAL SITE：http://yuu.extsm.com/\n================\n\n◇「original channel」では自分で音楽やイラストも作っています。\nI also make my own music and illustrations on the \"original channel\".\n◆original channel\nhttps://www.youtube.com/channel/UCv7P8vbJW87IRWuOjTjarjQ\n\n=====================\n◆Thank you for watching.\n\n◆Thank you for watching.",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 0,
+        "position": 1,
         "publishedAt": "2023-03-11T14:46:26.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -48,7 +98,7 @@
       }
     },
     {
-      "etag": "5xz4oiiRf7SYSRrTxLNInxM-pd8",
+      "etag": "4e00pn-dBay0Z7_5Xp9Rj117Qpg",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5BRUVCN0E0MzEwQzAwNjMy",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -56,7 +106,7 @@
         "channelTitle": "_eula",
         "description": "ま！\n\nすりぃさんの『テレキャスタービーボーイ』を歌わせていただきました。\n+5のインスト音源をお借りしました。\n\n本家様　https://www.youtube.com/watch?v=i-DZukWFR64\n\nサムネイル　しろこ　https://twitter.com/siroko_mk\n\n歌／ミックス　まふまふ　https://twitter.com/uni_mafumafu",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 1,
+        "position": 2,
         "publishedAt": "2022-11-14T16:20:55.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -98,7 +148,7 @@
       }
     },
     {
-      "etag": "isJI12o48Dfwitd_uZUe1JPuI50",
+      "etag": "m0Bpr_QcO-NEO1Hxhdk7jj-hJ5I",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS41NUMwNTVERDNBRDc4REM0",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -106,7 +156,7 @@
         "channelTitle": "_eula",
         "description": "■ 素敵な本家様 / ツミキ  様　　key / -3\n[ https://www.youtube.com/watch?v=9QLT1Aw_45s&t=12s ]\n\n□ MIX・Mastering / 天糖しょこら 様\nTwitter [ https://twitter.com/chocolat__sing ]\nYouTube [ https://www.youtube.com/playlist?list=PLnzFv-9FwN-5AbkzRMlbtQSicbM4lMTnZ ]\n HP [ http://edogawarecords.com/ ]\n\n■ Mixing Director / 江戸川スミス 様\nTwitter [ https://twitter.com/edogawa_smith ]\n HP [ http://edogawarecords.com/ ]\n\n□ Encode / 下着の中の中核を担うには少し早いかもしれない倉富さん 様\n\n■ Vocal / 柘榴-zakuro-\nTwitter [ https://twitter.com/zakuro_96 ]\nYouTube [ https://www.youtube.com/c/zakuroChannel ]\nニコニコ動画 [ https://www.nicovideo.jp/mylist/50718003 ]\nツイキャス [ https://twitcasting.tv/zakuro_96 ]\n\n□ Chorus / ゆうひ 様\nTwitter [ https://twitter.com/_yu_hiii ]\nYouTube [ https://www.youtube.com/channel/UCCID9nZO0Ll4v2vPPAvfAVw ]\n\n\nチャンネル登録、高評価よろしくお願いします！\n\n\n#フォニイ　#ツミキ　#柘榴　#歌ってみた　#cover",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 2,
+        "position": 3,
         "publishedAt": "2022-11-03T23:12:14.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -148,7 +198,7 @@
       }
     },
     {
-      "etag": "FgoncLsnwVbPRszDsPWB71Z3gRI",
+      "etag": "tVhSs5AopI7IMtSjPWmMa7wArQc",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wQTI4OEZFRUE0Q0Q3ODQw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -156,7 +206,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 3,
+        "position": 4,
         "publishedAt": "2022-11-03T22:50:35.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -188,7 +238,7 @@
       }
     },
     {
-      "etag": "KbUtgSCXsC90MYSy8XieP_-rLdk",
+      "etag": "TdyU7PTr9cxi7jjlZQR2FbXIZ8o",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4xRDJGOTc4RkUxMzUwMUFG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -196,7 +246,7 @@
         "channelTitle": "_eula",
         "description": "Original - https://m.youtube.com/watch?v=NMiQmumW0nI\n\nMusic - r-906\nIllustration & Movie - サクヤ \nSong - IA [CeVIO AI] \n(※本家様のMVを使用させていただいております。)\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\nVocal - senq\nhttps://twitter.com/senqsn\n\nMix - Koya\nhttps://twitter.com/koya_1213\n\nEnc - はれいゆ\nhttps://m.youtube.com/c/pplwht \nhttps://twitter.com/pplwht\n\nSuper cute thumbnail illust-  えぬ\nhttps://twitter.com/41cks\n\nThank you for listening to tried singing !!\n\n※無断転載禁止/未授权转载禁止/Do Not Re-upload.\n※アレンジが含まれますので苦手な方はブラウザバックをお願い致します。",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 4,
+        "position": 5,
         "publishedAt": "2022-11-03T22:41:18.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -238,7 +288,7 @@
       }
     },
     {
-      "etag": "Xl5rhwiB6blJWs4orlwqS_W0cNg",
+      "etag": "TwFfhtWdZ4ypjTAQhMVhWYA38aw",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wMDkwRkI3NzExODA2MTFG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -246,7 +296,7 @@
         "channelTitle": "_eula",
         "description": "I SANG KANARIA'S NEW BANGER!!  Huge huge thanks to my fantastic team for getting out wonderful work on such short deadlines!! So grateful!!\n\n\nOriginal: Kanaria\nhttps://youtu.be/KFCaSz_yYCM\nVocals: Shiki Miyoshino\nMix: Inverse\nhttps://twitter.com/Inverse_Music\nArt: Nostee\nhttps://twitter.com/nostdoro\nVideo: Rumskii\nhttps://twitter.com/Rumskiich\nEncode: hulo\nhttps://twitter.com/hulo03\n\n#QUEEN #Kanaria #ShikiMiyoshino",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 5,
+        "position": 6,
         "publishedAt": "2022-11-03T22:27:14.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -288,7 +338,7 @@
       }
     },
     {
-      "etag": "vBS_RCAFMGUy6wCXAguywReJ7dA",
+      "etag": "AO2ljzqbeKTvZpr5mKgZ0PCGVgg",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5ERkRDQjY0N0Y0Q0VFOTdC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -296,7 +346,7 @@
         "channelTitle": "_eula",
         "description": "いこうね\n\n\nOriginal　 いよわ\nhttps://youtu.be/PubukElqUJw\n\nMix　如月結愛\nhttps://twitter.com/primulatelier?s=21&t=MXh496tcxYpaj2-YBEV8aw\n\nArtwork　 ずもち\nhttps://twitter.com/zumoti4?s=21&t=MXh496tcxYpaj2-YBEV8aw\n\n\no-o https://youtu.be/W23g_9pmkkI\n\n𖠌  \ntw：https://twitter.com/nono0mn?s=21\nyo：youtube.com/@noNo0mn\n\nhttps://no0.fanbox.cc/",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 6,
+        "position": 7,
         "publishedAt": "2022-10-25T03:07:25.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -338,7 +388,7 @@
       }
     },
     {
-      "etag": "WOQS-MyGJYz2dCnfeRD2_8Dhvt8",
+      "etag": "EEttONhBJJLXUW1kP2Km4ULW05M",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5BRDg1NUY1OTY2QzgzOEM0",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -346,7 +396,7 @@
         "channelTitle": "_eula",
         "description": "『 あたしは幸せになりたいです 』\n\n\n■ Original https://youtu.be/HtBqK6xsQ9k\n－Music&Lyrics：DECO*27 様\n\n▼ Vocal/Mix：こまいぬ。\nhttps://twitter.com/komainu_com\n▼ Illust：nova \nhttps://twitter.com/nova_axl \n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！　\n【 http://youtube.com/c/KOMAINU/?sub_confirmation=1 】\n\n⚠︎ 無断転載はご遠慮ください。\nReproduction prohibited.\n\n#アニマル\n#歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 7,
+        "position": 8,
         "publishedAt": "2022-10-18T15:54:05.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -388,7 +438,7 @@
       }
     },
     {
-      "etag": "a-WrzQGDjvczNiHtRDUzYZ0gnG4",
+      "etag": "EzGAe88RIr6dzt7NE7AnDjTPxv8",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS42NEZDNTU0RTRENDUzRjMz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -396,7 +446,7 @@
         "channelTitle": "_eula",
         "description": "『後悔なんて無い』\n\n\n■ Original https://youtu.be/dgS6HvEohsw\n－Music&Lyrics Kanaria 様 @kanaria9704 \n\n■ Vocal/Mix こまいぬ。@KOMAINU \n▽ Twitter : https://twitter.com/komainu_com\n▽ LINE@ : https://lin.ee/cW4azzK\n▽ BOOTH : https://komainu-com.booth.pm/\n\n■ Mastering サカモットゥー @SakamotoMix \n▽ Twitter : https://twitter.com/SAKASAKAmax\n\n■ Illust (thumbnail) こぺと\n▽ Twitter : https://twitter.com/konpeitonkotsu\n\n■ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU/?sub_confirmation=1\n\n⚠︎ 無断転載はご遠慮ください。\nReproduction prohibited. \n\n#エンヴィーベイビー  #歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 8,
+        "position": 9,
         "publishedAt": "2022-10-18T15:26:23.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -438,7 +488,7 @@
       }
     },
     {
-      "etag": "RD4B2yaALN9FWvAD_3Yo4WBnEIc",
+      "etag": "TevQ3lKIMqCnrb3z8Vc-vTPJ95A",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5ENEEyOTIwNkY4NzFGMkQ2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -446,7 +496,7 @@
         "channelTitle": "_eula",
         "description": "『 穿つこの目で 』\n\n\n■ Original【 https://youtu.be/sSHkXxADtaE 】\n－Music&Lyrics @kanaria9704 様\n\n■ Vocal/Mix こまいぬ。\n▽ Twitter【 https://twitter.com/komainu_com 】\n▽ ツイキャス【 https://twitcasting.tv/komainu_com 】\n▽ グッズ通販【 https://komainu-com.booth.pm/ 】\n\n■ Illust (thumbnail) 毒電話\n▽ Twitter【 https://twitter.com/kyoddao 】\n\n⚠︎ 無断転載はご遠慮ください。\nReproduction prohibited.\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！　\n【 http://youtube.com/c/KOMAINU/?sub_confirmation=1 】\n\n#EYE\n#歌ってみた\n#Kanaria",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 9,
+        "position": 10,
         "publishedAt": "2022-10-18T15:23:50.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -488,7 +538,7 @@
       }
     },
     {
-      "etag": "vcB-bAVCefGh49_7Zmq0nFYSlek",
+      "etag": "mNPvxeXAmob8lE7SkFu-vpMQZTI",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS43NjE5NDdDRTdENjQ3RTkw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -496,7 +546,7 @@
         "channelTitle": "_eula",
         "description": "今回は、syudou様のキュートなカノジョを歌わせていただきました！！\n最後まで聴いてくれるとうれしいです!\n\n＃ころん ＃すとぷり ＃キュートなカノジョ\n\n詳しくはTwitterで↓\n素晴らしき本家様\nsyudou様\nhttps://www.youtube.com/watch?v=oFmup8lxUHw\n\n歌：ころん\nTwitter⇒https://twitter.com/Colon56N\n\nチャンネル⇒(https://www.youtube.com/channel/UCJtMfSSPKuW22GXfkaN7DOA)\n\nMIX　ゆっけどるちぇ様(https://www.youtube.com/user/yukkedoluce) @yukkedoluce\n\n【お知らせ】\n公式ラインができました！\n毎日メッセージが届くのでぜひ！\n友達一人増えたって自慢していいぞ。\nhttps://t.co/bp0vv7K39G?amp=1\n\n【基本毎日２０時投稿！！！】\n実況者：ころん\nチャンネル⇒(https://www.youtube.com/channel/UCJtMfSSPKuW22GXfkaN7DOA)\n\nついったー：https://twitter.com/Colon56N\nYoutube通知アカウント：https://twitter.com/Colon56Nsab\n\n■すとぷり公式Twitter / https://twitter.com/StPri_info\nすとぷりちゃんねる/ https://www.youtube.com/channel/UCdB5vhQORw9HeiF82IYLnjw\n\nすとぷりのおすすめオリジナル楽曲！\n【MV】大好きになればいいんじゃない？／すとぷり【HoneyWorks】https://youtu.be/qwz9v5nCqm0\n\n【MV】おかえりらぶっ！／すとぷり【HoneyWorks】\nhttps://youtu.be/c3DazWbrI_Q\n\n【MV】僕らだけのシャングリラ／すとぷり\nhttps://youtu.be/GIaV8cGgQns\n\nすとぷりめんばーのちゃんねる！\n\nころん / 水色担当！\nhttps://www.youtube.com/channel/UCJtMfSSPKuW22GXfkaN7DOA\n\n莉犬 / 赤色担当！\nhttps://www.youtube.com/channel/UCpcGAVuBSJEFs48MBxhf9eg\n\nさとみ / ピンク担当！\nhttps://www.youtube.com/channel/UC-1uvY3U4sMSGi52IcT_fWQ\n\nジェル / オレンジ担当！\nhttps://www.youtube.com/channel/UCE0UZVTfvQ8jiNxdIlLeWeA\n\nななもり。/ ムラサキ担当！\nhttps://www.youtube.com/channel/UClqEh59SFJVyKU0RIhFBJ3A\n\nるぅと / 黄色担当！\nhttps://www.youtube.com/channel/UC26AciTXULvcABdrWbaeL8Q\n\n代表的な動画リスト\nヒューマンフォールフラット⇒(https://www.youtube.com/playlist?list=PLlXVjavS56Ir8q1_SgrTvsw-Tu_V8K2jO)\n\nハローネイバー⇒(https://www.youtube.com/playlist?list=PLlXVjavS56Ir7LOdgQy9ne1R8yOSzKx6T)\n\nマリオ実況⇒(https://www.youtube.com/playlist?list=PLlXVjavS56Ir5BBMH_MR5-bguWJdgOCdb)\n\nスプラ実況⇒(https://www.youtube.com/playlist?list=PLlXVjavS56IpwyLrxr0emKdTOXhUOLrQU)\n\nどうぶつの森 ポケットキャンプ⇒(https://www.youtube.com/playlist?list=PLlXVjavS56IpTs-YAm8WOfAlSI_aoIRPW)\n\n１３日の金曜日⇒(https://www.youtube.com/playlist?list=PLlXVjavS56Ip-kCouACnzIWyDUbAzkbd5)\n\nバカゲー　実況(https://www.youtube.com/playlist?list=PLlXVjavS56IrtC5PGb0vuBchlaS8LShqk)\n\n歌ってみた⇒(https://www.youtube.com/playlist?list=PLlXVjavS56Iodk55M2td4pgM5jiuEIQDR)\n\nギャングビースト⇒(https://www.youtube.com/playlist?list=PLlXVjavS56Iodk55M2td4pgM5jiuEIQDR)\n\nクソ動画⇒(https://www.youtube.com/playlist?list=PLlXVjavS56IptUMqwkRjW6BY1bJijzmeS)\n\nマリオオデッセイ⇒(https://www.youtube.com/playlist?list=PLlXVjavS56IqD73YLNKcU8QFhPCNum7da)\n\n【お借りしているBGM・音素材配信サイト様】\n・効果音素材：ポケットサウンド – https://pocket-se.info/\n・甘茶の音楽工房様\n・Music is VFR様\n・魔王魂様\n・Epidemicsound様\n・騒音のない世界様\n・DOVA-SYNDOROME様\n・龍的交響楽様\n・MusMus様\n・H/MIX GALLERY様\n※動画によっては使用していないのもあります。",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 10,
+        "position": 11,
         "publishedAt": "2022-09-25T22:52:14.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -538,7 +588,7 @@
       }
     },
     {
-      "etag": "Dd-7Li4S1I9roYaYzDPt9zPVw4U",
+      "etag": "V_rqtv9e5yNOOJ79bItqMzpW5WI",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wRkVBNUY4OTkzN0JCNTA2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -546,7 +596,7 @@
         "channelTitle": "_eula",
         "description": "『 アンタはここまで 後ろだけ見とけ 』\n\n\n■ Original https://youtu.be/LbO4pg_LHUI\n－Music : Giga 様\n－Lyrics : q*Left 様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n▼ Illust (thumbnail)：ᴍᴏ\nhttps://twitter.com/mo011010\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nGoods：https://bit.ly/3ld2f3Q\n\n▼ チャンネル登録よろしくお願いします！\nPlease subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ 無断転載は御遠慮ください。\nReproduction prohibited.",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 11,
+        "position": 12,
         "publishedAt": "2022-09-19T21:41:48.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -588,7 +638,7 @@
       }
     },
     {
-      "etag": "1VpRU9g_pNMwmgJd6p64tsE-1Zo",
+      "etag": "m-LNWBhL0_kM6-lGc7YhZNFU48s",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS43RDg3MzJDMTRFMTZFOTAw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -596,7 +646,7 @@
         "channelTitle": "_eula",
         "description": "Lil Nas X - Industry Baby (Lyrics) ft. Jack Harlow\nLil Nas X - Industry Baby ft. Jack Harlow\nLil Nas X - Industry Baby\n\n✖ Stream / Download:\nhttps://lilnasx.lnk.to/IndustryBaby\n\n✖ Follow Lil Nas X:\nhttps://www.instagram.com/lilnasx/\nhttps://www.tiktok.com/@lilnasx?\nhttps://twitter.com/LilNasX\n\n🎤  Lyrics \"Lil Nas X - Industry Baby (ft. Jack Harlow)\"\nIntro: Lil Nas X]\n(D-D-Daytrip took it to ten, hey)\nBaby back, ayy, couple racks, ayy\nCouple Grammys on him (Ah, ooh), couple plaques, ayy\nThat's a fact, ayy (Ah, ooh), throw it back, ayy\nThrow it back, ayy (Ah, ooh)\n\n[Pre-Chorus: Lil Nas X]\nAnd this one is for the champions (Ah, ooh)\nI ain't lost since I've began, yeah (Ah, ooh)\nFunny how you said it was the end, yeah (Ah, ooh)\nThen I went, did it again, yeah (Ah, ooh)\n\n[Chorus: Lil Nas X]\nI told you long ago on the road\nI got what they waiting for\nI don't run from nothing, dog\nGet your soldiers, tell 'em I ain't layin' low\nYou was never really rooting for me anyway (Ah, ooh)\nWhen I'm back up at the top, I wanna hear you say (Ah, ooh)\nHe don't run from nothin', dog (Ah, ooh)\nGet your soldiers, tell 'em that the break is over (Ah, ooh, ah, ooh, ah, ooh)\n\n[Verse 1: Lil Nas X]\nUh, need to, uh\nNeed to get this album done\nNeed a couple numbеr ones\nNeed a plaque on evеry song\nNeed me like one with Nicki now\nTell a rap n***a I don't see ya, hah\nI'm a pop n***alike Bieber, hah\nI don't f*** b***es, I'm queer, hah\nBut these n***a b***es like Madea, yeah, yeah, yeah (Yeah)\nAyy, oh, let's do it (Oh, let's do it)\nI ain't fall off, I just ain't release my new shit\nI blew up, now everybody tryna sue me\nYou call me Nas, but the hood call me Doobie, yah\n[Pre-Chorus: Lil Nas X]\nAnd this one is for the champions (Ah, ooh)\nI ain't lost since I've began, yeah (Ah, ooh)\nFunny how you said it was the end, yeah (Ah, ooh)\nThen I went did it again, yeah (Ah, ooh, again, yeah)\n\n[Chorus: Lil Nas X & Jack Harlow]\nI told you long ago on the road\nI got what they waiting for\n(Ayy, ayy, ayy, ayy, I got what they're waiting for)\nI don't run from nothing, dog (Ayy, ayy)\nGet your soldiers, tell 'em I ain't layin' low (Ayy, ayy)\n(B***, I ain't runnin' from nowhere)\nYou was never really rooting for me anyway (Ah, ooh)\nWhen I'm back up at the top, I wanna hear you say (Ah, ooh)\nHe don't run from nothin', dog (Ayy)\nGet your soldiers, tell 'em that the break is over (Ayy, yeah)\n\n[Verse 2: Jack Harlow]\nMy track record so clean, they couldn't wait to just bash me\nI must be gettin' too flashy, y'all shouldn't have let the world gas me (Woo)\nIt's too late 'cause I'm here to stay and these girls know that I'm nasty\nI sent her back to her boyfriend with my handprint on her ass cheek\nCity talkin', we takin' notes\nTell 'em all to keep makin' posts, wish he could, but he can't get close\nOG so proud of me that he chokin' up while he makin' toast\nI'm the type that you can't control, said I would, then I made it so\nI don't clear up rumors (Ayy), where's y'all sense of humor? (Ayy)\nI'm done makin' jokes 'cause they got old like baby boomers\nTurn my haters to consumers, I make vets feel like they juniors (Juniors)\nSay your time is comin' soon but just like Oklahoma (Mmm)\nMine is comin' sooner (Mmm), I'm just a late bloomer \nI didn't peak in high school, I'm still out here gettin' cuter \nAll these social networks and computers\nGot these p*****s walkin' 'round like they ain't losers\n[Chorus: Lil Nas X]\nI told you long ago on the road\nI got what they're waiting for\n(Ayy, ayy, ayy, ayy, I got what they're waiting for)\nI don't run from nothing, dog (Ayy, ayy)\nGet your soldiers, tell 'em I ain't layin' low (Ayy, ayy)\n(B***, I ain't runnin' from nowhere)\nYou was never really rooting for me anyway (Ah, ooh)\nWhen I'm back up at the top, I wanna hear you say (Ah, ooh)\nHe don't run from nothin', dog (Ayy)\nGet your soldiers, tell 'em that the break is over (Ayy)\n\n[Outro: Lil Nas X]\nYeah\nI'm the industry baby\nI'm the industry baby\nYeah\n\nlil nas x,lil nas industry baby,lil nas,industry baby lil nas,industry baby lil nas x lyrics,lil nas x industry baby lyrics,lil nas x montero,industry baby,industry baby lil nas x,lil nas x industry baby,lil nas x lyrics,industry baby lyrics,industry baby lyrics lil nas x,lil nas x songs,jack harlow,lil nas x jack harlow,lil nas lyrics,lil nas songs,lil nas montero\n\n#LilNasX #IndustryBaby #Lyrics",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 12,
+        "position": 13,
         "publishedAt": "2022-08-06T23:01:17.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -638,7 +688,7 @@
       }
     },
     {
-      "etag": "GJjEQic8ApoTvjdWCX6kHxaZLw0",
+      "etag": "IZSBXlAO-6LsBrd9J_dpvzghDtc",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5BNzdEQzY0REQzQTEyN0U3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -646,7 +696,7 @@
         "channelTitle": "_eula",
         "description": "Music / アタリ https://twitter.com/atarihanamaru\nVocal / 冥\nMix / Nagu. https://twitter.com/ng_nagu_\nillustration / wama https://twitter.com/wamavwv\nMovie / にやる https://twitter.com/Niyaru_\n\nniconico版\nhttps://www.nicovideo.jp/watch/sm39083451\n\nオフボーカル\nhttps://piapro.jp/t/p883\n\n「ワーシップシンデレラ」\n\nあんた分かっちゃいねぇな\nノリだけじゃ伝わらないこの感情\n積み上げてた積み木を\n軽く押されて倒され踏みにじられて\n\n拝啓未来の自分へ\n今は楽しく生きていますか\nもし生きてるとしたら\n何に光を抱いているのでしょうか\n\nまだやってんのか？永遠に\n何を笑っているの？本当に\n恐れているならば\n始末してくれ頼むから\n\n真っ逆さま壊れたまま触れないで\nもういらない感情なんて\n甘い甘い真実の果実が\n答え教えてくれるから\n\nあっからさまなエゴ放つやめてよね\n初期段階そうかそうか\n辛い辛い現実の果実が\n答え教えてくれるから\nそうか\n\nはいはい\n目障りな慰めもない\nその浅い心が\n全部演技重ねて\nきっと捨てられ奪われ砕かれ笑われて\n\nなんで鏡の世界は\n何もかも上手く出来ているの\nもし鏡を壊して水に沈めて\n夢を見てみればどうでしょう\n\nまだ浸ってんのか？幻想に\n何を泣いているの？真実に\n写し出されてれば\nそれは本当の姿でしょう\n\n真っ逆さま壊れたまま触れないで\nもういらない肉体なんて\n甘い甘い真実の果実が\n答え教えてくれるから\n\nあっからさまなエゴ放つやめてよね\nもう限界そうかそうか\n辛い辛い現実の果実が\n答え教えてくれるから\nそうさ\n\nほら痛いな\nまだ浸ってんのか？幻想に\n何を泣いているの？真実に\n写し出されてれば\nそれは本当の姿でしょう\n\n真っ逆さま壊れたまま触れないで\nもういらない感情なんて\n甘い甘い真実の果実が\n答え教えてくれるから\n\nあっからさまなエゴ放つやめてよね\n初期段階そうかそうか\n辛い辛い現実の果実が\n答え教えてくれるから\nそうか\n\nあんたそれほど逃げて\n脳内どうだい\n爽快そうかい\n刻む心臓に十字架にかけられ\nあなた楽しそうね\n\n嗚呼\nあんたそれでいて\n騙せそうかいどうだい\nどうなってんだ\n諦めろよ生かされてる\n甘い果実が教えてくれる",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 13,
+        "position": 14,
         "publishedAt": "2022-07-29T09:02:21.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -688,7 +738,7 @@
       }
     },
     {
-      "etag": "ieBpvI32J9EyxlAAhViI7wP2tCs",
+      "etag": "z50HlKNlhpy8VF3iVUU-33yWr2g",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5EODgyNjY4MzA3QzY5RTkx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -696,7 +746,7 @@
         "channelTitle": "_eula",
         "description": "original: https://www.bilibili.com/video/BV1gB4y1S73Z",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 14,
+        "position": 15,
         "publishedAt": "2022-07-21T18:59:57.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -733,7 +783,7 @@
       }
     },
     {
-      "etag": "YMxQtw-dHuP1s8T4dR7N9zuTuvw",
+      "etag": "385pK2ZObueEbn1xIN8wzQFRKgg",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wN0FBRUVFNEVBMTZBQ0Mx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -741,7 +791,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 15,
+        "position": 16,
         "publishedAt": "2022-07-21T12:07:51.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -778,7 +828,7 @@
       }
     },
     {
-      "etag": "Lqv6jiUeEguC9kbeFk24iRs_-1g",
+      "etag": "M7ATZz1PTQiNckH5qR_Rf5NXun8",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4zNDIxRUJGQThFRTg1QzAy",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -786,7 +836,7 @@
         "channelTitle": "_eula",
         "description": "じゃっじゃーん！🤗\n\nヘラヘラリ　／　メドミア　様\nご本家→ https://youtu.be/PE1r1zpknzY\n\n声：NG｡[ﾉｲｽﾞｶﾞｱﾙ。]\nhttps://mobile.twitter.com/Ufufu_utau\n\nMIX：御29 様\nhttps://mobile.twitter.com/29mixer\n\nEnc.：清野ひまり 様\nhttps://mobile.twitter.com/mokonahimari25",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 16,
+        "position": 17,
         "publishedAt": "2022-07-18T10:47:46.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -821,14 +871,14 @@
         },
         "title": "【NG。】ヘラヘラリ 【歌ってみた】",
         "videoOwnerChannelId": "UC7On0RzanSPvHsCIiGOjq5A",
-        "videoOwnerChannelTitle": "NG。【ノイズガアル。】"
+        "videoOwnerChannelTitle": "NG。[ノイズガアル。]"
       },
       "status": {
         "privacyStatus": "public"
       }
     },
     {
-      "etag": "EWQj2YoeDLzHYkPnWGHkMOCltdA",
+      "etag": "qZQQzPeLAF-atJIwUyGmmIYoi6g",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4yOTZGRTNEQ0ZGNUM5RDgw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -836,7 +886,7 @@
         "channelTitle": "_eula",
         "description": "🃏灰色のジョーカー安全性サヨナラ\n\n#アンチジョーカー #マイキ #歌ってみた\n\n🃏本家🃏\nマイキP -  (ラトゥラトゥ)さん「アンチジョーカー feat. 初音ミク【ボカロオリジナル曲】」\nhttps://www.youtube.com/watch?v=L9Amln_KTxg\n\n♠️動画♠️\nRopegino(親方)\n\n♣️イラスト♣️\nTaroh さん\nhttps://twitter.com/shimapann\n\n♥️歌♥️\nウルシー/Urucy\n\n🦴ウルシー🦴\n\n💭Twitter💭\nhttps://twitter.com/UrucyWolf​\n基本ふざけてます\n\n⭐️Goods⭐️\nhttps://urushitekkojo.booth.pm/​\n【数量限定】\nおためしちびアクキー販売中！\n\n🌙ファンボックス🌙\nhttps://urucy.fanbox.cc/\n・限定ボイス\n・ちょい歌ってみた\n・せきらら日記\n・最新情報\n・特別先行イラスト\n・未公開動画\nなどなど、盛りだくさんなので是非チェックしてみてね🐺✨\n\n🌞TikTok🌞\nvt.tiktok.com/ZSJ1K3V7d/\n3Dでダンス中心やってるぞ\n不定期での更新だぞ",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 17,
+        "position": 18,
         "publishedAt": "2022-07-16T06:58:14.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -878,7 +928,7 @@
       }
     },
     {
-      "etag": "uZgFFkMlVT9tijDHaPKcDVdreM0",
+      "etag": "GaCaRbe9n9gl_-p-Ci8T_qtkHwc",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5CQzUwREI3MzkxQjdBM0E0",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -886,7 +936,7 @@
         "channelTitle": "_eula",
         "description": "CH4NGE / ギガP 様\nご本家→ https://youtu.be/LbO4pg_LHUI\n\n声：NG。[ﾉｲｽﾞｶﾞｱﾙ。]\nhttps://mobile.twitter.com/Ufufu_utau\n\nMIX：御29 様\nhttps://mobile.twitter.com/29mixer\n\nEnc.：清野ひまり 様\nhttps://mobile.twitter.com/mokonahimari25\n\n#歌い手甲子園22春 #西軍\n参加動画です🔥👊",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 18,
+        "position": 19,
         "publishedAt": "2022-07-07T23:13:10.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -921,14 +971,14 @@
         },
         "title": "【NG。が】CH4NGE【歌ってみた】",
         "videoOwnerChannelId": "UC7On0RzanSPvHsCIiGOjq5A",
-        "videoOwnerChannelTitle": "NG。【ノイズガアル。】"
+        "videoOwnerChannelTitle": "NG。[ノイズガアル。]"
       },
       "status": {
         "privacyStatus": "public"
       }
     },
     {
-      "etag": "wlJH9a3HA17EP1Vsze_cLWHjwiM",
+      "etag": "RkBAF8uvA3GAUx3DOnhtN23gsKI",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS40OTQ5QjlEMDgzN0FBNUIw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -936,7 +986,7 @@
         "channelTitle": "_eula",
         "description": "◾︎original - いよわ 様\nhttps://youtu.be/Wr-2xcQkke4\n\n◾︎mix - 如月結愛 様\nhttps://twitter.com/primulatelier\n\n◾︎illustration - かおゆ 様\nhttps://twitter.com/agenasubi_\n\n◾︎vocal・movie - 白籤ねんね\nhttps://twitter.com/ne_xne\n\n\n#あだぽしゃ　#いよわ　#歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 19,
+        "position": 20,
         "publishedAt": "2022-07-03T11:32:43.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -973,7 +1023,7 @@
       }
     },
     {
-      "etag": "hkwMQOyQ4OQ30aYr-uQ4hiqmZMw",
+      "etag": "LvtqsxDvIjYlM_Yo1Lqz5A6_K3U",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS43ODA2MDVCQzY5QzZDMjUw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -981,7 +1031,7 @@
         "channelTitle": "_eula",
         "description": "◾︎original - Giga 様\nhttps://youtu.be/huO5w9GfSio\n\n◾︎mix - 如月結愛 様\nhttps://twitter.com/primulatelier\n\n◾︎illustration - 否 様\nhttps://twitter.com/hihouwaisyou\n\n◾︎vocal・movie - 白籤ねんね\nhttps://twitter.com/ne_xne\n\n\n#G4L　#Giga　#歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 20,
+        "position": 21,
         "publishedAt": "2022-06-30T14:53:56.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1023,7 +1073,7 @@
       }
     },
     {
-      "etag": "POYcfe335KVkB820Okluo84A2Og",
+      "etag": "cuDfDmF-4pC6qHM5Ga-KwY2vZwk",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5GNzk2RTlDQTNCQzJCQzJG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1031,7 +1081,7 @@
         "channelTitle": "_eula",
         "description": "原曲：柊マグネタイト『マーシャル・マキシマイザー』\n→https://youtu.be/jMKPYg0uhCI\n\nVocal：ウォルピスカーター\n（ https://twitter.com/wolpis_kater ）\n\nMIX,MST：SILVANA\n（ https://twitter.com/silvana4687 ）\n\nウォルピスカーター 初エッセイ本『自分の声をチカラにする』12月16日 発売！\n詳細はこちら→https://wolpiscarter.com/release_news/822\n予約受付中！→https://lit.link/wolpiscarter\n\n#ウォルピス社提供\n#ウォルピスカーター",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 21,
+        "position": 22,
         "publishedAt": "2022-06-25T16:35:29.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1073,7 +1123,7 @@
       }
     },
     {
-      "etag": "RH92rp21_0K3i7gmEpsexWnMOn0",
+      "etag": "ENu63OuDAplq8VPm8VQ-qd-7HFw",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS44QjNCNkRENjNFQTBEMUND",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1081,7 +1131,7 @@
         "channelTitle": "_eula",
         "description": "いよわ様のきゅうくらりん（https://youtu.be/2b1IexhKPz4 ）を歌わせていただきました。\n\n\nmix　なりょー様\n・https://youtube.com/c/naryo1008\n・https://twitter.com/naryo_1008\n\nencode　ありす様\n・https://twitter.com/ugtwsyp \n\nvocal    倚水\n・https://www.nicovideo.jp/mylist/63771354 \n・https://twitter.com/_isui_ \n\n\n前　悪魔の子　https://youtu.be/6SHtGT1Lcqg\n次　スモーキィクォーツ　https://youtu.be/_tYbmNb4VVQ\n\n#歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 22,
+        "position": 23,
         "publishedAt": "2022-06-24T14:07:14.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1123,7 +1173,7 @@
       }
     },
     {
-      "etag": "nbwvdJtJVTiQFEbKQct6hY2YoNg",
+      "etag": "bnCn_fWXU-yFSrgsJ3exFzg_D9Q",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5EMUJFNzRCNDRFQjE5RjM4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1131,7 +1181,7 @@
         "channelTitle": "_eula",
         "description": "sekai (sns)：https://sekailox.carrd.co/\n\nmusic：@x0o0x_\nvo / lyric：sekai @uoxvz\nartwork：游 @stdio_nameraka\ncomposite：Yuzuri Hal @Yuzuri_Hal\nvo mix / mastering：Sankaku zuwari @Sankaku_Mix\ninst mix：Shiori Maruoka\n\nDL / Streaming\nhttps://linkco.re/EscqXx3C \n\ninstrumental\nhttps://www.dropbox.com/sh/jde578l5rnzsbcp/AADxa8j7kYprM7r2xwKPwiAca?dl=0",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 23,
+        "position": 24,
         "publishedAt": "2022-06-17T18:11:40.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1163,7 +1213,7 @@
       }
     },
     {
-      "etag": "HmQHmy9zlh_qJcoesYFJ7HiqtgQ",
+      "etag": "-JiVUnd4zHZWbH5ntReRs4JSh30",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5CNEYyNTVBNDdGMDI1MDNC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1171,7 +1221,7 @@
         "channelTitle": "_eula",
         "description": "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n▽本家様：毒して頂戴／なきそ 様 (https://youtu.be/l2ljDXGojo4)\n\n▽mix：まえぴー 様 (https://twitter.com/chris_sirlight)\n\n▽illust：神猫 ちゃん（https://twitter.com/ore_VVV?s=20）\n\n▽vocal・movie：白栖 (https://twitter.com/Shirasu_ne5)\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nTwitter▷ https://twitter.com/Shirasu_ne5\n\nmarshmallow▷ https://marshmallow-qa.com/shirasu_ne5?utm_medium=url_text&utm_source=promotion\n\nBOOTH▷ https://shirasu-neko.booth.pm/\n\nFANBOX▷ https://shirasu-ne5.fanbox.cc/\n\nメンバーシップ▷ https://www.youtube.com/channel/UCI35bQ795HYBlzDzYVOER2g/join\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n#新人Vtuber​​​ #Vtuber​​​ #うたってみた #cover",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 24,
+        "position": 25,
         "publishedAt": "2022-06-06T21:31:56.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1213,7 +1263,7 @@
       }
     },
     {
-      "etag": "QCb2ZYlKjGAbF1xXvHFPfAizh4o",
+      "etag": "JGBW4lWa15TLDBiKCKR83Tz5T5s",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS41ODIyMTgwQzA4NjJCQkZC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1221,7 +1271,7 @@
         "channelTitle": "_eula",
         "description": "ナナヲアカリ連続配信企画連続配信企画第6弾\n玉屋2060%（Wienners）制作プロデュース曲\n「全部ホントで全部ウソ」が配信リリース！\nST/DL配信は、こちら：https://smar.lnk.to/TWWRjs\n\nナナヲアカリです。\n全部ホントで全部ウソだよね\n\nVocal & Poetry : ナナヲアカリ\nMusic , Words , Arrange & All Instruments : 玉屋2060%（Wienners） https://twitter.com/TAMAYA2060\nIllustration & Movie: △○□× Twitter：https://twitter.com/miwasiba\n\n★Inst・歌詞：https://piapro.jp/nanawoakari\n\n▼ナナヲアカリ Information\nHP: http://www.nanawoakari.com/\nTikTok :https://www.tiktok.com/@77oakr\nTwitter :https://twitter.com/nanawoakari\nInstagram :https://www.instagram.com/77oakr\n\n#玉屋2060 #Wienners #ナナヲアカリ #nanawoakari",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 25,
+        "position": 26,
         "publishedAt": "2022-06-06T20:17:09.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1263,7 +1313,7 @@
       }
     },
     {
-      "etag": "MIKSx8IPIaCN_KfmlzzoGGqlPtQ",
+      "etag": "6Cm_x7l4UC-fc6VxG4mLI_PMrwA",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5FRjdGNDMzN0I2RTI3MDlG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1271,7 +1321,7 @@
         "channelTitle": "_eula",
         "description": "r-906様のノウナイディスコ（https://youtu.be/NMiQmumW0nI ）を歌わせていただきました。\n\nmix　さんかくずわり様\n・https://twitter.com/Sankaku_Mix \n\nencode　らふどん様\n・https://youtube.com/user/rfdn0117 \n・https://twitter.com/rfdn_0117 \n\nvocal　倚水\n・https://www.nicovideo.jp/mylist/63771354 \n・https://twitter.com/_isui_ \n\n\n前　Future Sky　https://youtu.be/gBEMm__kMOk\n次　神っぽいな　https://youtu.be/LqBizfvXbEc \n\n#歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 26,
+        "position": 27,
         "publishedAt": "2022-06-06T01:38:58.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1308,7 +1358,7 @@
       }
     },
     {
-      "etag": "Tga-5PqVPvJ9OC_KYVnRMhZDbms",
+      "etag": "dpbVrF8EhmG07ITYEbeOy3dWV3w",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS41RDUzRjJFQ0Y0MUI3NzU1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1316,7 +1366,7 @@
         "channelTitle": "_eula",
         "description": "この曲の歌詞が大好きです\n\n『1000年生きてる』\n原曲 : https://www.youtube.com/watch?v=3em-J9yYPAo\n作詞・作曲・オリジナルMV : いよわ 様\nhttps://www.youtube.com/channel/UCLz6MG2kx_0xeaW0LowYnMQ\nhttps://twitter.com/igusuri_please\n\nイラスト・動画：改リ 様\nhttps://twitter.com/sizucla_kairi\n\nmix : しるばーな 様\nhttps://twitter.com/silvana4687\n\n月ノ美兎のTwitter（配信予定等はこちらで呟いています！）\nhttps://twitter.com/MitoTsukino\n\n※未成年者の視聴者の方々は、下記リンク先の注意事項もご覧ください。\nhttps://www.anycolor.co.jp/notice-for-minors",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 27,
+        "position": 28,
         "publishedAt": "2022-06-04T14:52:42.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1358,7 +1408,7 @@
       }
     },
     {
-      "etag": "CHX2wIN6Msq5xuOM4KgcMDb0HOs",
+      "etag": "lhBasEma6nJiy06yAgSlUMKJSmE",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5ERENFNTk4Q0Q2MTZDMTA5",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1366,7 +1416,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 28,
+        "position": 29,
         "publishedAt": "2022-06-03T16:45:27.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1403,7 +1453,7 @@
       }
     },
     {
-      "etag": "Oduwpju7CsZIKkSKtaAucX2NVt0",
+      "etag": "HGD29LPH69jZni-I5hu35Lv193E",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4yM0EyQ0U1M0I2RkIwNTQ0",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1411,7 +1461,7 @@
         "channelTitle": "_eula",
         "description": "わたしの好きな歌を歌います。31曲目。\n\n\nカバーさせていただきました。\n「猫の食卓」\n作詞・作曲・編曲：きくお\nhttps://www.youtube.com/watch?v=KRSM3WEowJE\n\nIllustration：telu（ https://twitter.com/telu2307 ）\n\n\nMix：＄ＫＩＹＡＫＩ＄ＫＩ\n\n---\n\n2021.12.8リリース\nヰ世界情緒 1st ALBUM「創生」\nStreaming & Download：https://lnk.to/isekaijoucho_creation\nCD：https://findmestore.thinkr.jp/blogs/features/isekaijoucho211023#item_01\n\n---\n\nヰ世界情緒(いせかいじょうちょ)\nTwitter　https://twitter.com/isekaijoucho\nYouTube sub channnel　https://www.youtube.com/channel/UC3VN9h8fokwB2XURWHNcdWw/join\nKAMITSUBAKI STUDIO　https://twitter.com/kamitsubaki_jp\n\n#ヰ世界情緒\n#KAMITSUBAKI_STUDIO",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 29,
+        "position": 30,
         "publishedAt": "2022-06-03T13:58:23.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1453,7 +1503,7 @@
       }
     },
     {
-      "etag": "gqJeXRO9H-y4bpHWmCasPfmyjWA",
+      "etag": "kUJhocm8CQrYcBTZ2Kj8-Nd2J-s",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wQUE0QzM4MkJGQ0YwQjUx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1461,7 +1511,7 @@
         "channelTitle": "_eula",
         "description": "春になり　ひょっこり顔出し　ねこまです\nボカコレ春2022に参加してます\n少しは明るい曲も書きたいところですが根暗なのか出てくる歌詞がとことん鬱なの可哀想\nそんなねこまが春爛漫になれるように応援よろしくお願い致します…ﾁｬｵﾁｭｰﾙ\n\nねこまより\n\n\n▼Vocal / 初音ミク & flower\n\n▼Music / ねこまんま\nhttps://twitter.com/NECOMANMAisGOOD\n\n▼Mix / さぶろう様\n https://twitter.com/saburousan3263\n\n▼MV / 沼田ゾンビ様\nhttps://twitter.com/Dobuu_2\n\nOff vocal / https://piapro.jp/t/p5li\nニコニコ動画 / https://www.nicovideo.jp/watch/sm40347722\nストリーミング / https://linkco.re/qPnvYn0N\n\n#赤いゼラニウム\n\n\n歌詞\n\nちょめ ちょ ちょめ\nちょ ちょ ちょめちょめ\nちょめ ちょ ちょめ\nお好きなんでしょ\nちょめ ちょ ちょ め\nちょ ちょ ちょめちょめ\nちょめ ちょ ちょ！めっ！\n\nいけないいけないイけないわ\nもう引けない引けない\n強請ってちょめちょめ\n君も僕も共犯じゃん\nほら黙ってやっちゃえ\n\nにゃはは\nこの出逢いにサンキュー\n楽園マジか さあレッツパーティ\n誠身勝手だってただ駄々DADA\n\nｱｱｱ愛愛愛愛愛need you\nﾀﾞﾀﾞﾀﾞだめだめだりらりタイム中\nもっとランデブー\nずっとランデブー\nつってはらはらしたいや\nあははﾊｲﾊｲﾊｲﾊｲ催眠中\nﾊﾟﾊﾟﾊﾟﾗﾘﾗﾘﾗﾗﾊﾞｲ  I see you\nもっとランデブー\nずっとランデブー\n去ってさらさらさらば はいどうぞ\n責任転嫁れっつファイヤー\n\nちょめ ちょ ちょめ\nちょ ちょ ちょめちょめ\nちょめ ちょ ちょめ\nお好きなんでしょ\nちょめ ちょ ちょ め\nちょ ちょ ちょめちょめ\nちょめ ちょ ちょ！めっ！\n\nいけないいけないイけないわ\nもう引けない引けない\nね？だってちょめちょめ\n君お得意の冗談じゃん\nほら黙ってやっちゃえ\n\nにゃはは\nこの出会いに完封\n落園間近 さあレッツパーティ\nまことしやかな感謝 いや、謝過釈迦\n\nｱｱｱ愛愛愛愛愛need you\nﾀﾞﾀﾞﾀﾞだめだめだなんて再履修\nもっとランデブー\n君とランデブー\nつってちゃらちゃらリタイア\nあははﾊｲﾊｲﾊｲﾊｲ催眠中\nﾊﾟｯﾊﾟﾗﾘﾗﾘﾗﾗﾊﾞｲ  ICU\nもっとランデブー\n君とランデブー\n去ってさらさらさらば はいどうぞ\n逆鱗点火やっちまいな\n\nちょめ ちょ ちょめ×4\n \n\nまさに飼い鳥\nマジでアイロニー\n泣き寄りなんて今更\n誠恐ろしきエンド やだ？やだ！やだ？！\n嫌だ！嫌だ！嫌だ！\n\nｱｱｱ愛愛愛愛愛need you\nﾀﾞﾀﾞﾀﾞだめだめだりらりタイム中\nもっとランデブー\nずっとランデブー\nつってはらはらしたいや\nあははﾊｲﾊｲﾊｲﾊｲ催眠中\nﾊﾟﾊﾟﾊﾟﾗﾘﾗﾘﾗﾗﾊﾞｲ  I see you\nもっとランデブー\nずっとランデブー\n去ってさらさらさらば はいどうぞ\n責任転嫁レッツファイヤー\n\nちょめ ちょ ちょめ\nちょ ちょ ちょめちょめ\nちょめ ちょ ちょめ\nお好きなんでしょ\nちょめ ちょ ちょ め\nちょ ちょ ちょめちょめ\nちょめ ちょ ちょ！めっ！",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 30,
+        "position": 31,
         "publishedAt": "2022-06-02T19:38:30.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1503,7 +1553,7 @@
       }
     },
     {
-      "etag": "ugd_EQrEZvqYAJzu1qkalk_MFFc",
+      "etag": "199Nr-OE-nSFsQEAArJRsizZ6-g",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5GMDBDNkJGMzYzREUyMTYw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1511,7 +1561,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 31,
+        "position": 32,
         "publishedAt": "2022-06-02T19:13:53.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1553,7 +1603,7 @@
       }
     },
     {
-      "etag": "ow_xAjCNxyeeAnbkcjL60UD0IiA",
+      "etag": "hXYjrcG34Jcfb7mdrQJ4Sveg7Bc",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5CMUM0NzY5NzdEQzlGRjAx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1561,7 +1611,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 32,
+        "position": 33,
         "publishedAt": "2022-06-02T19:12:13.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1593,7 +1643,7 @@
       }
     },
     {
-      "etag": "5f1u7ExBTq6CwKVFoaeMSllqyk0",
+      "etag": "vUvWnQ7BV5C8lFMGTjpQbh_EvrI",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5EMzJDRTUwQjBEOUVFQzAw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1601,7 +1651,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 33,
+        "position": 34,
         "publishedAt": "2022-06-02T19:08:37.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1643,7 +1693,7 @@
       }
     },
     {
-      "etag": "XXclfHrm7Fq_wElChHtSj8oofdQ",
+      "etag": "INzZnJmAAV-HlfUnIIlIg3Cn9QQ",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS40NzE2MTY1QTM3RUI3QkU3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1651,7 +1701,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 34,
+        "position": 35,
         "publishedAt": "2022-06-02T19:06:19.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1693,7 +1743,7 @@
       }
     },
     {
-      "etag": "Q1IzZ-NA_aUHdJJO31hfKcveJw8",
+      "etag": "PKRrYNlfLUElMt8wwdGS5g2rpy8",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS44MkM2RjVEQkQ5N0I2MjVE",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1701,7 +1751,7 @@
         "channelTitle": "_eula",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 35,
+        "position": 36,
         "publishedAt": "2022-06-02T18:45:32.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1733,7 +1783,7 @@
       }
     },
     {
-      "etag": "XR7Hk-A9-ZYoD78bk0C1r76Nh8I",
+      "etag": "Nk-KHIrsnJDL5-1xibkPRJpJKAI",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS44QTA1QTQyRTc3M0VGQzYx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1741,7 +1791,7 @@
         "channelTitle": "_eula",
         "description": "「ホウライ　Sou　悪くないわ」\n\nニコニコ→https://www.nicovideo.jp/watch/sm40510725\n\n■本家様\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n　【GUMI】酔いどれ知らず【Kanaria】 \n　https://youtu.be/vB8sxY_PJ_w \n\n■Vocal＆Mix＆Mastering\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n　Sou\n　https://twitter.com/Nico_nico_Sou \n　https://www.youtube.com/c/niconicoSou\n\n■Illustration\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n　KEKI\n　https://twitter.com/rudecopper\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n\n▼Twitch\n　https://www.twitch.tv/nico_nico_sou\n▼Instagram\n　https://www.instagram.com/____sou/\n▼LINE\n　https://page.line.me/sou_official\n▼TikTok\n　https://www.tiktok.com/@sou__official\n▼Weibo\n　https://weibo.com/u/7394056269\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n#酔いどれ知らず  #kanaria  #歌ってみた #Sou",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 36,
+        "position": 37,
         "publishedAt": "2022-05-26T16:21:36.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1783,7 +1833,7 @@
       }
     },
     {
-      "etag": "fQWMT4jLL81wZPtMtUe16OknXSA",
+      "etag": "sq84ludEtySsR_Tksxz7Wc6wYz4",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wMDFGNzBEOTU4Q0Y1Q0RG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1791,7 +1841,7 @@
         "channelTitle": "_eula",
         "description": "屈する私は生きている\n\n■ご本家様\n本家様：Kanaria様\nhttps://youtu.be/vB8sxY_PJ_w\n■vocal:\n🌙紫咲シオン\n■mix:ごず様(＠_gozu777)\n■illustration:そふら様(@sofraaaaa)\n■movie:たーむ様(@Kumashiro_tarm)\n\n※動画の無断転載は禁止です。(ループ耐久動画など)\n※フル尺でないランキング形式の宣伝動画のみ利用可能です！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n🌙Youtubeチャンネル▼\nhttps://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw\n🌙Twitter▼\nhttps://twitter.com/murasakishionch\n\n#酔いどれ知らず　#紫咲シオン",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 37,
+        "position": 38,
         "publishedAt": "2022-05-26T16:19:13.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1833,7 +1883,7 @@
       }
     },
     {
-      "etag": "HwxHuuSFunFeeAs0ocETZbTLUag",
+      "etag": "9kQVlwB_p7pdi2xO4JMTerF7mpw",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4xNTZBNUQxMDZBQzFGMjkw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1841,7 +1891,7 @@
         "channelTitle": "_eula",
         "description": "original：https://www.youtube.com/watch?v=GSpwTvYgFrM&vl=ru\n\nmix：石田ユーキ様  https://twitter.com/ishidayuki\nillustration：うえのみぎ様　https://twitter.com/uenomigi\n雨藤シイ様 https://twitter.com/utoushii\nmovie：たこ焼き様　https://twitter.com/TaKoYaKi_MG\nvocal：ちとせ  https://twitter.com/ct0ce\n\n◆Thank you for watching.\nhttp://www.youtube.com/channel/UCo421wThg4Y1oJTIpg3JzcQ?view_as=subscriber?sub_confirmation=1",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 38,
+        "position": 39,
         "publishedAt": "2022-05-26T16:00:54.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1883,7 +1933,7 @@
       }
     },
     {
-      "etag": "R5ddSgX4FM8bYoNleT-19svoWUo",
+      "etag": "YW7NEbFLH1iWWUhptFhnAn8Ejt4",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5FQUY2Qzk4RUFDN0ZFRkZF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1891,7 +1941,7 @@
         "channelTitle": "_eula",
         "description": "【カラオケ配信決定】\n\n1月30日(日)より、JOYSOUND、DAMでのカラオケ配信開始が決定いたしました！\nぜひにたくさん歌ってあげてください🎤\n\n\n\n【各種サービスにて配信中】\n\nリンクはこちら\n\n↓\n\nhttps://linkco.re/Y00ChdHX\n\n\n\n全て「はい」で答えて\n\n音楽と絵と動画⇒LonePi　https://twitter.com/LonePi_\n\noffvocal⇒https://piapro.jp/t/ZwNf\n\nniconico⇒https://www.nicovideo.jp/watch/sm38387144\n\n\n#VOCALOID  #歌愛ユキ",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 39,
+        "position": 40,
         "publishedAt": "2022-05-25T14:20:54.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1933,7 +1983,7 @@
       }
     },
     {
-      "etag": "-V4K1vBSFjTWSraZZGpkGClNrDs",
+      "etag": "Jd8TjoPBly4EzNA5kpoeSoRUcVA",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4xN0Y2QjVBOEI2MzQ5OUM5",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1941,7 +1991,7 @@
         "channelTitle": "_eula",
         "description": "by sekai: https://twitter.com/oznul/status/1506593784116973569",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 40,
+        "position": 41,
         "publishedAt": "2022-05-18T14:52:16.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -1978,7 +2028,7 @@
       }
     },
     {
-      "etag": "dxRfj3kdlp9d_H6uitUC5JXxx8Q",
+      "etag": "7N4StQD9RxyXy1vFokAD0jMf0Q8",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS45NDlDQUFFOThDMTAxQjUw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -1986,7 +2036,7 @@
         "channelTitle": "_eula",
         "description": "#あだぽしゃ\n#いよわ\n#歌ってみた\n\nいよわ様の「あだぽしゃ」を歌わせて頂きました。\n\n本家様：https://youtu.be/Wr-2xcQkke4\n作編曲・動画　いよわ様\n\n歌・Mix：沫尾\n\n売れてないのでまだ社畜です。\n良ろしければ高評価・コメント・各種フォローよろしくお願いします！\n\n↓YouTubeチャンネル↓\nhttps://www.youtube.com/channel/UCqo7dUSba_kcUi_XOE6mCrw\n\n↓Twitter↓\nhttps://twitter.com/matsu_b1\n\n↓ニコニコ動画マイリスト↓\nhttps://www.nicovideo.jp/mylist/70541213​\n\n#あだぽしゃ\n#いよわ\n#歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 41,
+        "position": 42,
         "publishedAt": "2022-05-15T15:28:35.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2028,7 +2078,7 @@
       }
     },
     {
-      "etag": "3vRuDFcTS6FCt53rSR5Yc29e3aY",
+      "etag": "E5LXeSuhnsJ1kcDDBmxo1n0DvpY",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4yQzk4QTA5QjkzMTFFOEI1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2036,7 +2086,7 @@
         "channelTitle": "_eula",
         "description": "REMASTERED IN HD!\nMusic video by Sting performing Englishman In New York. (C) 1987 A&M Records\n#Sting #EnglishmanInNewYork #Remastered #Vevo #Rock #OfficialMusicVideo",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 42,
+        "position": 43,
         "publishedAt": "2022-05-14T09:19:35.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2078,7 +2128,7 @@
       }
     },
     {
-      "etag": "6wvUfqqJ1k1NfvR7V2mrpb5xY3w",
+      "etag": "ddigJ9ygztGbmyajc-qvX868t9A",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5EQkE3RTJCQTJEQkFBQTcz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2086,7 +2136,7 @@
         "channelTitle": "_eula",
         "description": "本家様：https://youtu.be/5XehRIb81k8\n@NAKISO \n\n歌：sekai\nhttps://twitter.com/uoxvz\n絵：鮫島ぬりえ @nurie_7\n混：@xearium @xea \n動：nenne @wfmdll",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 43,
+        "position": 44,
         "publishedAt": "2022-05-13T15:03:48.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2128,7 +2178,7 @@
       }
     },
     {
-      "etag": "O3ZbQHflzKYeRymhNCMFH-Kur-k",
+      "etag": "7ZKRSuDbk0wQNiopgyr7y7BaC-Q",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS43QzNCNkZENzIyMDY2MjZB",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2136,7 +2186,7 @@
         "channelTitle": "_eula",
         "description": "稲葉曇様のポストシェルター（https://youtu.be/kYwB-kZyNU4 ）を歌わせていただきました。\n\nmix　さんかくずわり様\n・https://twitter.com/Sankaku_Mix \n\nencode　らふどん様\n・https://youtube.com/user/rfdn0117 \n・https://twitter.com/rfdn_0117 \n\nvocal　倚水\n・https://www.nicovideo.jp/mylist/63771354 \n・https://twitter.com/_isui_ \n\n\n前　神っぽいな　https://youtu.be/LqBizfvXbEc\n次　？\n\n#歌ってみた",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 44,
+        "position": 45,
         "publishedAt": "2022-05-04T20:46:54.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2173,7 +2223,7 @@
       }
     },
     {
-      "etag": "xO8Dvf0mPLd4dgVlh17oOk3F7T0",
+      "etag": "sG9jUUzMzbSRn-w-pESiOPCHC2Q",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS42RTNCOEMxREI3Q0VDMjU2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2181,7 +2231,7 @@
         "channelTitle": "_eula",
         "description": "​本家@kanaria9704 \nhttps://www.youtube.com/watch?v=vB8sxY_PJ_w&t=0s\n\nサムネイルイラスト@_pocan_\n\n僕→@xoq",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 45,
+        "position": 46,
         "publishedAt": "2022-05-02T14:09:23.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2223,7 +2273,7 @@
       }
     },
     {
-      "etag": "4tsM7PGSF0iqE6kIeuae9UZxqQQ",
+      "etag": "3FLL5GH50LSvbXPlkwsjwhb3aEQ",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS40MDNEMzA0QTBFRThFMzBE",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2231,7 +2281,7 @@
         "channelTitle": "_eula",
         "description": "■Original：マーシャル・マキシマイザー / 可不　\nhttps://youtu.be/jMKPYg0uhCI\n・曲 / 柊マグネタイト 様 https://twitter.com/hiiragi_magne\n・絵 / あさ 様　https://twitter.com/o0_asa_0o\n・ギター / C'Na 様　https://twitter.com/CNa_Qe\n\n■mix：四 （アズマ）様　\nTwitter : https://twitter.com/azma_music\nYoutube : https://www.youtube.com/channel/UC6UF6qHhn3PbWVbEnpweUSg\n\n■vocal：わかばやし\nhttps://twitter.com/waka_nana0413",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 46,
+        "position": 47,
         "publishedAt": "2022-04-30T16:19:26.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2273,7 +2323,7 @@
       }
     },
     {
-      "etag": "w_TQYyU8oJO0z3NQXt-hvaWcYx4",
+      "etag": "s5-DsN6SF1FI9vwq7rIDq9Tiieg",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5ERkUyQTM0MzEwQjZCMTY5",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2281,7 +2331,7 @@
         "channelTitle": "_eula",
         "description": "┈\n\noriginal\nhttps://youtu.be/huO5w9GfSio\n\n┈\n\nillust - じろう\nhttps://twitter.com/quxf_\n\nvocal mv - 否\nhttps://twitter.com/I7N0T\n\n#G4L #Giga #歌ってみた\n\n - 無断転載はご遠慮ください。\n -  Please do not reprint without permission.",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 47,
+        "position": 48,
         "publishedAt": "2022-04-23T16:08:45.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2323,7 +2373,7 @@
       }
     },
     {
-      "etag": "5DfOmMNQzBKmae3jxj5dQlEdr1U",
+      "etag": "2ZXi6wTaCDnn5_CN3-g26d-koCM",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5CNTcxMDQ0NThBNzMxODYz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2331,7 +2381,7 @@
         "channelTitle": "_eula",
         "description": "おはよ、日あさ寝です。\nだいすきな曲を描いてうたいました。\n君と僕を繋ぎ合わせ。\n\n\n『ハローマリーナ』\nMusic: 稲葉曇\nhttps://youtu.be/g6sYNwl1EWg\n\nMix: D_MIX\nhttps://twitter.com/D_MIXing\n\nVocal＆Movie: 日あさ寝\n\n\n☼\nYoutube: https://www.youtube.com/channel/UC3W7U6d6YE24l57NUqK3yKw\nTwitter: https://twitter.com/Hiasane_",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 48,
+        "position": 49,
         "publishedAt": "2022-04-22T13:00:45.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2371,9 +2421,20 @@
       "status": {
         "privacyStatus": "public"
       }
-    },
+    }
+  ],
+  "kind": "youtube#playlistItemListResponse",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "pageInfo": {
+    "resultsPerPage": 50,
+    "totalResults": 97
+  }
+},
+{
+  "etag": "wbmFhRBy2GboADqfqmpZrCupTZM",
+  "items": [
     {
-      "etag": "OWUlZTmGHDPW32CxqbpVxZ6riBk",
+      "etag": "PwGCkdPLL_5HdxAIxTuShXrV-Ao",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wRjhFM0MxMTU1MEUzQ0VB",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2381,7 +2442,7 @@
         "channelTitle": "_eula",
         "description": "■Original：きゅうくらりん / いよわ feat.可不　\nhttps://youtu.be/2b1IexhKPz4\n作詞作編曲・絵・動画　いよわ 様　\nhttps://twitter.com/igusuri_please\n\n\n■mix：やっち 様　\nhttps://twitter.com/Yc_nm0326 \nhttp://mixreq-site.com\n\n\n■enc らふどん 様\nTwitter : https://twitter.com/rfdn_0117\n\n\n■vocal：わかばやし　\nhttps://twitter.com/waka_nana0413",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 49,
+        "position": 50,
         "publishedAt": "2022-04-16T00:40:17.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2421,20 +2482,9 @@
       "status": {
         "privacyStatus": "public"
       }
-    }
-  ],
-  "kind": "youtube#playlistItemListResponse",
-  "nextPageToken": "EAAaBlBUOkNESQ",
-  "pageInfo": {
-    "resultsPerPage": 50,
-    "totalResults": 97
-  }
-},
-{
-  "etag": "VoFZtjsGWczUzBWZQqSLOVmnpRM",
-  "items": [
+    },
     {
-      "etag": "v5KG_A_K6LSrqyExtjBf-cEKOws",
+      "etag": "8v96J9FRc9rdGDNlQ9PzFlbnD8c",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS41OURENDc2NEM1MDI5Mjky",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2442,7 +2492,7 @@
         "channelTitle": "_eula",
         "description": "■Original：ノウナイディスコ / IA [CeVIO AI] https://youtu.be/NMiQmumW0nI\nmusic : r-906 様 ( http://twitter.com/arukuremu )\nillustration & movie : サクヤ 様 ( https://twitter.com/7UU61 )\n\n■mix：やっち 様　\nhttps://twitter.com/Yc_nm0326  \nhttp://mixreq-site.com\n\n■enc らふどん 様\nTwitter : https://twitter.com/rfdn_0117\n\n■vocal：わかばやし　\nhttps://twitter.com/waka_nana0413\n\n※一部歌唱歌詞に誤りがございます。申し訳ございません。",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 50,
+        "position": 51,
         "publishedAt": "2022-04-16T00:36:48.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2484,7 +2534,7 @@
       }
     },
     {
-      "etag": "82AUQOmvJBXlm-dupqoNvL8RvY4",
+      "etag": "yOix9WuzOJEkrVYl1v-YVo_YmfY",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS42QzdBMzlBQzQzRjQ0QkQy",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2492,7 +2542,7 @@
         "channelTitle": "_eula",
         "description": "すりぃ様の「テレキャスタービーボーイ」を歌わせていただきました。 \n\n御本家様 https://youtu.be/pWLhidOSYOs\n\nmix. よしけん様 ＠yoshi_kennn\nenc. らふどん様 @rfdn_0117\nvo. むﾄ @temnem_sui \n\n非常識なコメントやタグはスルーで、各自NG登録、通報をお願い致します。",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 51,
+        "position": 52,
         "publishedAt": "2022-04-11T23:00:22.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2534,7 +2584,7 @@
       }
     },
     {
-      "etag": "dibDMzq8YTThMGhxX9E3AqHHMSQ",
+      "etag": "7G9JBTYK-QeisAaiNOTacbv6oik",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4zMUEyMkQwOTk0NTg4MDgw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2542,7 +2592,7 @@
         "channelTitle": "_eula",
         "description": "syudou様の「ビターチョコデコレーション」を歌わせていただきました。\n\n新しい歳の新しい歌。\nまた一つ歳を重ねたようです。よろしくお願いします。\n\n御本家様 (https://www.youtube.com/watch?v=XCyKJD6uQyg)\n\nmix. よしけん様 (@yoshi_kennn)\nenc. らふどん様 (@rfdn_0117)\nvo. むﾄ (@temnm_sui)\n\n※非常識なコメントやタグはスルーで各自NG登録、通報をお願い致します",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 52,
+        "position": 53,
         "publishedAt": "2022-04-11T22:58:14.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2584,7 +2634,7 @@
       }
     },
     {
-      "etag": "pJlnhAoqz3L67Ma45aUtuvnCaos",
+      "etag": "cC8uapSqtEDnRGtssp3w5uc_3vM",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wMTYxQzVBRDI1NEVDQUZE",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2592,7 +2642,7 @@
         "channelTitle": "_eula",
         "description": "「そうやって人と比べるのもうやめたら？」\n\n\n\n曲/Ayase 様\nhttps://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA\n\n本家様\nhttps://www.youtube.com/watch?v=eZ0E3Rkv0NA\n\n\n\nVo：Ado\nhttps://twitter.com/ado1024imokenp\n\nmix：Wac\nhttps://twitter.com/Wac0414\n\n\nIllust：戸部じろ 様\nhttps://twitter.com/tobeG6\n\n\nMovie：中山 明飛 様\nhttps://twitter.com/Nemui_All\n\n_______________________________________________\n\r\nniconico\nhttps://www.nicovideo.jp/mylist/58569901\n\n\nお仕事、お問い合わせはこちらまで\ninfo@cloud9pro.co.jp",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 53,
+        "position": 54,
         "publishedAt": "2022-04-04T23:07:02.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2629,7 +2679,7 @@
       }
     },
     {
-      "etag": "JpHGOQ2eF7GP7sBfmMqfVKcRxSI",
+      "etag": "KtZB2EOTMtl8MYK4hjX2jzQgWDQ",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4wNEU1MTI4NkZEMzVBN0JF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2637,7 +2687,7 @@
         "channelTitle": "_eula",
         "description": "柊キライ様の ラブカ？ を歌わせていただきました。\n\n曲/柊キライ様 @Kirai_dark\nhttps://twitter.com/Kirai_dark\n本家様：https://youtu.be/1Esz9ONM9X8\n\nー\n\nVo：Ado\nhttps://twitter.com/ado1024imokenp\n\nMovie：りゅうせー 様\nhttps://twitter.com/ryuuseee\n\nオフボーカル：https://commons.nicovideo.jp/material/nc231347\n\n配信：https://linkco.re/qyRZNu0e\n\nー\n\nLyric\n\n暗い 暗い 深海 ヴェールに包まれるは ラ ラ ラ ラ ラ ラブか？\n奪い 奪い 叶わぬ願いは打ち上げられ さ さ さ さっさと去るか？\n届け 届け それでも光は潰え水面 その遥か ラブカ\nクライ クライ 未開の想いは足らぬ 足らぬ 至らぬはラブか？\n\nラブカ ラララ ラブカ\nラブ なのか？\n\n甘きラビュー ラビュー ラビューか？\nそれはバグ バグ バグか？\n嘘と嘘で濁ったアイ アイニージュか？\n腐る愛 愛 愛か？\n咀嚼 吐き出し泣くか？\n届かぬ距離で待っていたってしょうがない\n\n白亜病 ラ ラ ラ ラ ラ ラブカ\n\n暗い 暗い 深海 ヴェールに包まれるは ラ ラ ラ ラ ラ ラブか？\n奪い 奪い 叶わぬ願いは打ち上げられ さ さ さ さっさと去るか？\n届け 届け それでも光は潰え水面 その遥か ラブカ\nクライ クライ 未開の想いは足らぬ 足らぬ 至らぬはラブか？\n\nラブカ ラララ ラブカ\nラブ なのか？\n\n甘きラビュー ラビュー ラビューか？\nそれはバグ バグ バグか？\n嘘と嘘で濁ったアイ アイニージュか？\n腐る愛 愛 愛か？\n咀嚼 吐き出し泣くか？\n届かぬ距離で待っていたってしょうがない\n\n甘きラビュー ラビュー ラビューか？\nそれはバグ バグ バグか？\n\n腐るラビュー ラビュー ラビューは\n既に地に落ち絶えた\n\n届く距離で出会って嫌になるならやめな\n\n白亜病 ラ ラ ラ ラ ラ ラブカ\n\nラ ラ ラ ラ ラ ラブカ\n\nラ ラ ラ ラ ラ ラブカ\n\n__________________________________________________________________\n\n#Ado　#ラブカ\n\nお仕事、お問い合わせはこちらまで\ninfo@cloud9pro.co.jp",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 54,
+        "position": 55,
         "publishedAt": "2022-03-31T13:55:23.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2679,7 +2729,7 @@
       }
     },
     {
-      "etag": "xMY6HjR3NWwXy3Bh-BcuZ7NNU_Y",
+      "etag": "YMcHZDeiQVuLUdetKeD8HZYSXSU",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5GNjAwN0Y0QTFGOTVDMEMy",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2687,7 +2737,7 @@
         "channelTitle": "_eula",
         "description": "🃏バ『バ』抜き❤️ケモノ信者\n\n#バケモノ信者 #マイキ #歌ってみた\n\n🃏本家🃏\nマイキP -  (ラトゥラトゥ)さん「バケモノ信者 feat. 初音ミク【ボカロオリジナル曲】」\nhttps://www.youtube.com/watch?v=0wcZPlA9MrU\n\n♠️動画♠️\nRopegino(親方)\n\n♣️イラスト♣️\nTaroh さん\nhttps://twitter.com/shimapann\n\n♢Mix♢\nGetenya Tomo\n\n♥️歌♥️\nウルシー/Urucy\n\n🦴ウルシー🦴\n\n💭Twitter💭\nhttps://twitter.com/UrucyWolf​\n基本ふざけてます\n\n⭐️Goods⭐️\nhttps://urushitekkojo.booth.pm/​\n【数量限定】\nおためしちびアクキー販売中！\n\n🌙ファンボックス🌙\nhttps://urucy.fanbox.cc/\n・限定ボイス\n・ちょい歌ってみた\n・せきらら日記\n・最新情報\n・特別先行イラスト\n・未公開動画\nなどなど、盛りだくさんなので是非チェックしてみてね🐺✨\n\n🌞TikTok🌞\nvt.tiktok.com/ZSJ1K3V7d/\n3Dでダンス中心やってるぞ\n不定期での更新だぞ",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 55,
+        "position": 56,
         "publishedAt": "2022-03-31T13:23:15.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2729,7 +2779,7 @@
       }
     },
     {
-      "etag": "Z3HUN7NnajbbUBveHmGBIQghIBw",
+      "etag": "TzNWU3iooQv8NEgU7xds4_wP9wo",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS43NERCMDIzQzFBMERCMEE3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2737,7 +2787,7 @@
         "channelTitle": "_eula",
         "description": "Like,share,and subscribe",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 56,
+        "position": 57,
         "publishedAt": "2022-03-23T15:46:20.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2769,7 +2819,7 @@
       }
     },
     {
-      "etag": "1YwTuQwSAIhdSzVJwaSH0iMR3Lg",
+      "etag": "812RuNExz9wUTXwY4Lz4OLG92zo",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS42Qzk5MkEzQjVFQjYwRDA4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2777,7 +2827,7 @@
         "channelTitle": "_eula",
         "description": "Original.\nラブカ？ / 柊キライ feat.flower\nhttps://youtu.be/1Esz9ONM9X8\n\n\n\n\n\n\n\n\nMix. \n999(@guguchan_9)",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 57,
+        "position": 58,
         "publishedAt": "2022-03-21T19:41:37.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2819,7 +2869,7 @@
       }
     },
     {
-      "etag": "hngC72Nm2ABp6mlY8noGtQC-pSQ",
+      "etag": "YngHlq_q4txnAQRZ6prw6_Ssnx8",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4zMEQ1MEIyRTFGNzhDQzFB",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2827,7 +2877,7 @@
         "channelTitle": "_eula",
         "description": "___________  ･ 削除済\n\n混：いお@io_P_io\n\n\n𖠌 \ntw：https://twitter.com/nono0mn?s=21\nyo：https://youtube.com/channel/UCFMddFVlWOt7LApoMMa3ciw",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 58,
+        "position": 59,
         "publishedAt": "2022-03-20T09:56:57.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2869,7 +2919,7 @@
       }
     },
     {
-      "etag": "9EeGofLZyeEX53pzDxDfibjclg4",
+      "etag": "1ZvhZaVI6JEjv20ao8Y7JKxNwZs",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4xMzgwMzBERjQ4NjEzNUE5",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2877,7 +2927,7 @@
         "channelTitle": "_eula",
         "description": "もう外見から存在まで否定で。\n\n✦ 本家様 ✦\n【公式】 ネロイズム／かいりきベア feat.鳴花ミコト\nhttps://www.youtube.com/watch?v=G9LXGvr7Nyc\n୨୧┈┈┈┈┈┈┈┈┈┈・✦☪︎✦・┈┈┈┈┈┈┈┈┈┈┈୨୧\n✦ Vocal ✦\n月乃\n▶ Twitter\nhttps://twitter.com/tsuki_nxo\n▶ niconico ver.\nhttps://www.nicovideo.jp/watch/sm37500841\n▶ BOOTH( CD&Goods )\nhttps://tsukino.booth.pm/\n▶ FANBOX(ファンクラブ)\nhttps://tsukino.fanbox.cc/\n▶ HP\nhttps://lunaticmelody.wixsite.com/lunamelo\n▶ チャンネル\nhttps://www.youtube.com/c/TsukinoChannel\n✉ mail\ntsuki.nxo.work@gmail.com\n\n❥　他のカバー動画はこちらから！\n https://www.youtube.com/playlist?list=PLYPOf_523g9XZKeSXeOvPHc6TmmsR19Z1\n\n✦ Mix , Mastering ✦\nMeis Clauson\nHP ▶ http://meisclauson.com/\nTwitter ▶ https://twitter.com/meisclauson\n\n✦ Encode ✦\nらふどん\nhttps://twitter.com/rfdn_0117\n୨୧┈┈┈┈┈┈┈┈┈┈・✦☪︎✦・┈┈┈┈┈┈┈┈┈┈┈୨୧\n▶ 他のカバー動画はこちらから！\n https://www.youtube.com/playlist?list=PLYPOf_523g9XZKeSXeOvPHc6TmmsR19Z1\n▶ 高評価・チャンネル登録お願いします！\nhttps://www.youtube.com/c/TsukinoChannel\n▶ Twitterもフォローしてね！\nhttps://twitter.com/tsuki_nxo\n▶ HP\nhttps://lunaticmelody.wixsite.com/lunamelo\n୨୧┈┈┈┈┈┈┈┈┈┈・✦☪︎✦・┈┈┈┈┈┈┈┈┈┈┈୨୧\n#月乃 #ネロイズム #歌ってみた #cover #かいりきベア",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 59,
+        "position": 60,
         "publishedAt": "2022-03-15T22:54:18.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2919,7 +2969,7 @@
       }
     },
     {
-      "etag": "tlzFjCxRLBZVh-CEj8vB0-AcRqw",
+      "etag": "VaGaYdXbrr4uOwayf8-9z35-m34",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS41RTNBREYwMkI5QzU3RkY2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2927,7 +2977,7 @@
         "channelTitle": "_eula",
         "description": "inabakumori - Lagtrain (Vo. Kaai Yuki)\n\n稲葉曇です。\n\nPlaylist　http://bit.ly/2D37VHA\n\nSpotify　https://spoti.fi/3uInIo1\nApple Music　https://apple.co/2NV5NKj\nLINE Music　https://lin.ee/dco9114\n\nTwitter　https://twitter.com/inabakumori\nWeb　https://inabakumori.fanbox.cc/\ninst & lyrics file　https://bit.ly/2QMImD5\n\nMusic : 稲葉曇\nVocal : 歌愛ユキ\nIllustration & Animation：ぬくぬくにぎりめし　https://twitter.com/NKNK_NGRMS\nMovie : 稲葉曇\n電車の録音 : ぬくぬくにぎりめし\n\n■ 2nd Album『ウェザーステーション』2022.03.23 RELEASE\nXFD(Album Trailer)　https://youtu.be/W-mVtHfGoHI\nListen　https://orcd.co/weatherstation\nWeb　http://bit.ly/34TZLCk\n\n------------------------------------\n『ラグトレイン』\n\n離れ離れの街を繋ぐ列車は行ってしまったね\n失くした言葉を知らないなら　ポケットで握りしめて\nあがいた息を捨てて延びる今日は眠って誤魔化せ\n失くした言葉を知らないなら　各駅停車に乗り込んで\n\n夕方と退屈のお誘いを断って\n一人きり　路地裏は決して急がないで\nほら　横断歩道も待ってくれと言ってる\n見張る街角があなたを引き留めてく\n\n離れ離れの街を繋ぐ列車は行ってしまったね\n失くした言葉を知らないなら　ポケットで握りしめて\nあがいた夢を捨てて揺れる今日は眠って誤魔化せ\n失くした言葉を知らないなら　各駅停車に乗り込んで\n\n夕方の駅のホームはひどく混み合って\nひとり占めできるまで休憩して欲しくて\nまた　集団下校があなたを急かしている\nほら　自動改札は待ってくれと言ってる\n塞がる両手があなたを引き留めてく\n\nあがいた夢を捨てて揺れる今日は眠って誤魔化せ\n失くした言葉を知らないなら　各駅停車に乗り込んで\n\n離れた街と街を繋ぐ列車が\n呼んだ風に飛ばされないでいてくれ\n失くした言葉はそのままでいいよ\n揺れる列車に身を任せて欲しいから\n\n離れ離れの街を\n\n離れ離れの街を繋ぐ列車は行ってしまったね\n失くした言葉を知らないなら　ポケットで握りしめて\nあがいた息を捨てて延びる今日は眠って誤魔化せ\n失くした言葉を知らないなら　各駅停車で旅をして",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 60,
+        "position": 61,
         "publishedAt": "2022-03-10T17:48:42.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -2969,7 +3019,7 @@
       }
     },
     {
-      "etag": "F8y6ukSYl-HhkucwFSlXflamaIw",
+      "etag": "VuR2w4el5z5XkcMn9Sy1gcVlzcY",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4yQUJFNUVCMzVDNjcxRTlF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2977,7 +3027,7 @@
         "channelTitle": "_eula",
         "description": "@x0o0x_\n\nillust 游@stdio_nameraka\n\ninst\nhttps://drive.google.com/file/d/1j70_wkoILrL0YkuMBFTdC6_nrXWxD27p/view?usp=sharing",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 61,
+        "position": 62,
         "publishedAt": "2022-03-04T10:44:04.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3014,7 +3064,7 @@
       }
     },
     {
-      "etag": "9pR23KSXFVdbJUTRwzgC7oOnQyU",
+      "etag": "Q7CjTZRnkQlMyo0sdroP7GsmeZI",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4yQjZFRkExQjFGODk3RUFD",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3022,7 +3072,7 @@
         "channelTitle": "_eula",
         "description": "原曲：x0o0x_『』\n→https://www.youtube.com/watch?v=UxM5UgpXYM4\n\nVocal,MIX：ウォルピスカーター\n（ https://twitter.com/wolpis_kater ）\n\nMST：SILVANA\n（ https://twitter.com/silvana4687 ）\n\n\n\n#ウォルピス社提供\n#ウォルピスカーター",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 62,
+        "position": 63,
         "publishedAt": "2022-02-28T09:26:30.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3064,7 +3114,7 @@
       }
     },
     {
-      "etag": "TaxRN_DNCliJ7PN8sGFWUcwH9ug",
+      "etag": "ceowARiiZN8Kzx2NV5pRjaEOPd4",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS41MzY4MzcwOUFFRUU3QzEx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3072,7 +3122,7 @@
         "channelTitle": "_eula",
         "description": "( ´ー｀)y-~~←ここあしがれっと\n\n本家様 ❯❯❯ Giga - CH4NGE ft.可不【MV】\nhttps://www.youtube.com/watch?v=LbO4pg_LHUI\nMusic : Giga，Lyrics : q*Left\nIllust : ろるあ，Movie : 筆者 / お菊 \n⋆꒰ঌ┈┈┈┈┈┈┈┈┈✧☪️✦┈┈┈┈┈┈┈┈┈┈໒꒱⋆\n\nVocal：月乃 - tsukino\nTwitter ❯❯❯ https://twitter.com/tsuki_nxo\nHP ❯❯❯ https://lunaticmelody.wixsite.com/lunamelo\n\nMix，Chorus：みはね - mihane\nTwitter ❯❯❯ https://twitter.com/minmigumihane24\nChannel ❯❯❯ https://www.youtube.com/channel/UCvP4TQTpBxm4AjFQOSKRrdA\n\n⋆꒰ঌ┈┈┈┈┈┈┈┈┈✧☪️✦┈┈┈┈┈┈┈┈┈┈໒꒱⋆\n✦高評価・チャンネル登録お願いします！\n↳http://www.youtube.com/channel/UCkyKFiCLAsZL-TLk7psDggQ?sub_confirmation=1\n\n✦お歌のプレイリスト\n↳https://www.youtube.com/playlist?list=PLYPOf_523g9XZKeSXeOvPHc6TmmsR19Z1\n\n✦通販(BOOTH)【CD・オリジナルグッズ】\n↳https://tsukino.booth.pm/\n\n✦FANBOX【ファンクラブ】\n↳https://tsukino.fanbox.cc/\n\n✦ニコニコ動画\n↳https://www.nicovideo.jp/user/18384797/mylist/38940098\n\n✦Twitterもフォローしてね！\n↳https://twitter.com/tsuki_nxo\n\n✦HP\n↳https://lunaticmelody.wixsite.com/lunamelo\n\n✉️ mail\ntsuki.nxo.work@gmail.com\n⋆꒰ঌ┈┈┈┈┈┈┈┈┈✧☪️✦┈┈┈┈┈┈┈┈┈┈໒꒱⋆\n#月乃 #CH4NGE #歌ってみた #Giga #cover",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 63,
+        "position": 64,
         "publishedAt": "2022-02-27T11:35:07.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3114,7 +3164,7 @@
       }
     },
     {
-      "etag": "o0X-dxaSPBwr2Onzr2XsRfK4JIY",
+      "etag": "pQxWO2Ej3ER1EkL5nXM_Nkh7DSY",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5DRUQwODMxQzUyRTlGRkY3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3122,7 +3172,7 @@
         "channelTitle": "_eula",
         "description": "Official audio for The Weeknd \"Blinding Lights\" - available everywhere now: http://theweeknd.co/blindinglightsYD\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n\n►Follow The Weeknd:\nhttps://twitter.com/theweeknd\nhttps://www.facebook.com/theweeknd\nhttps://www.instagram.com/theweeknd\nhttps://www.theweeknd.com\nSubscribe to YouTube Music: http://theweeknd.co/blindinglightsYD/youtubemusic\n\n►\"Blinding Lights\" Lyrics:\nI been tryna call\nI’ve been on my own for long enough\nMaybe you can show me how to love, maybe\nI’m going through withdrawals \nYou don’t even have to do too much\nYou can turn me on with just a touch, baby\n\n(Ohhhh oh)\nSin city’s cold and empty\n(Oh)\nNo one’s around to judge me \n(Oh)\nI can’t see clearly when you’re gone \nI said ohhhh I’m blinded by the lights \nNo I can’t sleep until I feel your touch\nI said ohhhh I’m drowning in the night\nOh when I’m like this you’re the one I trust \n(Hey hey hey)\n\nI’m running out of time \nCause I can see the sun light up the sky\nSo I hit the road in overdrive, baby \n\n(Ohhhh)\nThe city’s cold and empty\n(Oh)\nNo one’s around to judge me \n(Oh)\nI can’t see clearly when you’re gone \nI said ohhhh I’m blinded by the lights \nNo I can’t sleep until I feel your touch\nI said ohhhh I’m drowning in the night\nOh when I’m like this you’re the one I trust \n(Hey hey hey)\n\nI’m just calling back to let you know\nI could never say this on the phone\nWill never let you go this time\n\nI said ohhhh I’m blinded by the lights \nNo I can’t sleep until I feel your touch\n\n(Hey hey hey)\n(Hey hey hey)\n\nI said ohhhh I’m blinded by the lights \nNo I can’t sleep until I feel your touch\n\n\n#TheWeeknd #BlindingLights\n\nMusic video by The Weeknd performing Blinding Lights (Audio). © 2019 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/OOW80Z",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 64,
+        "position": 65,
         "publishedAt": "2022-02-20T13:30:10.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3164,7 +3214,7 @@
       }
     },
     {
-      "etag": "A3lYN_7KYmJIom4H_jQsaTerhhA",
+      "etag": "-eGBBMc0_zeNvB-CCo9Ze14IwU8",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5DNkMwRUI2MkI4QkI4NDFG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3172,7 +3222,7 @@
         "channelTitle": "_eula",
         "description": "Work by x0o0x and Chogakusei: https://twitter.com/tyougakusei/status/1474681333947371523",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 65,
+        "position": 66,
         "publishedAt": "2022-02-20T12:27:03.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3214,7 +3264,7 @@
       }
     },
     {
-      "etag": "sMMs_HpGwCRog12Xr_wjdamE2yE",
+      "etag": "45oDkPl66mctbQoacwCk3WsXjJ4",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4zQzFBN0RGNzNFREFCMjBE",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3222,7 +3272,7 @@
         "channelTitle": "_eula",
         "description": "niconico link: https://nico.ms/sm36575396 \nyoutube link: youtu.be/6S2y5hnmq_M (deleted)\n\nwill unlist this when sekai reuploads it\n\nsekai's channels:\nUntitled: https://www.youtube.com/channel/UCiwS0NLEQkS0dIoA_NidGvg\n613 (formerly sekai): https://www.youtube.com/channel/UCPj18yD2Z7GgJinjMqMCO_w\n\nsekai's twitter: \nUntitled: http://twitter.com/uoxvz\n613: http://twitter.com/uvoxz\n\nsubtitles taken from: youtu.be/5t664jchxy8",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 66,
+        "position": 67,
         "publishedAt": "2022-02-19T22:52:12.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3264,7 +3314,7 @@
       }
     },
     {
-      "etag": "k8mDp94UB6l0p1QBadcceyUNvhI",
+      "etag": "L0QIWJVt1kYOhlgFJL3zEG5lcsA",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5GNDg1Njc1QzZERjlFRjE5",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3272,7 +3322,7 @@
         "channelTitle": "_eula",
         "description": "vocal　宮下 遊 (yuu miyashita)\r\n- twitter - https://twitter.com/miy_yuu\r\n\n================\nmusic 【syudou】様\nmovie 【ヤスタツ】様\n\n- https://www.youtube.com/watch?v=FXnzOGTEcuc\n映像、音源をお借りいたしました、この場を借りてお礼申し上げます。\n\n================\n\n◇「original channel」では自分で音楽やイラストも作っています。\nI also make my own music and illustrations on the \"original channel\".\n◆original channel\nhttps://www.youtube.com/channel/UCv7P8vbJW87IRWuOjTjarjQ\n\n================\n\n\n◆Thank you for watching.",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 67,
+        "position": 68,
         "publishedAt": "2022-02-19T21:30:24.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3314,7 +3364,7 @@
       }
     },
     {
-      "etag": "YfUJ26nXcf8mjeQj5Jv4Ev7MU3A",
+      "etag": "zgCdBs3my6hDFFZyO6Wfl72x0Q8",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS4xOTEzQzhBQzU3MDNDNjcz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3322,7 +3372,7 @@
         "channelTitle": "_eula",
         "description": "おはよ、日あさ寝です。\nだいすきな曲を描いてうたいました。\n最後見たのはそんな夢。\n\n\n『きゅうくらりん』\nMusic: いよわ\nhttps://youtu.be/2b1IexhKPz4\n\nMix: まぜり\nhttps://twitter.com/mazeri_co\n\nVocal＆Movie: 日あさ寝\n\n\n☼\nYoutube: https://www.youtube.com/channel/UC3W7U6d6YE24l57NUqK3yKw\nTwitter: https://twitter.com/Hiasane_",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 68,
+        "position": 69,
         "publishedAt": "2022-02-19T09:05:18.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3364,7 +3414,7 @@
       }
     },
     {
-      "etag": "w_28InmdRY065yq7KHsG0GPNuJU",
+      "etag": "Gz28BBDKii2hTKepMmREIWDS08g",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS5BRjJDODk5REM0NjkzMUIy",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3372,7 +3422,7 @@
         "channelTitle": "_eula",
         "description": "@x0o0x_\n\nillust 游@stdio_nameraka\n\n\ninst https://drive.google.com/file/d/1AtRYG6cunETvzf5A6gzaCV1mxV9mF4fK/view?usp=sharing",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 69,
+        "position": 70,
         "publishedAt": "2022-02-19T08:31:43.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3414,7 +3464,7 @@
       }
     },
     {
-      "etag": "xVRGsMMIoEUirtptYxTxFjPIfTI",
+      "etag": "_fx6Or0EzW4a12oGyc1P_sytYwo",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS40QTA3NTU2RkM1QzlCMzYx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3422,7 +3472,7 @@
         "channelTitle": "_eula",
         "description": "ふたりでひとつ\n\n【GUMI×初音ミク】アイデンティティ【Kanaria】\nhttps://www.youtube.com/watch?v=M9moY0hEJRE\n\nアイデンティティ / 宵崎 奏 × 初音ミク\nhttps://www.youtube.com/watch?v=YsSShYaKOvk\n⋆꒰ঌ┈┈┈┈┈┈┈┈┈✧☪️✦┈┈┈┈┈┈┈┈┈┈໒꒱⋆\n\nVocal，Illust：月乃×月斗(cv.月乃)\nTwitter ❯❯❯ https://twitter.com/tsuki_nxo\nHP ❯❯❯ https://lunaticmelody.wixsite.com/lunamelo\n\nMix，Mastering：Meis Clauson\nTwitter ❯❯❯ https://twitter.com/meisclauson\n\nMovie：らいり\nhttps://twitter.com/_Rai28\n\nSpecial Thanks.翠虎\n\n⋆꒰ঌ┈┈┈┈┈┈┈┈┈✧☪️✦┈┈┈┈┈┈┈┈┈┈໒꒱⋆\n✦高評価・チャンネル登録お願いします！\n↳http://www.youtube.com/channel/UCkyKFiCLAsZL-TLk7psDggQ?sub_confirmation=1\n\n✦お歌のプレイリスト\n↳https://www.youtube.com/playlist?list=PLYPOf_523g9XZKeSXeOvPHc6TmmsR19Z1\n\n✦通販(BOOTH)【CDやオリジナルグッズを販売してます！】\n↳https://tsukino.booth.pm/\n\n✦FANBOX【ファンクラブ】\n↳https://tsukino.fanbox.cc/\n\n✦ニコニコ動画\n↳https://www.nicovideo.jp/user/18384797/mylist/38940098\n\n✦Twitterもフォローしてね！\n↳https://twitter.com/tsuki_nxo\n\n✦HP\n↳https://lunaticmelody.wixsite.com/lunamelo\n\n✉️ mail\ntsuki.nxo.work@gmail.com\n⋆꒰ঌ┈┈┈┈┈┈┈┈┈✧☪️✦┈┈┈┈┈┈┈┈┈┈໒꒱⋆\n#月乃 #アイデンティティ #プロセカ 歌ってみた #Kanaria #cover",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 70,
+        "position": 71,
         "publishedAt": "2022-02-19T07:55:09.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3464,7 +3514,7 @@
       }
     },
     {
-      "etag": "t5X8kZ9bF7kRd9k7XCxjceBg-3o",
+      "etag": "WPV_6DOHz5sBgvMYE8ItojADON0",
       "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS45RjNFMDhGQ0Q2RkFCQTc1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3472,7 +3522,7 @@
         "channelTitle": "_eula",
         "description": "メリクリ\n\nオリジナル@kanaria9704 \nhttps://www.youtube.com/watch?v=cm-l2h6GB8Q\n\n@x0o0x_",
         "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 71,
+        "position": 72,
         "publishedAt": "2022-02-15T14:47:35.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -3508,56 +3558,6 @@
         "title": "KING 歌ってみた",
         "videoOwnerChannelId": "UCxIzG0XIBe1XMh5dz-qUkVg",
         "videoOwnerChannelTitle": "‌"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "etag": "3J6hwu0CAg2eP7HmCGNXY3mNdPs",
-      "id": "UEw2WTJIM1dneE84RXlidkE4S2VLVXdlR0wzMDBBZnN3WS42MTI4Njc2QjM1RjU1MjlG",
-      "kind": "youtube#playlistItem",
-      "snippet": {
-        "channelId": "UCYDjQ7Iq3NYFYnSJ23On4sQ",
-        "channelTitle": "_eula",
-        "description": "※ 이어폰사용을 권장합니다.\n\n---------------------------------------------------------------------------------\n\n\n\n▶ Vocal - 최홍자 \n\n▶ Mix - JetiE\n\n▶ Original - giga\n\n\n---------------------------------------------------------------------------------\n\n\n\n\n\n× Email - hongja1027@gmail.com\n\n× Twitch - https://www.twitch.tv/hongja1027\n\n× Twitter - https://twitter.com/Hongja_xxx\n\n\n\n\n\n---------------------------------------------------------------------------------",
-        "playlistId": "PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY",
-        "position": 72,
-        "publishedAt": "2022-02-14T17:38:00.000Z",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Z2W_nkdO4TQ"
-        },
-        "thumbnails": {
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/Z2W_nkdO4TQ/default.jpg",
-            "width": 120
-          },
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/Z2W_nkdO4TQ/hqdefault.jpg",
-            "width": 480
-          },
-          "maxres": {
-            "height": 720,
-            "url": "https://i.ytimg.com/vi/Z2W_nkdO4TQ/maxresdefault.jpg",
-            "width": 1280
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/Z2W_nkdO4TQ/mqdefault.jpg",
-            "width": 320
-          },
-          "standard": {
-            "height": 480,
-            "url": "https://i.ytimg.com/vi/Z2W_nkdO4TQ/sddefault.jpg",
-            "width": 640
-          }
-        },
-        "title": "【 최홍자 】 Giga - CH4NGE 【 Cover / 歌ってみた 】",
-        "videoOwnerChannelId": "UCZoVr9E5YFDAsnefuA_rrhw",
-        "videoOwnerChannelTitle": "최홍자"
       },
       "status": {
         "privacyStatus": "public"
