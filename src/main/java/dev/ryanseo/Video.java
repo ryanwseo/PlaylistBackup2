@@ -75,7 +75,8 @@ public class Video {
     public boolean equals(Object obj) {
         if (obj instanceof Video video) {
             return video.getVideoId().equals(this.getVideoId());
-        } else {
+        }
+        else {
             return false;
         }
     }

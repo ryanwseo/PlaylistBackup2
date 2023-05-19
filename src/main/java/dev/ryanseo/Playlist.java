@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.lang.reflect.Type;
 import java.security.GeneralSecurityException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -85,7 +84,8 @@ public class Playlist {
                             PrivacyStatus.valueOf(itemsArrayObject.getAsJsonObject("status").get("privacyStatus").getAsString().toUpperCase()),
                             snippet.getAsJsonObject("thumbnails").getAsJsonObject("high").get("url").getAsString(),
                             snippet.get("position").getAsInt());
-                } catch (NullPointerException e) {
+                }
+                catch (NullPointerException e) {
                     fromPlaylist = new Video(snippet.getAsJsonObject("resourceId").get("videoId").getAsString(),
                             null, null, null, null, null,
                             snippet.get("position").getAsInt());
@@ -133,7 +133,8 @@ public class Playlist {
         for (Video v : getVideos()) {
             if (v.getTitle() != null) {
                 System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle() + "  |  Pos: " + v.getPosition());
-            } else {
+            }
+            else {
                 throw new RuntimeException(String.format("The video at position %d (ID: %s) is misbehaving", v.getPosition(), v.getVideoId()));
             }
         }
