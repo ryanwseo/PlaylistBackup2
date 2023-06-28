@@ -1,17 +1,67 @@
 [
 {
-  "etag": "C2hwq_sHo2nD1YuaVk2upDppeQ4",
+  "etag": "Yoj-tXecrDOxWtRiAfTU3r761Mo",
   "items": [
     {
-      "etag": "IzW5QgQXpiqkmIdLr5Go-k6OP0M",
+      "etag": "aBDFkvkMQxWTdIlR3ogsWEbgZt8",
+      "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi41MjJFOEY2MTA4NTJEMEEy",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCYDjQ7Iq3NYFYnSJ23On4sQ",
+        "channelTitle": "mikeeei",
+        "description": "人間を求めよ。\n\n\n唐紅と申します。学習の歌です。初音ミクさんに歌ってもらいました。ぜひ聴いてください。\n\nTwitter: https://twitter.com/Vivid_Vermilion\n\nニコニコ: https://www.nicovideo.jp/watch/sm42280365?ref=garage_share_other\n\noff vocal: https://piapro.jp/t/4UOe",
+        "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
+        "position": 0,
+        "publishedAt": "2023-06-26T12:31:49.000Z",
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qv34KLziSL0"
+        },
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/Qv34KLziSL0/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/Qv34KLziSL0/hqdefault.jpg",
+            "width": 480
+          },
+          "maxres": {
+            "height": 720,
+            "url": "https://i.ytimg.com/vi/Qv34KLziSL0/maxresdefault.jpg",
+            "width": 1280
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/Qv34KLziSL0/mqdefault.jpg",
+            "width": 320
+          },
+          "standard": {
+            "height": 480,
+            "url": "https://i.ytimg.com/vi/Qv34KLziSL0/sddefault.jpg",
+            "width": 640
+          }
+        },
+        "title": "スフィンクス / 唐紅 feat.初音ミク",
+        "videoOwnerChannelId": "UCkZ7FdqEFH_jTXGGUdvnIyg",
+        "videoOwnerChannelTitle": "唐紅 / ボカロP"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "etag": "XOGphEG9heDez0kL-RbVgBQ5YF8",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4wMzUwRDA1QTFBNTk0NjU2",
       "kind": "youtube#playlistItem",
       "snippet": {
         "channelId": "UCYDjQ7Iq3NYFYnSJ23On4sQ",
         "channelTitle": "mikeeei",
-        "description": "inabakumori -  Kitai Avenue (Vo. Otomachi Una)\n\n稲葉曇です。\nVOCALOID6 AI 音街ウナ 公式デモ曲です。\n\nPlaylist　http://bit.ly/2D37VHA\n\nTwitter　https://twitter.com/inabakumori\nInstagram　https://www.instagram.com/inabakumori/\nWeb　https://inabakumori.fanbox.cc/\ninst & lyrics file　https://bit.ly/2QMImD5\n\nMusic : 稲葉曇\nVocal : 音街ウナ (VOCALOID6 AI 音街ウナ Sugar, Spicy)\nIllustration : ぬくぬくにぎりめし　https://twitter.com/NKNK_NGRMS\n\n■ VOCALOID6 AI 音街ウナ\nhttps://jpn01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ssw.co.jp%2Fproducts%2Fvocaloid6%2Fotomachiuna%2F&data=05%7C01%7Ckodai.umekawa%40sonymusic.co.jp%7C61de5d6904a1491da61708db6d894d8b%7C1a568983d4334d139cb2db3e0017d2b2%7C1%7C0%7C638224208705680020%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yQUxZYn8ejLXOL2AKHZVEQ8DYV0rR7YC0u07QLR8hbc%3D&reserved=0\n\n・メインボーカルはSugar, Spicyの声を重ねてます\n・音街ウナ キュートブースター 3の素材を使用しています\n・FormantShiftの設定は20.0centです\n\n■ 2nd Album『ウェザーステーション』2022.03.23 RELEASE\nhttp://bit.ly/34TZLCk\nXFD(Album Trailer)　https://youtu.be/W-mVtHfGoHI\nListen　https://orcd.co/weatherstation\n\n------------------------------------\n『期待通り』\n\n景色を切り裂いて　景色を切り裂いて\n可能性に急かされた君は\n\n時計を気にせずに　時計を気にせずに\nどこかで眠っているのでしょうか\n\n足跡を踏み直すために　行き先を受け取らなきゃ\n残してくれた名の前で\n言葉を拾い集め　集め　いっぱいにしていく\n\n君が見ていた街を結んでく線に　僕はなれるかな\nマイペースで進む　追いつけずに止まる\n等身大でいいよと　心のうちが教えてくれる\n\n期待通りを走る僕は　君にならなくちゃ\n急ぎながら進む　邪魔をされて止まる\n休憩してもいいよと　君を知る誰かが声をくれる\n\n曲がりくねった線を引く　体の中を満たすように\n前が詰まって進めないこともあるけど許して\n\n君に比べてしょぼくない？\nとか言われたってくじけない\n焦り揺れる心でも　誰かのためになりたいから\n\n景色を切り裂いて　可能性が残した傷跡を\n時計を気にせずに　優しく撫でたかったけれど\n\n途切れ途切れの線を駆け抜けて\n\n君が見ていた街を結んでく線は　僕が引かなくちゃ\nマイペースで進む　追いつけずに止まる\n空っぽになればなるほど重くなる役目を貰う\n\n期待通りを走る僕は　君を超えなくちゃ\n違う声で進み　新しい線を引く\n言葉を運び終えるまで　この街に停まる",
+        "description": "inabakumori -  Kitai Avenue (Vo. Otomachi Una)\n\n稲葉曇です。\nVOCALOID6 AI 音街ウナ 公式デモ曲です。\n\nPlaylist　http://bit.ly/2D37VHA\n\nTwitter　https://twitter.com/inabakumori\nInstagram　https://www.instagram.com/inabakumori/\nWeb　https://inabakumori.fanbox.cc/\ninst & lyrics file　https://bit.ly/2QMImD5\n\nMusic : 稲葉曇\nVocal : 音街ウナ (VOCALOID6 AI 音街ウナ Sugar, Spicy)\nIllustration : ぬくぬくにぎりめし　https://twitter.com/NKNK_NGRMS\n\n■ VOCALOID6 AI 音街ウナ\nhttps://www.ssw.co.jp/products/vocaloid6/otomachiuna/\n\n・メインボーカルはSugar, Spicyの声を重ねてます\n・音街ウナ キュートブースター 3の素材を使用しています\n・FormantShiftの設定は20.0centです\n\n■ 2nd Album『ウェザーステーション』2022.03.23 RELEASE\nhttp://bit.ly/34TZLCk\nXFD(Album Trailer)　https://youtu.be/W-mVtHfGoHI\nListen　https://orcd.co/weatherstation\n\n------------------------------------\n『期待通り』\n\n景色を切り裂いて　景色を切り裂いて\n可能性に急かされた君は\n\n時計を気にせずに　時計を気にせずに\nどこかで眠っているのでしょうか\n\n足跡を踏み直すために　行き先を受け取らなきゃ\n残してくれた名の前で\n言葉を拾い集め　集め　いっぱいにしていく\n\n君が見ていた街を結んでく線に　僕はなれるかな\nマイペースで進む　追いつけずに止まる\n等身大でいいよと　心のうちが教えてくれる\n\n期待通りを走る僕は　君にならなくちゃ\n急ぎながら進む　邪魔をされて止まる\n休憩してもいいよと　君を知る誰かが声をくれる\n\n曲がりくねった線を引く　体の中を満たすように\n前が詰まって進めないこともあるけど許して\n\n君に比べてしょぼくない？\nとか言われたってくじけない\n焦り揺れる心でも　誰かのためになりたいから\n\n景色を切り裂いて　可能性が残した傷跡を\n時計を気にせずに　優しく撫でたかったけれど\n\n途切れ途切れの線を駆け抜けて\n\n君が見ていた街を結んでく線は　僕が引かなくちゃ\nマイペースで進む　追いつけずに止まる\n空っぽになればなるほど重くなる役目を貰う\n\n期待通りを走る僕は　君を超えなくちゃ\n違う声で進み　新しい線を引く\n言葉を運び終えるまで　この街に停まる",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 0,
+        "position": 1,
         "publishedAt": "2023-06-25T10:51:13.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -53,7 +103,7 @@
       }
     },
     {
-      "etag": "JXKxAeqjAuuCPIg2ylvNSoW5QJA",
+      "etag": "nxBm7BbAGWBHOiBcf_2pmJxYyJY",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FNTJGOEJGNEY5OTc1MURB",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -61,7 +111,7 @@
         "channelTitle": "mikeeei",
         "description": "vocal　宮下 遊 (yuu miyashita)\n- twitter - 　https://twitter.com/miy_yuu\n- official web -　https://yuu-miyashita.com/\n================\n\nMusic :  かいりきベア 様\n◇original movie\nhttps://youtu.be/mSBZ19bc-sE\n================\n◆Thank you for watching.",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 1,
+        "position": 2,
         "publishedAt": "2023-06-22T15:08:06.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -103,7 +153,7 @@
       }
     },
     {
-      "etag": "SoT8MFoJCvOT_H8wBrIOQIJYB6g",
+      "etag": "mMyZlD8Nd0rgBdWbiA-AOT7yTvk",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40MTlENzU1QTA2NEU2MjZB",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -111,7 +161,7 @@
         "channelTitle": "mikeeei",
         "description": "୨୧･･･････････････････････････････୨୧\n\n✦.*·̩͙ Orignal－たかやん\nhttps://youtu.be/XrPVrX0PuMU\n\n✦.*·̩͙ Vocal.Movie－ししのうさ\nhttps://twitter.com/Datenshi_usa\n\n✦.*·̩͙ Illustrathion－ごん\nhttps://twitter.com/gonzaru_287\n\n✦.*·̩͙ Mix－tsi\nhttps://twitter.com/mix_tsi\n\n୨୧･･･････････････････････････････୨୧\n\n　ししの うさ 🐰🎀\n\n　地雷系堕天使で男の娘のししのうさです.ᐟ\n　好きになってくれなきゃ○しにいくね(ᐡᴗ ̫ ᴗᐡ)\n\n🎧   https://youtube.com/playlist?list=PLpFzRzOz-Yd2t2yINxhdU33gLRG91gRjj\n\n🐰Twitter🎀\nhttps://twitter.com/Datenshi_usa\n\n🐰Tiktok🎀\nhttps://www.tiktok.com/@datenshi_usa\n\n🐰ツイキャス🎀\nhttps://twitcasting.tv/datenshi_usa\n\n🐰Twitch🎀\nhttps://www.twitch.tv/datenshi_usa\n\n🐰その他リンクまとめ🎀\nhttps://lit.link/shishinousa\n\n୨୧･･･････････････････････････････୨୧\n\n🐰チャンネル登録よろしく願いします🐰\nPlease subscribe to my channel！\n  \n\n@Datenshi_usa\n\n୨୧･･･････････････････････････････୨୧",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 2,
+        "position": 3,
         "publishedAt": "2023-06-20T14:15:54.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -153,7 +203,7 @@
       }
     },
     {
-      "etag": "a0Ww5PL9YF91JL3jXOFIZRsmz7I",
+      "etag": "w0nnb8a00qTX7N_1xn2zXoDib_Q",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5ENTJDQzA2ODM3RkZCODE3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -161,7 +211,7 @@
         "channelTitle": "mikeeei",
         "description": "■ Original https://youtu.be/VxeUab5kWjg\n－Music&Lyrics：koyori様\n\n▼ Vocal/Mix：KOMAINU.\nhttps://twitter.com/komainu_com\n▼ Illustration：さてん\nhttps://twitter.com/august_0088\n▼ Movie：ししのうさ @Datenshi_usa \nhttps://twitter.com/datenshi_usa\n\n▼ Playlist Link：https://youtube.com/playlist?list=PLbJDMeseePAoqOqGDVrYRLMuRv1wB-X5l\n\n▼ Feel free to follow me!\nTwitter：https://bit.ly/3HmR7Lr\nTwitCasting：https://bit.ly/2GkZmcV\nSpotify：https://spoti.fi/3NC0DMZ\nGoods：https://komainu-com.booth.pm/\n\n▼ Please subscribe to my channel！\nhttp://youtube.com/c/KOMAINU\n\n⚠︎ Reproduction prohibited.",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 3,
+        "position": 4,
         "publishedAt": "2023-06-20T14:13:56.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -203,7 +253,7 @@
       }
     },
     {
-      "etag": "zsE7kT7L3FzCtvmr7OzyhKbYK3A",
+      "etag": "k8_RRawrlKvQ3q8qQB-RUVrXI9c",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40MzJBMTgyRDQxM0Q4NDkw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -211,7 +261,7 @@
         "channelTitle": "mikeeei",
         "description": "イラストレーターの のう です。伝説の生物をモチーフに私が描いたキャラに曲を書き下ろしてもらう企画”レゾンデートル”\n\nRaison d'être file 04 “人狼”\nローラー / かいりきベア×のう feat.初音ミク\n\n【人狼】\n推しへの深い愛が疑いに変わった人狼少女。\n邪魔者はすべて晒し、吊るし上げる。\n\nRaison d'être file 01 “Unicorn”[雄之助×のう]https://youtu.be/QeXz9WqRED4 \nRaison d'être file 02 “phoenix”[164×のう]https://youtu.be/rSWVRx-vp_U\nRaison d'être file 03 “Medusa”[なきそ×のう]https://youtu.be/HTWW3xQ3ujM\n\n◆レゾンデートル公式\nチャンネル登録 http://www.youtube.com/channel/UCffUugWeswcGV_qzrTDHY5Q?sub_confirmation=1\nTwitter https://twitter.com/Raisondetre_inf\nTikTok https://www.tiktok.com/@raisondetre_info?\n◆Streaming\nhttps://fanlink.to/kairikibear_roller\n\n---------------------------------------------------------------------------\n\n[Credit]\nMusic：かいりきベア\nhttps://twitter.com/kairiki_bear\nhttps://www.youtube.com/@kairikibear\nIllust & Character Design：のう\nhttps://twitter.com/nounoknown\nMovie：Roly\nhttps://twitter.com/yosinO_mo\nLogo Design：ゆーや\nhttps://twitter.com/yuya67919887\n\n---------------------------------------------------------------------------\n\n[off vocal] \nhttps://www.dropbox.com/sh/390n4r9hs5i56jc/AADDhdWecnfwLsxrTkgCyaLta?dl=0\n\n---------------------------------------------------------------------------\n\n[Lyrics]\nローラーローラー　ロックンローラーがスキ？お好き新規(ルーキー)\nKICK OUT　KICK OUT　ツマミ出セ　ばいばい\nローラーローラー　奥の野良　釘をズキズキ\nKICK OUT　KICK OUT　晒シ上ゲ　ばいばい\n\nローラーローラー　モラルハザード　隙だらけ新規(ルーキー)\nKICK OUT　KICK OUT　THE・生贄　ばいばい\nローラーローラー　邪魔者は　釘をズキズキ\nKICK OUT　KICK OUT　誰一人　いないない\n\nヒトヒトの振り　ヒトヒトを吊り　ヒトヒト欺き　ヒトヒトリ占めに\nあの手この手その手で　潜伏　黒(オオカミ)は誰だ　誰だ誰だ誰だ　誰だ誰だ誰だ\n\n断然もう\n最前ダ　暴れ盤　整番　逆ダイで\n最前列　ねえ　咲いて咲いて最低な処世\n最前ダ　ね　ドセン当然ドンガラ合戦\n最強です　ねえ　対バン対バン　仕切れ　わんわん\n\n晒せ晒せ晒せ　騙せ　晒せ晒せ\nウザったい厄介ヤツは晒せ晒せ晒せ\n荒らせ荒らせ荒らせ　騙せ　荒らせ荒らせ\nウザったい奴みんな　晒せ晒せ晒せ\n荒らせ荒らせ荒らせ\n\n\n散々泣いて散々怒って散々好いて「上手」\n散々吐いて散々切って散々奪って「下手」\n閑散ナイト観客3人のときから…「上手」\n絶対「愛」と　絶対な意図　絶対な偉業「下手」\n\nヒトヒトの振り　ヒトヒト操り　ヒトヒト欺き　ヒトリ二人奈落に？\nあの手この手その手で　潜伏　黒(オオカミ)は誰だ　誰だ誰だ誰だ　誰だ誰だ誰だ\n\n断然もう\n最前ダ　暴れ盤　整番　逆ダイで\n最前列　ねえ　待って待って最低な事件\n\nサイテーだ　腐れ盤　炎上　HOWLING(ハウリング)\n倍テンだ　頭　頭　頭振れ！\nサイテーだ　ね　ドセン俄然ガラガラ唖然\n最凶です　ねえ　対バン対バン　壊れワンマン\n\n晒せ晒せ晒せ　騙せ　晒せ晒せ\nもう脱退ウザったいヤツは晒せ晒せ晒せ\n荒らせ荒らせ荒らせ　騙せ　荒らせ荒らせ\nウザったい奴　全部　晒せ晒せ晒せ\n荒らせ荒らせ荒らせ\n晒せ\n\n---------------------------------------------------------------------------\n\n#ローラー #かいりきベア #レゾンデートル",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 4,
+        "position": 5,
         "publishedAt": "2023-06-19T20:29:33.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -253,15 +303,15 @@
       }
     },
     {
-      "etag": "LVhJaqNSSt3vhNA52tNexMBygfc",
+      "etag": "Doc9wSneysXOP060wIkdL4Og0rQ",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43ODUxMDM4NTYzNzlEMTk0",
       "kind": "youtube#playlistItem",
       "snippet": {
         "channelId": "UCYDjQ7Iq3NYFYnSJ23On4sQ",
         "channelTitle": "mikeeei",
-        "description": "\" Last Order feat.Ina \"\n\nStreaming / DL : https://linkco.re/qA63haum\noff Vocal : https://piapro.jp/t/UzLF\n\nVOCALOID ver :  https://youtu.be/yoTTFT93lkk\n\nMusic : RuLu https://twitter.com/rulu_tokyo\nVocal : 否  @inaI7  https://twitter.com/I7N0T\nIllust : とーがらし https://twitter.com/_tgrs_\nMovie :  Qvy https://twitter.com/Q_quv_s6\n\n・・・・・・・・・・・・・・・・・・・・・・・・・・\nLyrics : \n浅ましい 裏切りの末路です・・ 心地いい愛ゆえの盲信\n指を下せば 舐める皿まで 夢見たならば 堕ちるセレナ―デ\n\n品行方正騙った 僕の頭の中 信仰 陶酔 xxxxxx\n\nダーリン 君に揺れたり意味を知りたい  \n朽ちた木に水をやろう\nダーリン 軽薄な愛だと知っても 心臓は唸ってる \n幸福を願っている\n\n身を任す  靴の音 シンパシー 咄嗟の嘘は仮初の白\n\n品行方正騙った 僕の頭の中 信仰 陶酔 xxxxxx\n\nバージン 罪に触れたい 綺麗ごとばかり \n痛みさえ 蜜のよう\nバージン 愛したい エゴだとしたら \n絶望を孕んでる\nダーリン   君に揺れたり 意味を知りたい \n朽ちた木に水をやろう\nダーリン 軽薄な愛だと知っても \n心臓は唸ってる\n\nダーリン 軽薄な愛だと知っても 降伏を願っている\n\n#RuLu #否",
+        "description": "\" Last Order feat.Ina \"\n\nStreaming / DL : https://linkco.re/qA63haum\noff Vocal : https://piapro.jp/t/UzLF\n\nVOCALOID ver :  https://youtu.be/yoTTFT93lkk\n\nMusic : RuLu https://twitter.com/rulu_tokyo\nVocal : 否  @inaI7  https://twitter.com/I7N0T\nIllust : とーがらし https://twitter.com/_tgrs_\nMovie :  Qvy https://twitter.com/Q_quv_s6\n\n・・・・・・・・・・・・・・・・・・・・・・・・・・\nLyrics : \n浅ましい 裏切りの末路です・・ 心地いい愛ゆえの盲信\n指を下せば 舐める皿まで 夢見たならば 堕ちるセレナ―デ\n\n品行方正騙った 僕の頭の中 信仰 陶酔 xxxxxx\n\nダーリン 君に揺れたり意味を知りたい  \n朽ちた木に水をやろう\nダーリン 軽薄な愛だと知っても 心臓は唸ってる \n幸福を願っている\n\n身を任す  靴の音 シンパシー 咄嗟の嘘は仮初の白\n\n品行方正騙った 僕の頭の中 信仰 陶酔 xxxxxx\n\nバージン 罪に触れたい 綺麗ごとばかり \n痛みさえ 蜜のよう\nバージン 愛したい エゴだとしたら \n絶望を孕んでる\nダーリン   君に揺れたり 意味を知りたい \n朽ちた木に水をやろう\nダーリン 軽薄な愛だと知っても \n心臓は唸ってる\n\nダーリン 軽薄な愛だと知っても 降伏を願っている\n\n#RuLu #否\n・・・・・・・・・・・・・・・・・・・・・・・・・・\nR u L u \nTwitter : https://twitter.com/rulu_tokyo\nInstagram : https://www.instagram.com/rulu_tokyo/\nStreaming  : https://www.tunecore.co.jp/artists/rulu\nCD : https://rulu-tokyo.booth.pm/",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 5,
+        "position": 6,
         "publishedAt": "2023-06-16T16:05:00.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -303,7 +353,7 @@
       }
     },
     {
-      "etag": "Wo0ZUEB6DOjBVUcqsEvoS_jKSnw",
+      "etag": "B47hKGsAL_PfJbODBygqJ0kUCr8",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5DREUwMzM5MzMwNUIwMzg4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -311,7 +361,7 @@
         "channelTitle": "mikeeei",
         "description": "ｯｯｯｯｯｯ\nってやつがtrapってやつだ(最近覚えた)\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n- Original -\nロビン / 初音ミク\nhttps://youtu.be/3IP2TZ3ZyWQ\n\nIllust, movie / うよ森 \n( https://twitter.com/uyouyoda ) \nmusic / バラバラ @the_barbala \n( https://twitter.com/the_barbala )\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nVocal & Vocal Mix & Encode\n葉つつゆ\n\n- Twitter -  \n【 https://twitter.com/ha_tsutsuyu 】\n【 https://twitter.com/ha_tsutsuyu_ 】\n- Second channel -\n【 @tsutsuyu2 】\n\n- Vocal Only (pixivFANBOX) -\n【 準備中 】\n\n- Mix依頼等 -\n【 https://coconala.com/users/2513199/ 】\n\n- Others -\n【 https://lit.link/tsutsuyu 】\n\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n〖 おすすめのおうた 〗\nhttps://youtu.be/TjkI0ySzEr4\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n±0🎤\n\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n#ロビン #バラバラ #歌ってみた #cover #葉つつゆ",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 6,
+        "position": 7,
         "publishedAt": "2023-06-16T14:28:55.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -348,7 +398,7 @@
       }
     },
     {
-      "etag": "c_T0Zufpa9I6FBqQX_Fhz2Xl_gw",
+      "etag": "aWFSfYIAZOQcsOaFwrPC5i7PX6c",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44QTJDNzA4RTBEOEE3QTRC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -356,7 +406,7 @@
         "channelTitle": "mikeeei",
         "description": "わたしの好きな歌を歌います。63曲目。\n\n\nカバーさせていただきました。\n\n「お呪い」\n作詞・作曲：なきそ\nhttps://youtu.be/zxYdPypVQvQ\n\n\nIllustration：shirone（ https://twitter.com/coxo_ii ）\n\n\nMix：＄ＫＩＹＡＫＩ＄ＫＩ\n\n---\n\n2021.12.8リリース\nヰ世界情緒 1st ALBUM「創生」\nStreaming & Download：https://lnk.to/isekaijoucho_creation\nCD：https://findmestore.thinkr.jp/blogs/features/isekaijoucho211023#item_01\n\n---\n\nヰ世界情緒(いせかいじょうちょ)Twitter　https://twitter.com/isekaijoucho\nKAMITSUBAKI STUDIO　https://twitter.com/kamitsubaki_jp\n\n#ヰ世界情緒\n#KAMITSUBAKI_STUDIO",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 7,
+        "position": 8,
         "publishedAt": "2023-06-14T10:01:22.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -398,7 +448,7 @@
       }
     },
     {
-      "etag": "lanEPb8AKg_1zRjGWO2gnrn_mTM",
+      "etag": "6kF2HLVQKJLav9-_C_a0saALBGQ",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xM0NBMDQ2QTBFM0U1MzZB",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -406,7 +456,7 @@
         "channelTitle": "mikeeei",
         "description": "@x0o0x_\n\nConcept Art：游​⁠@stdio_nameraka \nMusic Video：obmolot @yokaibanish\n\ninst\nhttps://drive.google.com/file/d/1b6qB1WVdoi9qrL2lftt0YIRygYNVeIJh/view?usp=sharing",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 8,
+        "position": 9,
         "publishedAt": "2023-06-10T16:05:36.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -448,7 +498,7 @@
       }
     },
     {
-      "etag": "PA2zL80DPC3Ory5NSsy6j-iyqig",
+      "etag": "vr_jHVXENpKv9I4oxbjsMouKwyw",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44QjMwRUVEMjVFREEyMTlD",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -456,7 +506,7 @@
         "channelTitle": "mikeeei",
         "description": "水澄アサ 音源配布はこちら\nhttps://bowlroll.net/file/301802\n\n水澄アサ / Misumi Asa は、深水さやの歌声を元にして作成された歌声合成ソフトウェアUTAUの音源ライブラリです。\n\n\nオリジナル / いよわ 様 @igusuri_please \nhttps://youtu.be/2b1IexhKPz4\n\nRemix / Unreal Staff (@UnrealStaff)\nhttps://twitter.com/UnrealStaff\n\n歌 / 水澄アサ(UTAU)\n\n調声 / 深水さや (@sayausa222)\nhttps://mobile.twitter.com/sayausa222\n\nMIX /ししおー(@440mix)\nhttps://mobile.twitter.com/440mix\n\n絵 / spie\n\n映像 / su. (@s_ue___)\nhttps://mobile.twitter.com/s_ue___\n\nʚ SpecialThanks ɞ\n原音設定 / 八歌 様\nhttps://twitter.com/yauta7577\n\nUST / まきゅ 様 @user-ve7ys5em4y \nhttps://youtu.be/P8bbl8_-7w8\n\n#UTAU\n#水澄アサ\n#きゅうくらりん",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 9,
+        "position": 10,
         "publishedAt": "2023-06-10T14:45:56.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -498,7 +548,7 @@
       }
     },
     {
-      "etag": "B6Z2uNm1S7QTojbaKzrfJkgx-FM",
+      "etag": "0rO0Lxf7FKlLkQUiiX_v6cLvZXs",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4yRjUwQTI5RjEyQzVEMDM1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -506,7 +556,7 @@
         "channelTitle": "mikeeei",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 10,
+        "position": 11,
         "publishedAt": "2023-06-09T14:35:45.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -548,7 +598,7 @@
       }
     },
     {
-      "etag": "cGNY06blRgK-bo9GLcz6oRNKsyM",
+      "etag": "QJLZ3K5XkjYae3iKIIo29Utg7rk",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43RDYzRkY0RjZGQTg5QTJG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -556,7 +606,7 @@
         "channelTitle": "mikeeei",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 11,
+        "position": 12,
         "publishedAt": "2023-06-09T14:34:56.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -598,7 +648,7 @@
       }
     },
     {
-      "etag": "bwC2NFak17wiM6uCRj0x0a_widY",
+      "etag": "_zCIEvuMFBAhpxDKKrI48aXRKZ8",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42QjlFNEIzNUQ5M0IzRTRD",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -606,7 +656,7 @@
         "channelTitle": "mikeeei",
         "description": "",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 12,
+        "position": 13,
         "publishedAt": "2023-06-09T14:34:32.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -643,7 +693,7 @@
       }
     },
     {
-      "etag": "zyZfuD0AntCn9DGsWEdTcNylQ7I",
+      "etag": "uAR8AdhpmdpYp_KWN7hsRtcEs8o",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5DQjZBMEJFRDY2MzQyRjRC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -651,7 +701,7 @@
         "channelTitle": "mikeeei",
         "description": "本当にお久しぶりです\n\n本家様　https://www.youtube.com/watch?v=HOz-9FzIDf0\n\n作詞作曲　ハチ様\n\n絵　△○□×\n映像　MONO-Devoid　\n\n歌／アレンジ　まふまふ　https://twitter.com/uni_mafumafu",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 13,
+        "position": 14,
         "publishedAt": "2023-06-09T11:55:00.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -693,7 +743,7 @@
       }
     },
     {
-      "etag": "CyjmP7CMvs6JYknFzbeeXofnp2g",
+      "etag": "ODWaUb4AmphyXByyJ_yneCVDv9E",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42MTY4OTRDNjQxRjc1OUI2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -701,7 +751,7 @@
         "channelTitle": "mikeeei",
         "description": "喋ってほしいセリフぜんぶ詰め込んだ\nどのセリフが好きですか？\n\nQ.シィちゃんて誰？\nA.ボカロ花ちゃんのCeVO AI版キャラ\n\n曲・絵：きさら(https://twitter.com/kisalaundry )\n映像：瀬戸わらび(https://twitter.com/yk__rm )\n声：Ci flower\nインスト：https://piapro.jp/t/WfeM\n\n#ボカロ #CeVIO #Ci_flower",
         "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 14,
+        "position": 15,
         "publishedAt": "2023-06-09T11:48:37.000Z",
         "resourceId": {
           "kind": "youtube#video",
@@ -737,56 +787,6 @@
         "title": "シィちゃんクライシス / きさら feat. Ci flower",
         "videoOwnerChannelId": "UC49ZFh9hYLpHIN_UbL9wE0g",
         "videoOwnerChannelTitle": "きさら"
-      },
-      "status": {
-        "privacyStatus": "public"
-      }
-    },
-    {
-      "etag": "qKvUxVkRqyeFiP9lNe1I9fQy0wk",
-      "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5CNTUwM0UxODZBOTUwOTYy",
-      "kind": "youtube#playlistItem",
-      "snippet": {
-        "channelId": "UCYDjQ7Iq3NYFYnSJ23On4sQ",
-        "channelTitle": "mikeeei",
-        "description": "いよわさんの楽曲「あだぽしゃ」を歌ってみました。\n\n素敵な本家様  \nhttps://youtu.be/Wr-2xcQkke4\n\n\nMusic.いよわ様\nhttps://mobile.twitter.com/igusuri_please\n\n\nMob\nhttps://mobile.twitter.com/mob_chandayo\n\n\nMix.Enc.Meis Clauson様\nhttps://mobile.twitter.com/meisclauson\n\n#あだぽしゃ  #いよわ  #歌ってみた #女性 \n#cover  #Mob  #歌い手  #初音ミク #ボカロ",
-        "playlistId": "PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2",
-        "position": 15,
-        "publishedAt": "2023-06-08T16:28:32.000Z",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "a8p8ci_tFFE"
-        },
-        "thumbnails": {
-          "default": {
-            "height": 90,
-            "url": "https://i.ytimg.com/vi/a8p8ci_tFFE/default.jpg",
-            "width": 120
-          },
-          "high": {
-            "height": 360,
-            "url": "https://i.ytimg.com/vi/a8p8ci_tFFE/hqdefault.jpg",
-            "width": 480
-          },
-          "maxres": {
-            "height": 720,
-            "url": "https://i.ytimg.com/vi/a8p8ci_tFFE/maxresdefault.jpg",
-            "width": 1280
-          },
-          "medium": {
-            "height": 180,
-            "url": "https://i.ytimg.com/vi/a8p8ci_tFFE/mqdefault.jpg",
-            "width": 320
-          },
-          "standard": {
-            "height": 480,
-            "url": "https://i.ytimg.com/vi/a8p8ci_tFFE/sddefault.jpg",
-            "width": 640
-          }
-        },
-        "title": "あだぽしゃ / いよわ(cover) - Mob",
-        "videoOwnerChannelId": "UCEI3RX65wVDfUUYcDSdVwiA",
-        "videoOwnerChannelTitle": "Mob"
       },
       "status": {
         "privacyStatus": "public"
@@ -1828,7 +1828,7 @@
       }
     },
     {
-      "etag": "BLc7mjtuK2RMQA5de8S47cYZNWk",
+      "etag": "r09j4qw6FML0NEUAeWzlQI2ejT0",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43REE1OThCMjdFRjcxREU1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -2406,7 +2406,7 @@
   }
 },
 {
-  "etag": "5JkpP3XrRN5uQV1nbDndXACCYPI",
+  "etag": "qO5vwSPuxvtlF7vV2LTc95sONmA",
   "items": [
     {
       "etag": "MG2jojAKZMGd0Ph2YVpcNdoXhVY",
@@ -2659,7 +2659,7 @@
       }
     },
     {
-      "etag": "nQURtHN4DFCnbYMqL-v_NDYk_CI",
+      "etag": "XIwZb9gVBoSTtU1sAwHpz0kpQ_8",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40OTc0QzEyMzQ0RTg2MkZD",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3249,7 +3249,7 @@
       }
     },
     {
-      "etag": "wbSTMdrrnZhxnlKtM3EiLADv8RA",
+      "etag": "gI53SiTH38epbLnk-nM11fxcc9k",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FRjUxQjNDMjc4QTY1NEVB",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3429,7 +3429,7 @@
       }
     },
     {
-      "etag": "fMnJVJWNfQ4KBAH8JBuDwR3vKWk",
+      "etag": "kjSS4k8vLwBO7Nm7KAiC9YdzUDc",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zRTBDRTRGRURDOUFFOEZC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3529,7 +3529,7 @@
       }
     },
     {
-      "etag": "24wSnWPUTRWLina47AMtzRvP7Rg",
+      "etag": "uhs-hGzTRfrkryt3TDklD5pa4sU",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zNTFCQzUxMEVDOTBCMzU0",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -3829,7 +3829,7 @@
       }
     },
     {
-      "etag": "avKLLYdzF6z6Bli7C6_6pB0WVHQ",
+      "etag": "4dd05zuJzAfOvZKlx1Xvv7-64Yo",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40RkM1MTBDM0M3MzNCQjZF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -4019,7 +4019,7 @@
       }
     },
     {
-      "etag": "s6A4RZ-IHZ4gjtRDLedlxemMqUU",
+      "etag": "-N8LP7TTwwk59QCGDonoWaKASYo",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44NzMxMEU3Nzc2OTJENzgw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -4833,10 +4833,10 @@
   "prevPageToken": "EAEaBlBUOkNESQ"
 },
 {
-  "etag": "pmBehbpyPYUX1m0VHRtWg7A83j4",
+  "etag": "zjqlp1qqlhiaaws13Wg1suPDsCY",
   "items": [
     {
-      "etag": "w5nuJ-0yrdUnwX8EGEZJH160Pew",
+      "etag": "cG8XDRcZv_UxpDz_p5ePv1-xThY",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4yNjNBMEFFM0NGQkQ5NkFC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -4936,7 +4936,7 @@
       }
     },
     {
-      "etag": "3qzg1P0V4BcbwghltdhyK1xsSmo",
+      "etag": "ChMLOkndGwDXoi3hpBotH0prMgA",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zQkM4NTU2NDZBMkI0Q0ZG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -5521,7 +5521,7 @@
       }
     },
     {
-      "etag": "8y2JutfHDwfUNsL39NnLUNGHy5c",
+      "etag": "roxtR2d9d_E8GaC03RP9Do9CctY",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FNzk5MERGNUMzOUVEODlG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -7226,7 +7226,7 @@
       }
     },
     {
-      "etag": "qHnXulOkYBPN97_GBF9MWlvns4M",
+      "etag": "kMnSNlGY248tPLiADHy-pjkckhI",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5ENjBBMUU1QjQ5QUZEMTE3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -7285,7 +7285,7 @@
   "prevPageToken": "EAEaBlBUOkNHUQ"
 },
 {
-  "etag": "qn7cQC_neXK15ciQAS_0oFBwJmE",
+  "etag": "SFZEk9_l-pN9Bqg0h13DFNoX5m0",
   "items": [
     {
       "etag": "b3EPcfSjSh5L-WMOOKxoftAwF9E",
@@ -7433,7 +7433,7 @@
       }
     },
     {
-      "etag": "ZYUHjvG6oa4Nlr-SMeAjpWtRJUw",
+      "etag": "7P6dpHRgxEnLOcMskXwhXmVySYw",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40MzZFQTE5QjVGQTI2NEFC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -7533,7 +7533,7 @@
       }
     },
     {
-      "etag": "bnCURMmsHOlksV1hg0J7XU1NUpU",
+      "etag": "LpahQNrNcx5ChWFO3LTdmZh66wg",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40ODQ3MThDNkMyNjUzQUU4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -8483,7 +8483,7 @@
       }
     },
     {
-      "etag": "2Q_8ICLF96bYmu6iWLTK_YC89cA",
+      "etag": "eFTVl7HUYNPjhRjx9j6PRGTPrAc",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5ENUUzNDQ4RjRBOEVFQkRD",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -8728,7 +8728,7 @@
       }
     },
     {
-      "etag": "lfBYGtdC2ZAhFcg5x2N9HISjYps",
+      "etag": "HdJAD_V7tR-wvtRlRl29mIFgiA0",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi40MDJCMzYzMEU2NzcwMjgz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -8778,7 +8778,7 @@
       }
     },
     {
-      "etag": "Pxs8Gb5BBr6UYdn_wTZzDKRcxQ4",
+      "etag": "npommASuls7yFGtaWDXhOI5hwMg",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xOEU5RDM3NEU4MzA4QzNE",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -8828,7 +8828,7 @@
       }
     },
     {
-      "etag": "8w2QxR_4Uy_XaVQchrbYo2MIMPc",
+      "etag": "WjGWqDabhsilKGC17qElo9-DR5U",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43RjlDRkUwMEQ4MEM5RDlC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -8878,7 +8878,7 @@
       }
     },
     {
-      "etag": "SZP0Q63aHJoII4RBKkULcOA3Cy8",
+      "etag": "qmjXC7Ao2MOzvNVsJxvVB_sQdVk",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zMDFCRDYxQUY1QjRDMjIw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -8928,7 +8928,7 @@
       }
     },
     {
-      "etag": "2B12p1i9Gabg3K0H4R2iNeQN2xk",
+      "etag": "RgrHBU5Zr4lZCI8Sz14VOIj0lts",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5DQzQ0MEE1MDNENzc5MTU4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -9668,7 +9668,7 @@
       }
     },
     {
-      "etag": "ObpAbyvgAAQ50gvWtZCVF-SX1hg",
+      "etag": "qgVEWyCRdG6yFjZim11blP6AdBQ",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi42N0Q3M0QwMUVCM0U0RDkw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -9718,7 +9718,7 @@
       }
     },
     {
-      "etag": "AoZ9egNoKvZW_9Ggk0X_Y4-0arU",
+      "etag": "6e0LdsffCkbuIeLVp-_bae_ZRdQ",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zREU1Njg4NDUwMjQ0NDMz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -9777,7 +9777,7 @@
   "prevPageToken": "EAEaB1BUOkNKWUI"
 },
 {
-  "etag": "NyyX3JmjhoW7qYXBEFxKcmmg0B8",
+  "etag": "44-HnY800rI82WUie4KCMgwh58U",
   "items": [
     {
       "etag": "lNouq86CtnzyW87Bkwu1hVynNYY",
@@ -10020,7 +10020,7 @@
       }
     },
     {
-      "etag": "tlehl9pI4cthw6zgSFlOHVAM7Xo",
+      "etag": "UIUxdQr6OWdQAyyrQ5czVkxgFL4",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5EOUY5Mzk1MTdBNkFERUU3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -10570,7 +10570,7 @@
       }
     },
     {
-      "etag": "DLqkV_KBJRlgS19goY4yuODaGio",
+      "etag": "1RSgZ8P3b9gOvc789rKJ1tZKSLE",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4wRUM3OTg0RjRFRTU5MEVG",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -10620,7 +10620,7 @@
       }
     },
     {
-      "etag": "aweXdCFjROFd6e5dNee5DCb65rw",
+      "etag": "FI1MC6SQt5aFIAvGeAAqPM7z__s",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5CNTYzQUI0RjNCMjEyOUMz",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -10670,7 +10670,7 @@
       }
     },
     {
-      "etag": "DII0fUVHKEmOqhfnT0oDXVqmqhM",
+      "etag": "IzkdREsojDFzGDaPqfjdbbUVqM4",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5GQUJBODVFNjg5ODc2NTBE",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -10720,7 +10720,7 @@
       }
     },
     {
-      "etag": "x4pMdE5ZiHt6ANZoayyh0UbiHqU",
+      "etag": "PmRJojpMaLCZQmaqLbYs-B1QMEs",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5DNDk4NjQwREY1NjBEMDI2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -10770,7 +10770,7 @@
       }
     },
     {
-      "etag": "e5aTLC8VnDlYEonndUWJXWubY-E",
+      "etag": "P2Rdd_fFaHbTcQr_1V2uTDiSXAc",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5GRjcyMjRFMEEyNDRENTA5",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -10820,7 +10820,7 @@
       }
     },
     {
-      "etag": "DCu4PhZTR6L_vdxKTsXcp-Uf4ho",
+      "etag": "_po8uG3IW0nWcHLC_ZJspcQd8JA",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zQTc0QzNGRDc2MUQzOTU4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -11470,7 +11470,7 @@
       }
     },
     {
-      "etag": "sJKDXK65sZ3yulX1ls4oL5USZf0",
+      "etag": "wjsIamxY1y8O1syxWwPfIo1P_-0",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4zMjMzODQzNUE5RUQ0OEY4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -11670,7 +11670,7 @@
       }
     },
     {
-      "etag": "h0YsRT5_JRH_RdMA4jiYCe4EPnk",
+      "etag": "4vjTSCB-9x7GADkeqrrXfcE4h_s",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5GRTg5NTM0Q0U2RkYwQTE4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -11720,7 +11720,7 @@
       }
     },
     {
-      "etag": "LnqfEWMD038Xio5-5yy-C0sbQrM",
+      "etag": "WUyb-73_6-MiRvEqdbxKwVaiTic",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44RTBFMDA1M0M3QUJGN0NF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -11770,7 +11770,7 @@
       }
     },
     {
-      "etag": "VNF__ycgfNLcyYN1B2rhWu0KVaY",
+      "etag": "6gjYQWtGsIQNPgxizz6RfLe7I1w",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5FMDQ2MzUyQTE5NjVGRTUy",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -11820,7 +11820,7 @@
       }
     },
     {
-      "etag": "-aWm6OVEFCowNI6s4QNYw717w9g",
+      "etag": "SnAg1bINQlsCLWC4aTdPbG4ICa8",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5CRkQ2M0EyODc5OTBEQ0Ux",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -12274,7 +12274,7 @@
   "prevPageToken": "EAEaB1BUOkNNZ0I"
 },
 {
-  "etag": "FTH0KzDxjUX1K3-4x9DYU-ZDPzQ",
+  "etag": "x-g8pYm77W2xm1CcHLHq2RU7yG4",
   "items": [
     {
       "etag": "Vo68FnyLgUgVAzvPrePAdi3RGig",
@@ -12567,7 +12567,7 @@
       }
     },
     {
-      "etag": "QCfWeYvL2r2Eyj-CDcAgmqOE8Uk",
+      "etag": "8SYIXflhzCS_YLlQAk9Hb0x6lvI",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BMjIxMjQ4MTYyMzQwNEYw",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -12907,7 +12907,7 @@
       }
     },
     {
-      "etag": "8gew4rR1Q9sTlJXrH6f5uR6CBKs",
+      "etag": "3OQxnYDYKLmz5ae8I6VLFrvuKCQ",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4yNkEyQjg1MjMxRjZEMThC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -14726,7 +14726,7 @@
   "prevPageToken": "EAEaB1BUOkNQb0I"
 },
 {
-  "etag": "JRDKJYTClk0SZQjbKpVXgqkRCpw",
+  "etag": "zHPqwWPWySj_lG6nd6a3g9FTUFY",
   "items": [
     {
       "etag": "_H-qeMNsRW7-dMYMK1Z8f6PPb9w",
@@ -14829,7 +14829,7 @@
       }
     },
     {
-      "etag": "m2SBXwzYCMa2CMxcY7zLF4NFzso",
+      "etag": "l5IRwpvkWoTLgzu0b_t8-6awVdw",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi45QkJFMDA5MUJGODNGMkY2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -15409,7 +15409,7 @@
       }
     },
     {
-      "etag": "uB2YiYPTS_iCKPBsc7yEu-0DQl4",
+      "etag": "5kQdNPaSeb479Hkx1icxS6Zlxw4",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4wMUM3OUNGRDRERUUwQzdC",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -15549,7 +15549,7 @@
       }
     },
     {
-      "etag": "SJa2wMoyWD9ZG527irDrZcLfaMM",
+      "etag": "r6gqKU0NG8toDBZswTpFcZt4zOA",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5ERkFEMTk1N0JBNjU0MzA4",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -15595,7 +15595,7 @@
         "videoOwnerChannelTitle": "xea"
       },
       "status": {
-        "privacyStatus": "public"
+        "privacyStatus": "unlisted"
       }
     },
     {
@@ -16984,7 +16984,7 @@
       }
     },
     {
-      "etag": "xWrADXKZaL0k6YjvQwV-GXlTRow",
+      "etag": "YGE6zteV1RYlxkY6-_IqQbL4HeY",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44ODA1RDFFM0Q4OTY1MEJF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -17188,7 +17188,7 @@
   "prevPageToken": "EAEaB1BUOkNLd0M"
 },
 {
-  "etag": "eY6q5F60lxha-eCJmnW7ihT0Bcw",
+  "etag": "8kurw2IuXCVi5wzHayPHMcpgapA",
   "items": [
     {
       "etag": "sSz0jcbGrYEE8a9RYtVT0OcMyHw",
@@ -17541,7 +17541,7 @@
       }
     },
     {
-      "etag": "5rynOIGizd6ypBGf3Geq5I2vdmo",
+      "etag": "_hZ80rr3g8siWAgV0DGjd9MIsus",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44RUEzOEE2MDE4MDM2MTky",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -19101,7 +19101,7 @@
       }
     },
     {
-      "etag": "gnqp6FyOhe7t3xh1Cu1Y6PfxMUE",
+      "etag": "TXfyEbDhKo5MUNr4JdprhPMBIXo",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5CMERDMzBCRkNCQzdENkU2",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -19551,7 +19551,7 @@
       }
     },
     {
-      "etag": "qgBXiTK8Zzx5JUiwJDNKsexkBr8",
+      "etag": "s0GLmfR76UVZKjZPKy2HJmfl0ok",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5EQzY3OTQyMTc2ODlCOEM3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -19660,7 +19660,7 @@
   "prevPageToken": "EAEaB1BUOkNONEM"
 },
 {
-  "etag": "EP5N7lUN_R5SFfMXabcLu62YNuU",
+  "etag": "JH5pb92Z8YhNcB99khq8MTAeu-o",
   "items": [
     {
       "etag": "qbju-C2eCJbzrzwmEIocgR8vqwE",
@@ -20593,7 +20593,7 @@
       }
     },
     {
-      "etag": "9o50QxWzwL2AZ2IAr4_rc9AHqog",
+      "etag": "G5jlqdStMh7Xwsg-AZ5VMMHIBAM",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi43QzQ5MUVCMEQ2QzJERjI1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -21173,7 +21173,7 @@
       }
     },
     {
-      "etag": "EqluEM6teTbCTNiMCof81lDkdAs",
+      "etag": "e2bgohmtYdA8dpYbqDB__CwtFK4",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4wQzZFNDlFNkI3MDBBMDcx",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -21763,7 +21763,7 @@
       }
     },
     {
-      "etag": "xe7Kz0FOSMnq03vfzqgUuJBDqAc",
+      "etag": "IhOO7tKj58_QHzD4mzYY2frDzuo",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4yQkQ3QUY2RTlGRjM3MTJE",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -21863,7 +21863,7 @@
       }
     },
     {
-      "etag": "IAzr1xfknojTuVMshDVp4TBToxY",
+      "etag": "dsZDcOLBg8XZjHnKogFRUjf8GbE",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5DRDZEMDAwRUY1NTJCODA1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -22122,7 +22122,7 @@
   "prevPageToken": "EAEaB1BUOkNKQUQ"
 },
 {
-  "etag": "iAIOihSLyXKNZED048ZA4uwejuo",
+  "etag": "0gifRYPWQAcyiyCvuM0ios9i_P0",
   "items": [
     {
       "etag": "1G9ekugw_m8BCwrT97k4qbaVXnI",
@@ -23560,7 +23560,7 @@
       }
     },
     {
-      "etag": "zGhoKHpFM_JMw4j1UGO-xJcNC1E",
+      "etag": "LEwPenLmTgAOIWaskaoEGAKGWmA",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4yQUFFQjdBMkNCNzYzMzQ5",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -27051,7 +27051,7 @@
   "prevPageToken": "EAEaB1BUOkNQUUQ"
 },
 {
-  "etag": "FNh3yZigSPjQbsc7cXrdFIqE47A",
+  "etag": "tbGXj2Tq0_3VaEBLqbL0miGOPZA",
   "items": [
     {
       "etag": "LxtWS0woqq3AOT7e7OKFUMqOe_8",
@@ -27199,7 +27199,7 @@
       }
     },
     {
-      "etag": "eXPn33KdEC4xaq_CMCs3pnI7ZEc",
+      "etag": "X2WE7oZTcZtSsOywLWS20Fe9KsQ",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi41MkJFMDEwMDIxMkRDREQ3",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -27594,7 +27594,7 @@
       }
     },
     {
-      "etag": "5asLTdZd9AiOwFk6shoPDcbiKJ8",
+      "etag": "4GfJw2qP6Fbk33Abyrp7T5pePTI",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5EQTkxMkVFODRENEJBMERF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -28544,7 +28544,7 @@
       }
     },
     {
-      "etag": "uiUG8Ty_UGlUotyoYL1De98_apQ",
+      "etag": "CJJdayEGgEnSErzUZ0NvfitWB_0",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi4xREVBMTg1ODg1M0JCQUE1",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -29139,7 +29139,7 @@
       }
     },
     {
-      "etag": "YVfVndx9Yd3R_g3AASMmg7-HHxM",
+      "etag": "6wrDQmoU0EfMhwGsMv_43C2HvCs",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi44REI4QUZDRDI5MDc4Q0NF",
       "kind": "youtube#playlistItem",
       "snippet": {
@@ -29548,7 +29548,7 @@
   "prevPageToken": "EAEaB1BUOkNLWUU"
 },
 {
-  "etag": "OwgHCO6znMQiVpH8kEwk0FqtD_M",
+  "etag": "6mKgQIIrO-OlPcN-71z2lSzR31c",
   "items": [
     {
       "etag": "BR8YFw4dDc8UPEtpiIqZXt0ddMc",
@@ -29746,7 +29746,7 @@
       }
     },
     {
-      "etag": "hG3KaXGrJJfTlcvHQIRGNPzyZzU",
+      "etag": "jW8W7spDSzv8_e0qaWeSW2xzlp8",
       "id": "UEw2WTJIM1dneE84RWFBZWluNHFqaDBvbVE4MUF0SkpjMi5BNzdEQzY0REQzQTEyN0U3",
       "kind": "youtube#playlistItem",
       "snippet": {
