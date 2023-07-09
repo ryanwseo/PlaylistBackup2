@@ -51,9 +51,9 @@ public class Main {
      * @throws GeneralSecurityException, IOException, GoogleJsonResponseException
      */
     public static void main(String[] args) throws GeneralSecurityException, IOException {
-        managedPlaylists.add(new Playlist("PL6Y2H3WgxO8G--X_l6SP0faS6gFR4tJJu"));
-        managedPlaylists.add(new Playlist("PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY"));
-        managedPlaylists.add(new Playlist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2"));
+        managedPlaylists.add(new Playlist("PL6Y2H3WgxO8G--X_l6SP0faS6gFR4tJJu"));  // Side Culture
+        managedPlaylists.add(new Playlist("PL6Y2H3WgxO8EybvA8KeKUweGL300AfswY"));  // Sing-a-long
+        managedPlaylists.add(new Playlist("PL6Y2H3WgxO8EaAein4qjh0omQ81AtJJc2"));  // Ryan's Cultured Playlist
 
         for (Playlist playlist : managedPlaylists) {
             playlist.retrieveVideos();
@@ -62,4 +62,5 @@ public class Main {
         }
 
     }
+
 }
