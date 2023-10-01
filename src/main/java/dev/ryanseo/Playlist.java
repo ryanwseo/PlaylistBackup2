@@ -32,7 +32,7 @@ public class Playlist {
     public String getPlaylistId() {
         return playlistId;
     }
-
+    
     public String getPlaylistName() {
         return playlistName;
     }
