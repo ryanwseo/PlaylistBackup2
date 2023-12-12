@@ -29,7 +29,7 @@ public class Main {
 
     private static final String APPLICATION_NAME = "Playlist Backup";
     private static final GsonFactory JSON_FACTORY = GsonFactory.getDefaultInstance();
-    private static final ArrayList<Playlist> managedPlaylists = new ArrayList<>(10);
+    private static final ArrayList<Playlist> managedPlaylists = new ArrayList<>();
 
     /**
      * Build and return an authorized API client service.

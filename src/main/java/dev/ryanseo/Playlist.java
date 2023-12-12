@@ -131,7 +131,7 @@ public class Playlist {
 
     public void printPlaylist() {
         for (Video v : getVideos()) {
-            if (v.getTitle() != null) {
+            if (v.getTitle() != null || v.getPrivacyStatus() != PrivacyStatus.PRIVATE) {
                 System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle() + "  |  Pos: " + v.getPosition());
             }
             else {
