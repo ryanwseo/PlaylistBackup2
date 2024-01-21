@@ -14,6 +14,7 @@ import java.security.GeneralSecurityException;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Objects;
 
 import static com.google.gson.JsonParser.parseString;
 
@@ -130,12 +131,15 @@ public class Playlist {
     }
 
     public void printPlaylist() {
+        // cursed try catch
         for (Video v : getVideos()) {
-            if (v.getTitle() != null || v.getPrivacyStatus() != PrivacyStatus.PRIVATE) {
-                System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle() + "  |  Pos: " + v.getPosition());
-            }
-            else {
+            try {
+                if (!v.getTitle().equals("null") || v.getPrivacyStatus() != PrivacyStatus.PRIVATE) {
+                    System.out.println(v.getTitle() + "  |  PrivacyStatus: " + v.getPrivacyStatus() + "  |  VideoOwner: " + v.getVideoOwnerChannelTitle() + "  |  Pos: " + v.getPosition());
+                }
+            } catch (Exception e) {
                 throw new RuntimeException(String.format("The video at position %d (ID: %s) is misbehaving", v.getPosition(), v.getVideoId()));
+
             }
         }
 
